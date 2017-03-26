@@ -1,0 +1,25 @@
+{
+    "id": "0070",
+    "name": "one-arm-barbell-floor-press",
+    "title": "One Arm Barbell Floor Press",
+    "primer": "This is an exercise for chest and triceps strengthening.",
+    "type": "isolation",
+    "primary": [
+        "pectoralis major"
+    ],
+    "secondary": [
+        "triceps brachii"
+    ],
+    "equipment": [
+        "barbell"
+    ],
+    "steps": [
+        "Lie flat on your back with your knees bent and your feet firmly on the floor.",
+        "Draw in your abs and contract your lats, and glutes.",
+        "Have your partner hand you the bar and with your bicep parallel to the floor lift and extend your arm fully so it is straight.",
+        "Return to the starting position.",
+        "Complete reps and switch arms."
+    ],
+    "tips": [],
+    "references": []
+}

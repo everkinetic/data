@@ -1,0 +1,23 @@
+{
+    "id": "0041",
+    "name": "smith-machine-shoulder-shrugs",
+    "title": "Smith Machine Shoulder Shrugs",
+    "primer": "This is an exercise for shoulder strengthening.",
+    "type": "isolation",
+    "primary": [
+        "deltoid"
+    ],
+    "secondary": [],
+    "equipment": [
+        "smith machine"
+    ],
+    "steps": [
+        "Place the barbell at waist height.",
+        "Stand with your feet shoulder width apart and your abs drawn in.",
+        "Grasp the bar with an overhand grip and straightened arms.",
+        "As you lift the bar allow the weight to pull your shoulders down, shrug your shoulders up and to the back.",
+        "Hold for a moment and then return to starting position."
+    ],
+    "tips": [],
+    "references": []
+}

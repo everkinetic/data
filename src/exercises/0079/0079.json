@@ -1,0 +1,28 @@
+{
+    "id": "0079",
+    "name": "straight-arm-dumbbell-pullover",
+    "title": "Straight Arm Dumbbell Pullover",
+    "primer": "This is an exercise for chest and shoulder strengthening which mainly targets the rotator cuff muscles.",
+    "type": "isolation",
+    "primary": [
+        "pectoralis major"
+    ],
+    "secondary": [
+        "triceps brachii",
+        "latissimus dorsi",
+        "deltoid"
+    ],
+    "equipment": [
+        "flat bench",
+        "dumbbell"
+    ],
+    "steps": [
+        "Lie on a flat bench with your feet flat on the floor and your head at the end of the bench.",
+        "Grasp a dumbbell and raise it over your chest.",
+        "Keeping your elbows as straight as possible, lower the weight in an arc over your head and as low to the ground as possible with out any pain.",
+        "Return to starting position.",
+        "Repeat."
+    ],
+    "tips": [],
+    "references": []
+}

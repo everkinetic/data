@@ -1,0 +1,24 @@
+{
+    "id": "0111",
+    "name": "body-leg-lifts",
+    "title": "Body Leg Lifts",
+    "primer": "This is an exercise for gluts and hamstring strengthening.",
+    "type": "isolation",
+    "primary": [
+        "glutaeus maximus"
+    ],
+    "secondary": [
+        "ischiocrural muscles"
+    ],
+    "equipment": [
+        "body"
+    ],
+    "steps": [
+        "Using a post or tall weight bench for balance stand straight with your abs drawn in.",
+        "Raise one off the ground and behind you while standing on the other leg.",
+        "Slowly lower the leg and raise it again while flexing the gluts.",
+        "Repeat with your other leg."
+    ],
+    "tips": [],
+    "references": []
+}

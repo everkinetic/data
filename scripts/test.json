@@ -1,0 +1,60 @@
+{
+    "type": [
+        "compound",
+        "isolation",
+        "isometric"
+    ],
+    "part": [
+        "chest",
+        "arms",
+        "shoulders",
+        "back",
+        "core",
+        "legs"
+    ],
+    "equipment": [
+        "balance board",
+        "bar",
+        "barbell",
+        "bench",
+        "bench: decline",
+        "bench: hyperextension",
+        "bench: incline",
+        "body",
+        "bosu ball",
+        "cable",
+        "dumbbell",
+        "exercise ball",
+        "exercise band",
+        "flat bench",
+        "machine",
+        "machine: bench press",
+        "machine: butterfly",
+        "machine: chest",
+        "medicine ball",
+        "parallel bars",
+        "pull-up bar",
+        "smith machine",
+        "stability ball",
+        "swiss ball",
+        "t-bar machine",
+        "v-bar",
+        "weight plate"
+    ],
+    "primary": [
+        "abdominals",
+        "biceps brachii",
+        "gastrocnemius",
+        "soleus",
+        "deltoid",
+        "glutaeus maximus",
+        "ischiocrural muscles",
+        "latissimus dorsi",
+        "erector spinae",
+        "obliques",
+        "pectoralis major",
+        "quadriceps",
+        "trapezius",
+        "triceps brachii"
+    ]
+}

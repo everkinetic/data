@@ -1,0 +1,29 @@
+{
+    "id": "0078",
+    "name": "smith-machine-bench-press",
+    "title": "Bench Press: Smith Machine",
+    "primer": "With the use of a Smith Machine this exercise strengthens your chest shoulders and triceps.",
+    "type": "isolation",
+    "primary": [
+        "pectoralis major"
+    ],
+    "secondary": [
+        "deltoid",
+        "triceps brachii"
+    ],
+    "equipment": [
+        "flat bench",
+        "smith machine"
+    ],
+    "steps": [
+        "Place a flat bench in the middle of the Smith Machine, with the bar in line with the middle of your chest.",
+        "Lying on the bench, grasp the bar at shoulder width apart.",
+        "Unlatch the bar and slowly lower the bar to your chest.",
+        "Extend your arms fully and raise the bar to the starting position.",
+        "Repeat."
+    ],
+    "tips": [
+        "Ensure your hips and back remain in contact with the bench throughout this exercise."
+    ],
+    "references": []
+}

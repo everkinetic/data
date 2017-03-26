@@ -1,0 +1,26 @@
+{
+    "id": "0094",
+    "name": "upright-band-rows",
+    "title": "Upright Band Rows",
+    "primer": "This is an exercise for lats, triceps and shoulder strengthening.",
+    "type": "isolation",
+    "primary": [
+        "latissimus dorsi"
+    ],
+    "secondary": [
+        "triceps brachii",
+        "deltoid"
+    ],
+    "equipment": [
+        "body",
+        "exercise band"
+    ],
+    "steps": [
+        "Stand on the band so that the handles are level with your upper thigh.",
+        "With your back straight and abs drawn in raise your hands upward to your collarbone.",
+        "Your elbows and arms should be parallel with the floor.",
+        "Slowly lower your arms and return to starting position."
+    ],
+    "tips": [],
+    "references": []
+}

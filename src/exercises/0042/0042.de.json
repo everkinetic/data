@@ -1,0 +1,38 @@
+{
+    "id": "0042",
+    "name": "bankdruecken",
+    "title": "Bankdrücken",
+    "alias": "",
+    "primer": "Dies ist eine Übung für den großen Brustmuskel.",
+    "type": "compound",
+    "region": [
+        "Brust",
+        "Arme"
+    ],
+    "primary": [
+        "Großer Brustmuskel"
+    ],
+    "secondary": [
+        "Trizeps"
+    ],
+    "equipment": [
+        "Flachbank",
+        "Langhantel"
+    ],
+    "steps": [
+        "Lie on a flat bench with your feet flat on the floor, keep your back flat on the bench.",
+        "Grasp the bar a little wider than shoulder width apart.",
+        "Raise the barbell above your body and move it over the middle of your chest, this is your starting position.",
+        "Lower the bar down so it just touches your chest.",
+        "Raise the bar till your arms are fully extended and your elbows are locked.",
+        "Return to starting position."
+    ],
+    "tips": [
+        "Beim Griff immer mit dem Daumen die Stange umschließen und nicht den sog. Affengriff verwenden."
+        "Das Gewicht nicht auf der Brust abfedern lassen, um hierdurch Schwung für die Aufwärtsbewegung zu holen"
+    ],
+    "references": [
+        "https://youtu.be/LnhpKTXeIeg",
+        "http://www.uebungen.ws/bankdruecken/"
+    ]
+}

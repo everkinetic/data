@@ -1,0 +1,24 @@
+{
+    "id": "0002",
+    "name": "static-neck-side-flexion",
+    "title": "Static Neck Side Flexion",
+    "primer": "An exercise either build or warm up neck side flexors.",
+    "type": "isometric",
+    "primary": [
+        "trapezius"
+    ],
+    "secondary": [],
+    "equipment": [
+        "body"
+    ],
+    "steps": [
+        "Stand or sit with your head in neutral position.",
+        "Place your left hand against the left side of your head, above your ear.",
+        "Push your head against your hand, without moving your head.",
+        "Repeat with your right hand, right side of your head."
+    ],
+    "tips": [
+        "Make sure you maintain your chin at a 90 degree angle to your neck"
+    ],
+    "references": []
+}

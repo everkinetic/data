@@ -1,0 +1,26 @@
+{
+    "id": "0122",
+    "name": "barbell-squat",
+    "title": "Barbell Squat",
+    "primer": "",
+    "type": "compound",
+    "primary": [
+        "quadriceps"
+    ],
+    "secondary": [
+        "ischiocrural muscles"
+    ],
+    "equipment": [
+        "barbell"
+    ],
+    "steps": [
+        "This is an exercise for leg strengthening, mainly the quadriceps.",
+        "Lifting a barbell off of a weight rack, position it on your shoulders.",
+        "Place your feet slightly wider than shoulder width apart with your knees and toes pointed slightly outward.",
+        "Drawing your abs in descend slowly by bending at the knees and hips as if you are sitting down (squatting).",
+        "Lower yourself as far as you can control without letting your body shift towards your toes (this will cause you to loose balance).",
+        "Pause in the downward position and slowly return upright to the starting position."
+    ],
+    "tips": [],
+    "references": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "0271",
+    "name": "balance-board",
+    "title": "Balance Board",
+    "primer": "Your calves are stabilizing muscles for your legs, so this exercises uses a Balance Board or wobble board to force you to balance.",
+    "type": "compound",
+    "primary": [
+        "gastrocnemius", "soleus"
+    ],
+    "secondary": [
+        "quadriceps",
+        "ischiocrural muscles"
+    ],
+    "equipment": [
+        "balance board"
+    ],
+    "steps": [
+        "Place a Balance Board on the floor.",
+        "Step onto the board with both feet and try to balance yourself.",
+        "Note: Keep a slight bend in your knees to help you balance."
+    ],
+    "tips": [],
+    "references": []
+}

@@ -1,0 +1,30 @@
+{
+    "id": "0099",
+    "name": "barbell-dead-lifts",
+    "title": "Dead Lifts: Barbell",
+    "primer": "The techniques is identical to that of the Smith Machine dead lift except for the fact that this exercise provides less support.",
+    "type": "isolation",
+    "primary": [
+        "erector spinae"
+    ],
+    "secondary": [
+        "ischiocrural muscles",
+        "gastrocnemius", "soleus"
+    ],
+    "equipment": [
+        "barbell"
+    ],
+    "steps": [
+        "Stand with your feet shoulder width apart so that your feet are under the bar.",
+        "Keeping your back straight bend at the waist, allow some bend in your knees.",
+        "Grasp the par with an overhand grip approximately 16 inches apart.",
+        "Straighten your back as you hold the bar at arm’s length.",
+        "Bend over again lowering the bar to just above the floor."
+    ],
+    "tips": [
+        "This is an advanced exercise and should be perfected first with the Smith Machine."
+    ],
+    "references": [
+        "https://youtu.be/iaDC0meiUtw"
+    ]
+}

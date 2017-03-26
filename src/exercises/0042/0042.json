@@ -1,0 +1,30 @@
+{
+    "id": "0042",
+    "name": "bench-press",
+    "title": "Bench Press: Barbell",
+    "primer": "This is an exercise for the chest.",
+    "type": "compound",
+    "primary": [
+        "pectoralis major"
+    ],
+    "secondary": [
+        "triceps brachii",
+        "deltoideus (clavicula)"
+    ],
+    "equipment": [
+        "bench",
+        "barbell"
+    ],
+    "steps": [
+        "Lie on a flat bench with your feet flat on the floor, keep your back flat on the bench.",
+        "Grasp the bar a little wider than shoulder width apart.",
+        "Raise the barbell above your body and move it over the middle of your chest, this is your starting position.",
+        "Lower the bar down so it just touches your chest.",
+        "Raise the bar till your arms are fully extended and your elbows are locked.",
+        "Return to starting position."
+    ],
+    "tips": [],
+    "references": [
+        "https://youtu.be/LnhpKTXeIeg"
+    ]
+}

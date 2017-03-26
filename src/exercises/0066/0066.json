@@ -1,0 +1,25 @@
+{
+    "id": "0066",
+    "name": "machine-bench-press",
+    "title": "Bench Press: Machine",
+    "primer": "This is an exercise for chest, biceps and shoulder strengthening.",
+    "type": "isolation",
+    "primary": [
+        "pectoralis major"
+    ],
+    "secondary": [
+        "triceps brachii",
+        "deltoid"
+    ],
+    "equipment": [
+        "machine: bench press"
+    ],
+    "steps": [
+        "Adjust the machine so that you are sitting with the bars at chest height.",
+        "Place your hands on the bars and place your feet on the foot rest.",
+        "Press out, extending your arms as far as possible in a steady motion.",
+        "Pause for a moment and then return slowly to starting position."
+    ],
+    "tips": [],
+    "references": []
+}
