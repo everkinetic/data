@@ -1,4 +1,4 @@
-# Triceps Pushdown with Rope and Cable
+# Triceps Pushdown: Cable (Rope)
 > This version of the triceps pushdown uses a rope for better definition in the muscle.
 
 ``` 

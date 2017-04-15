@@ -1,4 +1,4 @@
-# V Bar Pull Down
+# Pull Down: V Bar 
 > This is an exercise for lats, biceps and middle back strengthening.
 
 ``` 

@@ -1,4 +1,4 @@
-# Triceps Pushdown with V Bar and Cable
+# Triceps Pushdown: Cable (V-Bar)
 > This exercise is the triceps pushdown uses a V shaped bar.
 
 ``` 

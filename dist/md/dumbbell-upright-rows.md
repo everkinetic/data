@@ -1,4 +1,4 @@
-# Upright Rows: Dumbbell
+# Upright Row: Dumbbell
 > This is an exercise for shoulder, biceps and upper back strengthening.
 
 ``` 

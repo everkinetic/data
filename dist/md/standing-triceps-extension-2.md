@@ -15,10 +15,10 @@ equipment: dumbbell
  - Hold a dumbbell in both hands, with your palms facing up.
  - Raise the dumbbell over your head and slowly lower the dumbbell in an arc behind your head.
  - Slowly raise the dumbbell back up to the starting position.
- - Note: Keep your elbows close to your head during the exercise.
 
 ## Tips
 
+ - Keep your elbows close to your head during the exercise.
 
 ## Images
 

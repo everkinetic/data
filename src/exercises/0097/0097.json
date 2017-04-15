@@ -1,7 +1,7 @@
 {
     "id": "0097",
     "name": "wide-grip-lat-pull-down",
-    "title": "Wide Grip Lat Pull Down",
+    "title": "Pull Down: Wide Bar (Wide Grip)",
     "primer": "This is an exercise for lats, biceps and middle back strengthening.",
     "type": "isolation",
     "primary": [
@@ -12,7 +12,8 @@
         "latissimus dorsi"
     ],
     "equipment": [
-        "cable"
+        "cable",
+        "wide bar"
     ],
     "steps": [
         "Sit at a cable pull down machine fitted with a wide bar.",

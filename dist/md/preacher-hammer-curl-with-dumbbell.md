@@ -1,4 +1,4 @@
-# Preacher Hammer Curl with Dumbbell
+# Preacher Curl: Dumbbell (Hammer)
 > This exercise combines a Hammer Curl with a Preacher bench.
 
 ``` 

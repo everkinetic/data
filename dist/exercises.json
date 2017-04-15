@@ -495,7 +495,7 @@
     {
         "id": "0016",
         "name": "dumbbell-upright-rows",
-        "title": "Upright Rows: Dumbbell",
+        "title": "Upright Row: Dumbbell",
         "primer": "This is an exercise for shoulder, biceps and upper back strengthening.",
         "type": "isolation",
         "primary": [
@@ -3062,7 +3062,7 @@
     {
         "id": "0093",
         "name": "underhand-pull-downs",
-        "title": "Underhand Pull downs",
+        "title": "Pull Down: Underhand",
         "primer": "This is an exercise for lats and biceps strengthening.",
         "type": "isolation",
         "primary": [
@@ -3128,7 +3128,7 @@
     {
         "id": "0095",
         "name": "underhand-pull-down",
-        "title": "Underhand Pull down",
+        "title": "Pull Down: Underhand",
         "primer": "This is an exercise for lats and biceps strengthening.",
         "type": "isolation",
         "primary": [
@@ -3160,7 +3160,7 @@
     {
         "id": "0096",
         "name": "v-bar-pull-down",
-        "title": "V Bar Pull Down",
+        "title": "Pull Down: V Bar ",
         "primer": "This is an exercise for lats, biceps and middle back strengthening.",
         "type": "isolation",
         "primary": [
@@ -3193,7 +3193,7 @@
     {
         "id": "0097",
         "name": "wide-grip-lat-pull-down",
-        "title": "Wide Grip Lat Pull Down",
+        "title": "Pull Down: Wide Bar (Wide Grip)",
         "primer": "This is an exercise for lats, biceps and middle back strengthening.",
         "type": "isolation",
         "primary": [
@@ -3204,7 +3204,8 @@
             "latissimus dorsi"
         ],
         "equipment": [
-            "cable"
+            "cable",
+            "wide bar"
         ],
         "steps": [
             "Sit at a cable pull down machine fitted with a wide bar.",
@@ -5430,37 +5431,6 @@
         ]
     },
     {
-        "id": "0167",
-        "name": "standing-triceps-extension",
-        "title": "Triceps Extension: Dumbbell (Standing)",
-        "primer": "This exercise works the triceps by reaching behind your neck.",
-        "type": "isolation",
-        "primary": [
-            "triceps brachii"
-        ],
-        "secondary": [],
-        "equipment": [
-            "dumbbell"
-        ],
-        "steps": [
-            "Stand with your feet shoulder width apart, your back straight and your abs drawn in.",
-            "Hold a dumbbell in both hands, with your palms facing up.",
-            "Raise the dumbbell over your head and slowly lower the dumbbell in an arc behind your head.",
-            "Slowly raise the dumbbell back up to the starting position.",
-            "Note:Keep your elbows close to your head during the exercise."
-        ],
-        "tips": [],
-        "references": [],
-        "svg": [
-            "svg/0167-relaxation.svg",
-            "svg/0167-tension.svg"
-        ],
-        "png": [
-            "png/0167-relaxation.png",
-            "png/0167-tension.png"
-        ]
-    },
-    {
         "id": "0168",
         "name": "decline-close-grip-bench-to-skull-crusher",
         "title": "Decline Close Grip Bench to Skull Crusher",
@@ -6415,10 +6385,11 @@
             "Stand with your feet shoulder width apart, your back straight and your abs drawn in.",
             "Hold a dumbbell in both hands, with your palms facing up.",
             "Raise the dumbbell over your head and slowly lower the dumbbell in an arc behind your head.",
-            "Slowly raise the dumbbell back up to the starting position.",
-            "Note: Keep your elbows close to your head during the exercise."
+            "Slowly raise the dumbbell back up to the starting position."
         ],
-        "tips": [],
+        "tips": [
+            "Keep your elbows close to your head during the exercise."
+        ],
         "references": [],
         "svg": [
             "svg/0198-relaxation.svg",
@@ -6615,7 +6586,7 @@
     {
         "id": "0205",
         "name": "triceps-pushdown-with-cable",
-        "title": "Triceps Pushdown with Cable",
+        "title": "Triceps Pushdown: Cable",
         "primer": "This exercise is the original version of the triceps pushdown.",
         "type": "isolation",
         "primary": [
@@ -6647,7 +6618,7 @@
     {
         "id": "0206",
         "name": "triceps-pushdown-with-rope-and-cable",
-        "title": "Triceps Pushdown with Rope and Cable",
+        "title": "Triceps Pushdown: Cable (Rope)",
         "primer": "This version of the triceps pushdown uses a rope for better definition in the muscle.",
         "type": "isolation",
         "primary": [
@@ -6679,7 +6650,7 @@
     {
         "id": "0207",
         "name": "triceps-pushdown-with-v-bar-and-cable",
-        "title": "Triceps Pushdown with V Bar and Cable",
+        "title": "Triceps Pushdown: Cable (V-Bar)",
         "primer": "This exercise is the triceps pushdown uses a V shaped bar.",
         "type": "isolation",
         "primary": [
@@ -6747,7 +6718,7 @@
     {
         "id": "0209",
         "name": "incline-triceps-extensions-with-dumbbell",
-        "title": "Triceps Extensions: Dumbbell (Incline)",
+        "title": "Triceps Extension: Dumbbell (Incline)",
         "primer": "This version of the triceps extension uses an incline bench.",
         "type": "isolation",
         "primary": [
@@ -7763,7 +7734,7 @@
     {
         "id": "0240",
         "name": "preacher-hammer-curl-with-dumbbell",
-        "title": "Preacher Hammer Curl with Dumbbell",
+        "title": "Preacher Curl: Dumbbell (Hammer)",
         "primer": "This exercise combines a Hammer Curl with a Preacher bench.",
         "type": "isolation",
         "primary": [
@@ -8164,7 +8135,7 @@
     {
         "id": "0252",
         "name": "zottman-preacher-curl-with-dumbbells",
-        "title": "Preacher Curl: Dumbbells (Zottman)",
+        "title": "Preacher Curl: Dumbbell (Zottman)",
         "primer": "This is an advanced exercise where you turn the dumbbells up and out using a Preacher Curl bench for support.",
         "type": "isolation",
         "primary": [
@@ -8331,7 +8302,7 @@
     {
         "id": "0257",
         "name": "biceps-curl-reverse-with-dumbbells",
-        "title": "Biceps Curl: Dumbbell (reverse)",
+        "title": "Biceps Curl: Dumbbell (Reverse)",
         "primer": "This is a reverse curl exercise that works all of the muscles of the arms.",
         "type": "isolation",
         "primary": [

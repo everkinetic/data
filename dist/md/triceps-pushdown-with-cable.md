@@ -1,4 +1,4 @@
-# Triceps Pushdown with Cable
+# Triceps Pushdown: Cable
 > This exercise is the original version of the triceps pushdown.
 
 ``` 

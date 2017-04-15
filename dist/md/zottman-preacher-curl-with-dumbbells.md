@@ -1,4 +1,4 @@
-# Preacher Curl: Dumbbells (Zottman)
+# Preacher Curl: Dumbbell (Zottman)
 > This is an advanced exercise where you turn the dumbbells up and out using a Preacher Curl bench for support.
 
 ``` 

@@ -1,4 +1,4 @@
-# Wide Grip Lat Pull Down
+# Pull Down: Wide Bar (Wide Grip)
 > This is an exercise for lats, biceps and middle back strengthening.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0097
 type: isolation 
 primary: latissimus dorsi 
 secondary: biceps brachii,latissimus dorsi 
-equipment: cable 
+equipment: cable, wide bar 
 ``` 
 
 ## Steps
