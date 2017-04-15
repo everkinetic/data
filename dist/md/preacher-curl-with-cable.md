@@ -1,4 +1,4 @@
-# Preacher Curl with Cable
+# Preacher Curl: Cable
 > A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.
 
 ``` 

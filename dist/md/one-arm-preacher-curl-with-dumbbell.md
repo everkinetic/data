@@ -1,4 +1,4 @@
-# One Arm Preacher Curl with Dumbbell
+# Preacher Curl: Dumbbell (One Arm)
 > 
 
 ``` 

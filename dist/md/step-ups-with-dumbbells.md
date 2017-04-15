@@ -1,4 +1,4 @@
-# Step Ups with Dumbbells
+# Step Ups: Dumbbell
 > This exercise builds coordination as well as muscle.
 
 ``` 

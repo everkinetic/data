@@ -1,4 +1,4 @@
-# Rear Lunges with Barbell
+# Lunges: Barbell (Rear)
 > This is an advanced version of a lunge.
 
 ``` 

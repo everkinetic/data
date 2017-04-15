@@ -1,4 +1,4 @@
-# Step Up Single Leg Balance with Bicep Curl using Dumbbells
+# Step Up: Dumbbell (Bicep Curl, Single Leg Balance)
 > This exercise combines a step up with a bicep curl.
 
 ``` 

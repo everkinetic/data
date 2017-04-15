@@ -1,4 +1,4 @@
-# Triceps Extension: Dumbbells (Lying)
+# Triceps Extension: Dumbbell (Lying)
 > This exercise uses gravity to increase the resistance of the weight.
 
 ``` 

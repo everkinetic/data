@@ -1,4 +1,4 @@
-# Rear Lunges with Dumbbell
+# Lunges: Dumbbell (Rear)
 > This is an advanced version of a lunge using a dumbbell.
 
 ``` 

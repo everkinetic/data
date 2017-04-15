@@ -1,4 +1,4 @@
-# Preacher Curl with Barbell
+# Preacher Curl: Barbell
 > A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.
 
 ``` 

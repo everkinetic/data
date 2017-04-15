@@ -1,4 +1,4 @@
-# Tricep Dips using Machine
+# Triceps Dips: Machine
 > This exercise uses a machine to work the triceps while in seated position.
 
 ``` 

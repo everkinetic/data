@@ -1,4 +1,4 @@
-# Dumbbell Lunges
+# Lunges: Dumbbell
 > This is an exercise for whole leg but mainly hamstring strengthening.
 
 ``` 

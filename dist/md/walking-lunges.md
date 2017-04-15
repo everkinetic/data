@@ -1,4 +1,4 @@
-# Walking Lunges
+# Lunges: Dumbbell (Walking)
 > A walking lunge gives you the benefit of lunges plus core muscle training from the constant motion.
 
 ``` 
@@ -6,12 +6,12 @@ id: 0121
 type: isolation 
 primary: ischiocrural muscles 
 secondary: quadriceps,glutaeus maximus,gastrocnemius,soleus 
-equipment: barbell or dumbbell 
+equipment: dumbbell 
 ``` 
 
 ## Steps
 
- - Start by either placing a barbell across your upper back or by grasping a dumbbell in each hand.
+ - Start by grasping a dumbbell in each hand.
  - Stand with your feet about 8 inches apart, toes facing forward.
  - Take a lunge forward keeping your abs drawn in and your upper body straight.
  - Slowly lower one knee down as if kneeling while keeping your other knee bent at a 90 degree angle, do not let your knee touch the ground.

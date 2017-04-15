@@ -1,4 +1,4 @@
-# Barbell Lunges
+# Lunges: Barbell
 > This is a classic exercise used for strengthening the hamstrings, quadriceps, calves and gluts.
 
 ``` 

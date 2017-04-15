@@ -1,4 +1,4 @@
-# Two-Arm Preacher Curl with Dumbbell
+# Preacher Curl: Dumbbell (Two Arm)
 > This version of a Preacher Curl uses a special bench and dumbbells.
 
 ``` 

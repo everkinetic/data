@@ -1,4 +1,4 @@
-# Biceps Curl: Stability Ball with Dumbbells (Overhead Extension)
+# Biceps Curl: Stability Ball with Dumbbell (Overhead Extension)
 > This exercise requires you to be able to balance kneeling on a stability ball before you can correctly perform this exercise
 
 ``` 

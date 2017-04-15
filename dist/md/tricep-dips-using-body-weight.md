@@ -1,4 +1,4 @@
-# Tricep Dips using Body Weight
+# Triceps Dips: Body Weight
 > This classic exercise uses the weight of your own body to work your triceps.
 
 ``` 

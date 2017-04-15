@@ -2512,7 +2512,7 @@
     {
         "id": "0077",
         "name": "push-ups",
-        "title": "Push Up",
+        "title": "Push Up: Body Weight",
         "primer": "This exercise is the main strengthening exercise when wanting to strengthen ones chest, biceps and triceps as well as core muscles.",
         "type": "isolation",
         "primary": [
@@ -3658,7 +3658,7 @@
     {
         "id": "0114",
         "name": "barbell-lunges",
-        "title": "Barbell Lunges",
+        "title": "Lunges: Barbell",
         "primer": "This is a classic exercise used for strengthening the hamstrings, quadriceps, calves and gluts.",
         "type": "isolation",
         "primary": [
@@ -3697,7 +3697,7 @@
     {
         "id": "0115",
         "name": "dumbbell-lunges",
-        "title": "Dumbbell Lunges",
+        "title": "Lunges: Dumbbell",
         "primer": "This is an exercise for whole leg but mainly hamstring strengthening.",
         "type": "isolation",
         "primary": [
@@ -3896,7 +3896,7 @@
     {
         "id": "0121",
         "name": "walking-lunges",
-        "title": "Walking Lunges",
+        "title": "Lunges: Dumbbell (Walking)",
         "primer": "A walking lunge gives you the benefit of lunges plus core muscle training from the constant motion.",
         "type": "isolation",
         "primary": [
@@ -3909,10 +3909,10 @@
             "soleus"
         ],
         "equipment": [
-            "barbell or dumbbell"
+            "dumbbell"
         ],
         "steps": [
-            "Start by either placing a barbell across your upper back or by grasping a dumbbell in each hand.",
+            "Start by grasping a dumbbell in each hand.",
             "Stand with your feet about 8 inches apart, toes facing forward.",
             "Take a lunge forward keeping your abs drawn in and your upper body straight.",
             "Slowly lower one knee down as if kneeling while keeping your other knee bent at a 90 degree angle, do not let your knee touch the ground.",
@@ -4150,7 +4150,7 @@
     {
         "id": "0128",
         "name": "rear-lunges-with-barbell",
-        "title": "Rear Lunges with Barbell",
+        "title": "Lunges: Barbell (Rear)",
         "primer": "This is an advanced version of a lunge.",
         "type": "compound",
         "primary": [
@@ -4188,7 +4188,7 @@
     {
         "id": "0129",
         "name": "rear-lunges-with-dumbbell",
-        "title": "Rear Lunges with Dumbbell",
+        "title": "Lunges: Dumbbell (Rear)",
         "primer": "This is an advanced version of a lunge using a dumbbell.",
         "type": "compound",
         "primary": [
@@ -4372,7 +4372,7 @@
     {
         "id": "0134",
         "name": "step-ups-with-barbell",
-        "title": "Step Ups with Barbell",
+        "title": "Step Ups: Barbell",
         "primer": "This exercise builds coordination as well as muscle.",
         "type": "compound",
         "primary": [
@@ -4480,7 +4480,7 @@
     {
         "id": "0137",
         "name": "step-ups-with-dumbbells",
-        "title": "Step Ups with Dumbbells",
+        "title": "Step Ups: Dumbbell",
         "primer": "This exercise builds coordination as well as muscle.",
         "type": "compound",
         "primary": [
@@ -4590,7 +4590,7 @@
     {
         "id": "0140",
         "name": "iron-cross-with-dumbbells",
-        "title": "Iron Cross with Dumbbells",
+        "title": "Iron Cross: Dumbbell",
         "primer": "This is an advanced exercise that works the whole body.",
         "type": "compound",
         "primary": [
@@ -5555,7 +5555,7 @@
     {
         "id": "0171",
         "name": "tricep-dips",
-        "title": "Tricep Dips using Machine",
+        "title": "Triceps Dips: Machine",
         "primer": "This exercise uses a machine to work the triceps while in seated position.",
         "type": "compound",
         "primary": [
@@ -5586,7 +5586,7 @@
     {
         "id": "0172",
         "name": "tricep-dips-using-body-weight",
-        "title": "Tricep Dips using Body Weight",
+        "title": "Triceps Dips: Body Weight",
         "primer": "This classic exercise uses the weight of your own body to work your triceps.",
         "type": "compound",
         "primary": [
@@ -5869,7 +5869,7 @@
     {
         "id": "0181",
         "name": "lying-triceps-extension-with-dumbbells",
-        "title": "Triceps Extension: Dumbbells (Lying)",
+        "title": "Triceps Extension: Dumbbell (Lying)",
         "primer": "This exercise uses gravity to increase the resistance of the weight.",
         "type": "isolation",
         "primary": [
@@ -6218,7 +6218,7 @@
     {
         "id": "0192",
         "name": "seated-two-arm-triceps-extension-with-dumbbell",
-        "title": "Triceps Extension: Dumbbell (Seated, Two-Arm)",
+        "title": "Triceps Extension: Dumbbell (Seated, Two Arm)",
         "primer": "This exercise is the two handed version of seated triceps extension.",
         "type": "isolation",
         "primary": [
@@ -7006,7 +7006,7 @@
     {
         "id": "0217",
         "name": "preacher-curl-with-cable",
-        "title": "Preacher Curl with Cable",
+        "title": "Preacher Curl: Cable",
         "primer": "A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.",
         "type": "isolation",
         "primary": [
@@ -7628,7 +7628,7 @@
     {
         "id": "0236",
         "name": "preacher-curl-with-machine",
-        "title": "Preacher Curl with Machine",
+        "title": "Preacher Curl: Machine",
         "primer": "A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.",
         "type": "isolation",
         "primary": [
@@ -7659,7 +7659,7 @@
     {
         "id": "0237",
         "name": "one-arm-preacher-curl-with-dumbbell",
-        "title": "One Arm Preacher Curl with Dumbbell",
+        "title": "Preacher Curl: Dumbbell (One Arm)",
         "primer": "",
         "type": "isolation",
         "primary": [
@@ -7728,7 +7728,7 @@
     {
         "id": "0239",
         "name": "preacher-curl-with-barbell",
-        "title": "Preacher Curl with Barbell",
+        "title": "Preacher Curl: Barbell",
         "primer": "A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.",
         "type": "isolation",
         "primary": [
@@ -8061,7 +8061,7 @@
     {
         "id": "0249",
         "name": "two-arm-preacher-curl-with-dumbbell",
-        "title": "Two-Arm Preacher Curl with Dumbbell",
+        "title": "Preacher Curl: Dumbbell (Two Arm)",
         "primer": "This version of a Preacher Curl uses a special bench and dumbbells.",
         "type": "isolation",
         "primary": [
@@ -8164,7 +8164,7 @@
     {
         "id": "0252",
         "name": "zottman-preacher-curl-with-dumbbells",
-        "title": "Zottman Preacher Curl with Dumbbells",
+        "title": "Preacher Curl: Dumbbells (Zottman)",
         "primer": "This is an advanced exercise where you turn the dumbbells up and out using a Preacher Curl bench for support.",
         "type": "isolation",
         "primary": [
@@ -8331,7 +8331,7 @@
     {
         "id": "0257",
         "name": "biceps-curl-reverse-with-dumbbells",
-        "title": "Biceps Curl: Dumbbells (reverse)",
+        "title": "Biceps Curl: Dumbbell (reverse)",
         "primer": "This is a reverse curl exercise that works all of the muscles of the arms.",
         "type": "isolation",
         "primary": [
@@ -8436,7 +8436,7 @@
     {
         "id": "0260",
         "name": "biceps-curl-with-overhead-extension-using-dumbbells-on-stability-ball",
-        "title": "Biceps Curl: Stability Ball with Dumbbells (Overhead Extension)",
+        "title": "Biceps Curl: Stability Ball with Dumbbell (Overhead Extension)",
         "primer": "This exercise requires you to be able to balance kneeling on a stability ball before you can correctly perform this exercise",
         "type": "isolation",
         "primary": [
@@ -8665,7 +8665,7 @@
     {
         "id": "0266",
         "name": "step-up-single-leg-balance-with-biceps-curl-using-dumbbells",
-        "title": "Step Up Single Leg Balance with Bicep Curl using Dumbbells",
+        "title": "Step Up: Dumbbell (Bicep Curl, Single Leg Balance)",
         "primer": "This exercise combines a step up with a bicep curl.",
         "type": "isolation",
         "primary": [

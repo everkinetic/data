@@ -1,4 +1,4 @@
-# Step Ups with Barbell
+# Step Ups: Barbell
 > This exercise builds coordination as well as muscle.
 
 ``` 

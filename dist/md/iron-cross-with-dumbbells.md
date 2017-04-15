@@ -1,4 +1,4 @@
-# Iron Cross with Dumbbells
+# Iron Cross: Dumbbell
 > This is an advanced exercise that works the whole body.
 
 ``` 
