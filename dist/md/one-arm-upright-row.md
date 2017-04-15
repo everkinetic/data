@@ -1,4 +1,4 @@
-# One Arm Upright Row
+# Upright Row: Dumbbell (One Arm)
 > This is an exercise for shoulder and trapezius strengthening.
 
 ``` 

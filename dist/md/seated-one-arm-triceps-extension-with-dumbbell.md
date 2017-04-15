@@ -1,4 +1,4 @@
-# Seated One Arm Triceps Extension with Dumbbell
+# Triceps Extension: Dumbbell (Seated, One Arm)
 > This exercise uses a kickback movement to work the triceps in each arm individually.
 
 ``` 

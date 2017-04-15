@@ -1,4 +1,4 @@
-# Triceps Extensions using Machine
+# Triceps Extension: Machine
 > This exercise uses a machine to insure proper range of motion for tricep extensions.
 
 ``` 

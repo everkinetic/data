@@ -1,4 +1,4 @@
-# Lying Two Arm Triceps Extension with Dumbbell
+# Triceps Extension: Dumbbell (Lying Two Arm)
 > This a lying version of a Triceps Kickback.
 
 ``` 

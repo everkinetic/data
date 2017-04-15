@@ -1,4 +1,4 @@
-# One Arm Low-Pulley Triceps Extension with Cable
+# Triceps Extension: Cable (One Arm, Low-Pulley)
 > This exercise uses a cable machine to isolate the triceps.
 
 ``` 

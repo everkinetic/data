@@ -1,4 +1,4 @@
-# Decline EZ Bar Triceps Extension with Barbell
+# Triceps Extension: EZ Bar Barbell (Decline)
 > This exercise combines a decline bench and a curved bar to more efficiently work the triceps.
 
 ``` 

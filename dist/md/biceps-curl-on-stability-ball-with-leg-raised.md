@@ -1,4 +1,4 @@
-# Bicep Curl on Stability Ball with Leg Raised
+# Biceps Curl: Stability Ball with Dumbbell (leg raised)
 > This exercise incorporates balance along with a bicep curl.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0263
 type: isolation 
 primary: biceps brachii 
 secondary: ischiocrural muscles,forearm,quadriceps,gastrocnemius,soleus 
-equipment: dumbbell 
+equipment: dumbbell, stability Ball 
 ``` 
 
 ## Steps

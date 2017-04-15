@@ -1,4 +1,4 @@
-# Squats using Dumbbells
+# Squats: Dumbbells
 > This is a great overall exercise for the lower body that uses dumbbells.
 
 ``` 

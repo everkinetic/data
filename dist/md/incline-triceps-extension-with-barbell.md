@@ -1,4 +1,4 @@
-# Incline Triceps Extension with Barbell
+# Triceps Extension: Barbell (Incline)
 > This version of a triceps extension uses gravity to increase the resistance of the exercise.
 
 ``` 

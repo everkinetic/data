@@ -1,4 +1,4 @@
-# Low Triceps Extension with Cable
+# Triceps Extension: Cable (Low)
 > This exercise is done while lying on a seated row station.
 
 ``` 

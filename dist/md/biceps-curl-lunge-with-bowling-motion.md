@@ -1,4 +1,4 @@
-# Bicep Curl Lunge with Bowling Motion
+# Biceps Curl: Medicine Balll (Lunge, Bowling Motion)
 > This exercise is similar to the motions of bowling.
 
 ``` 

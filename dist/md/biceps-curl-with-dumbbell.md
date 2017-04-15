@@ -1,4 +1,4 @@
-# Biceps Curl with Dumbbell
+# Biceps Curl: Dumbbell
 > This version of a biceps curl uses both arms at the same time.
 
 ``` 

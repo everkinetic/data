@@ -1,4 +1,4 @@
-# Squat to Bench with Barbell
+# Squats: Barbell (to Bench)
 > This variation on a squat uses a bench to remind you how far down to squat.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0133
 type: compound 
 primary: quadriceps 
 secondary: glutaeus maximus,gastrocnemius,soleus,ischiocrural muscles 
-equipment: barbell 
+equipment: barbell, bench 
 ``` 
 
 ## Steps

@@ -1,4 +1,4 @@
-# Biceps Curl Seated on Stability Ball with Dumbbell
+# Biceps Curl: Stability Ball with Dumbbell (seated)
 > This version of a biceps curl uses a Stability Ball.
 
 ``` 

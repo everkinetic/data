@@ -1,4 +1,4 @@
-# Speed Squats with Barbell
+# Speed Squats: Barbell
 > This version of the squat uses an empty barbell and moves at a faster pace than the standard squat.
 
 ``` 

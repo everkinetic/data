@@ -1,4 +1,4 @@
-# Incline Triceps Extension with Cable
+# Triceps Extension: Cable (Incline)
 > This exercise uses cables to isolate and work the triceps.
 
 ``` 

@@ -1,4 +1,4 @@
-# Cable Shoulder Shrugs
+# Shoulder Shrugs: Cable
 > An exercise for trapezius strengthening.
 
 ``` 

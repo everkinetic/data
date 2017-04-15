@@ -1,4 +1,4 @@
-# Incline Triceps Extensions with Dumbbell
+# Triceps Extensions: Dumbbell (Incline)
 > This version of the triceps extension uses an incline bench.
 
 ``` 

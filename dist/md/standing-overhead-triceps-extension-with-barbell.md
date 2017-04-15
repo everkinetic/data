@@ -1,4 +1,4 @@
-# Standing Overhead Triceps Extension with Barbell
+# Triceps Extension: Barbell (Standing, Overhead)
 > This is a double arm barbell version of a behind the neck triceps exercise.
 
 ``` 

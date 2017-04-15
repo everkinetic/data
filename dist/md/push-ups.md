@@ -1,4 +1,4 @@
-# Push Ups
+# Push Up
 > This exercise is the main strengthening exercise when wanting to strengthen ones chest, biceps and triceps as well as core muscles.
 
 ``` 

@@ -1,4 +1,4 @@
-# Bosu Ball Push Up
+# Push Up: Bosu Ball
 > This is an exercise for chest, core, shoulders and triceps strengthening with the use of a Bosu ball.
 
 ``` 

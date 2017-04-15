@@ -1,4 +1,4 @@
-# Biceps Curl Reverse with Dumbbells
+# Biceps Curl: Dumbbells (reverse)
 > This is a reverse curl exercise that works all of the muscles of the arms.
 
 ``` 

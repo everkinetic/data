@@ -1,4 +1,4 @@
-# Single Arm Pronated Triceps Extension with Dumbbell
+# Triceps Extension: Dumbbell (Single Arm, Pronated)
 > This is an advanced exercise to isolate and work the tricep muscles.
 
 ``` 

@@ -1,7 +1,7 @@
 {
     "id": "0136",
     "name": "squat-to-bench-with-dumbbells",
-    "title": "Squat to Bench with Dumbbells",
+    "title": "Squats: Dumbbells (to Bench)",
     "primer": "This variation of a squat uses a bench to remind you how far down to squat.",
     "type": "compound",
     "primary": [
@@ -13,7 +13,8 @@
         "glutaeus maximus"
     ],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "bench"
     ],
     "steps": [
         "This is a great overall exercise for the lower body. There are many variations on the squat, this one uses a bench to remind you how far down to squat.",

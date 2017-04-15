@@ -1,4 +1,4 @@
-# Lying Triceps Extension Across Face with Dumbbell
+# Triceps Extension: Dumbbell (Lying, Across Face)
 > This is an advanced Triceps exercise and should be avoided by beginners.
 
 ``` 

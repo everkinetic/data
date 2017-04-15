@@ -1,4 +1,4 @@
-# Jefferson Squats with Barbell
+# Jefferson Squats: Barbell
 > This exercise builds and shapes the inner thighs.
 
 ``` 

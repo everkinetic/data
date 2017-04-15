@@ -1,4 +1,4 @@
-# Seated Overhead Triceps Extension with Barbell
+# Triceps Extension: Barbell (Seated, Overhead)
 > This exercise uses a barbell behind your neck to isolate the triceps effectively.
 
 ``` 

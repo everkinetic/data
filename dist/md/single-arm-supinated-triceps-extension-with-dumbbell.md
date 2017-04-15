@@ -1,4 +1,4 @@
-# Single Arm Supinated Triceps Extension with Dumbbell
+# Triceps Extension: Dumbbell (Single Arm, Supinated)
 > This exercise is similar to the Single Arm Pronated Triceps Extension except the movement is over the head instead of across the chest.
 
 ``` 

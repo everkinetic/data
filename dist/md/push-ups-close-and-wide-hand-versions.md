@@ -1,4 +1,4 @@
-# Push Ups Close and Wide Hand Versions
+# Push Up: Close and Wide Hand
 > These are variations on Push Ups, one of the best exercise for muscles of the chest (pectorals), arms (bicep and triceps) and core development. The core muscles are the rectus abdomen and oblique’s which support the spine.
 
 ``` 

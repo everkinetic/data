@@ -1,4 +1,4 @@
-# Barbell Good Mornings
+# Good Mornings: Barbell
 > This is one of the oldest exercises in bodybuilding but it still is one of the best for working the lower back.
 
 ``` 

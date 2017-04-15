@@ -1,4 +1,4 @@
-# Hack Squat with barbell
+# Hack Squat: Barbell
 > This is another variation of the basic Squat that focuses primarily on the quadriceps or thigh muscles.
 
 ``` 

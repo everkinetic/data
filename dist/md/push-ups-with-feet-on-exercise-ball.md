@@ -1,4 +1,4 @@
-# Push Ups with feet on exercise ball
+# Push Up: Exercise ball
 > This is similar to the standard Push Up except using an Exercise Ball forces you to engage the muscle of your core (Rectus Abdominis, Transverse Abdominis, and the Obliques).
 
 ``` 

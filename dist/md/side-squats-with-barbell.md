@@ -1,4 +1,4 @@
-# Side Squats with Barbell
+# Side Squats: Barbell
 > This version of a squat works the hip adductors, helping build better core strength and coordination.
 
 ``` 

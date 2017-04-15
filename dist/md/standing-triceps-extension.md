@@ -1,4 +1,4 @@
-# Standing Triceps Extension
+# Triceps Extension: Dumbbell (Standing)
 > This exercise works the triceps by reaching behind your neck.
 
 ``` 

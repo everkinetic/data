@@ -1,4 +1,4 @@
-# Hack Squat Machine
+# Hack Squat: Machine
 > This exercise is a variation of the Squat which uses a machine.
 
 ``` 

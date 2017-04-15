@@ -1,4 +1,4 @@
-# Squat to Bench with Dumbbells
+# Squats: Dumbbells (to Bench)
 > This variation of a squat uses a bench to remind you how far down to squat.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0136
 type: compound 
 primary: quadriceps 
 secondary: gastrocnemius,soleus,ischiocrural muscles,glutaeus maximus 
-equipment: dumbbell 
+equipment: dumbbell, bench 
 ``` 
 
 ## Steps

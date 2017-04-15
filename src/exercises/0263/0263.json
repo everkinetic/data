@@ -1,7 +1,7 @@
 {
     "id": "0263",
     "name": "biceps-curl-on-stability-ball-with-leg-raised",
-    "title": "Bicep Curl on Stability Ball with Leg Raised",
+    "title": "Biceps Curl: Stability Ball with Dumbbell (leg raised)",
     "primer": "This exercise incorporates balance along with a bicep curl.",
     "type": "isolation",
     "primary": [
@@ -14,7 +14,8 @@
         "gastrocnemius", "soleus"
     ],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "stability Ball"
     ],
     "steps": [
         "Grasp a dumbbell in each hand with a palms up grip.",

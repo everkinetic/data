@@ -1,4 +1,4 @@
-# Biceps Curl Squat with Dumbbell
+# Biceps Curl: Squat with Dumbbell
 > This exercise combines a squat with a curl to effectively work the entire body.
 
 ``` 

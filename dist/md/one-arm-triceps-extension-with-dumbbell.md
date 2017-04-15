@@ -1,4 +1,4 @@
-# One Arm Triceps Extension with Dumbbell
+# Triceps Extension: Dumbbell (One Arm)
 > This exercise uses a dumbbell to work each arm individually.
 
 ``` 

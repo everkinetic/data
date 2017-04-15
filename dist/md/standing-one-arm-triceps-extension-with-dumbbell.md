@@ -1,4 +1,4 @@
-# Standing One Arm Triceps Extension with Dumbbell
+# Triceps Extension: Dumbbell (Standing, One Arm)
 > This is a single arm version of a behind the neck triceps exercise.
 
 ``` 

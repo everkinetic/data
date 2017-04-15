@@ -1,7 +1,7 @@
 {
     "id": "0133",
     "name": "squat-to-bench-with-barbell",
-    "title": "Squat to Bench with Barbell",
+    "title": "Squats: Barbell (to Bench)",
     "primer": "This variation on a squat uses a bench to remind you how far down to squat.",
     "type": "compound",
     "primary": [
@@ -13,7 +13,8 @@
         "ischiocrural muscles"
     ],
     "equipment": [
-        "barbell"
+        "barbell",
+        "bench"
     ],
     "steps": [
         "This is s great overall exercise for the lower body. There are many variations on the squat, this one uses a bench to remind you how far down to squat.",

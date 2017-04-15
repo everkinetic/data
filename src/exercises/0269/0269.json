@@ -1,7 +1,7 @@
 {
     "id": "0269",
     "name": "biceps-curl-v-sit-on-dome-with-dumbbells",
-    "title": "Biceps Curl V Sit on Dome with Dumbbells",
+    "title": "Biceps Curl: V-Sit on Dome with Dumbbells",
     "primer": "This exercise uses a Dome (or Bosu) as a seat forcing you to engage and contract your abs throughout the exercise.",
     "type": "isolation",
     "primary": [
@@ -12,7 +12,8 @@
         "core"
     ],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "bosu ball"
     ],
     "steps": [
         "This exercise uses a Dome (or Bosu) as a seat forcing you to engage and contract your abs throughout the exercise. The name comes from having our body in the shape of a “V”.",

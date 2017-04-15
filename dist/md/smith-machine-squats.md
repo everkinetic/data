@@ -1,4 +1,4 @@
-# Smith Machine Squats
+# Squats: Smith Machine
 > This exercise is a variation of a squat using the Smith Machine.
 
 ``` 

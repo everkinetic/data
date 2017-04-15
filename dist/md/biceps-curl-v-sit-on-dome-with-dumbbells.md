@@ -1,4 +1,4 @@
-# Biceps Curl V Sit on Dome with Dumbbells
+# Biceps Curl: V-Sit on Dome with Dumbbells
 > This exercise uses a Dome (or Bosu) as a seat forcing you to engage and contract your abs throughout the exercise.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0269
 type: isolation 
 primary: biceps brachii 
 secondary: abdominals,core 
-equipment: dumbbell 
+equipment: dumbbell, bosu ball 
 ``` 
 
 ## Steps

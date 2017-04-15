@@ -129,7 +129,7 @@
     {
         "id": "0005",
         "name": "shoulder-shrugs",
-        "title": "Shoulder Shrugs",
+        "title": "Shoulder Shrugs: Dumbbell",
         "primer": "An exercise for trapezius strengthening.",
         "type": "isolation",
         "primary": [
@@ -261,7 +261,7 @@
     {
         "id": "0009",
         "name": "cable-shoulder-shrugs",
-        "title": "Cable Shoulder Shrugs",
+        "title": "Shoulder Shrugs: Cable",
         "primer": "An exercise for trapezius strengthening.",
         "type": "isolation",
         "primary": [
@@ -385,7 +385,7 @@
     {
         "id": "0013",
         "name": "smith-machine-upright-row",
-        "title": "Smith Machine Upright Row",
+        "title": "Upright Row: Smith Machine",
         "primer": "This is an exercise for shoulder and biceps strengthening.",
         "type": "isolation",
         "primary": [
@@ -495,7 +495,7 @@
     {
         "id": "0016",
         "name": "dumbbell-upright-rows",
-        "title": "Dumbbell Upright Rows",
+        "title": "Upright Rows: Dumbbell",
         "primer": "This is an exercise for shoulder, biceps and upper back strengthening.",
         "type": "isolation",
         "primary": [
@@ -1266,7 +1266,7 @@
     {
         "id": "0039",
         "name": "one-arm-upright-row",
-        "title": "One Arm Upright Row",
+        "title": "Upright Row: Dumbbell (One Arm)",
         "primer": "This is an exercise for shoulder and trapezius strengthening.",
         "type": "isolation",
         "primary": [
@@ -1326,7 +1326,7 @@
     {
         "id": "0041",
         "name": "smith-machine-shoulder-shrugs",
-        "title": "Smith Machine Shoulder Shrugs",
+        "title": "Shoulder Shrugs: Smith Machine",
         "primer": "This is an exercise for shoulder strengthening.",
         "type": "isolation",
         "primary": [
@@ -2234,7 +2234,7 @@
     {
         "id": "0068",
         "name": "one-arm-bench-press",
-        "title": "Bench Press: dumbbell (One Arm)",
+        "title": "Bench Press: Dumbbell (One Arm)",
         "primer": "This is an advanced strengthening exercise for the chest and rotator cuff muscles of the shoulder.",
         "type": "isolation",
         "primary": [
@@ -2273,7 +2273,7 @@
     {
         "id": "0069",
         "name": "bosu-ball-push-up",
-        "title": "Bosu Ball Push Up",
+        "title": "Push Up: Bosu Ball",
         "primer": "This is an exercise for chest, core, shoulders and triceps strengthening with the use of a Bosu ball.",
         "type": "isolation",
         "primary": [
@@ -2412,7 +2412,7 @@
     {
         "id": "0073",
         "name": "push-ups-close-and-wide-hand-versions",
-        "title": "Push Ups Close and Wide Hand Versions",
+        "title": "Push Up: Close and Wide Hand",
         "primer": "These are variations on Push Ups, one of the best exercise for muscles of the chest (pectorals), arms (bicep and triceps) and core development. The core muscles are the rectus abdomen and oblique’s which support the spine.",
         "type": "isolation",
         "primary": [
@@ -2443,8 +2443,8 @@
     {
         "id": "0075",
         "name": "push-up-feet-elevated",
-        "title": "Push Up with Feet Elevated",
-        "primer": "",
+        "title": "Push Up: Bench (Feet Elevated)",
+        "primer": "This is the same general movement as with a Push Up except your feet are elevated allowing greater range of motions and targeting the pectorals differently than the regular Push Up.",
         "type": "isolation",
         "primary": [
             "pectoralis major",
@@ -2458,7 +2458,6 @@
             "bench"
         ],
         "steps": [
-            "This is the same general movement as with a Push Up except your feet are elevated allowing greater range of motions and targeting the pectorals differently than the regular Push Up.",
             "Place your feet on a bench at least 18” off the ground.",
             "Make sure the tops of your feet are flush against the bench.",
             "Place your hands on the floor slightly wider than shoulder width apart.",
@@ -2479,7 +2478,7 @@
     {
         "id": "0076",
         "name": "push-ups-with-feet-on-exercise-ball",
-        "title": "Push Ups with feet on exercise ball",
+        "title": "Push Up: Exercise ball",
         "primer": "This is similar to the standard Push Up except using an Exercise Ball forces you to engage the muscle of your core (Rectus Abdominis, Transverse Abdominis, and the Obliques).",
         "type": "isolation",
         "primary": [
@@ -2513,7 +2512,7 @@
     {
         "id": "0077",
         "name": "push-ups",
-        "title": "Push Ups",
+        "title": "Push Up",
         "primer": "This exercise is the main strengthening exercise when wanting to strengthen ones chest, biceps and triceps as well as core muscles.",
         "type": "isolation",
         "primary": [
@@ -3334,7 +3333,7 @@
     {
         "id": "0101",
         "name": "barbell-good-mornings",
-        "title": "Barbell Good Mornings",
+        "title": "Good Mornings: Barbell",
         "primer": "This is one of the oldest exercises in bodybuilding but it still is one of the best for working the lower back.",
         "type": "isolation",
         "primary": [
@@ -3366,7 +3365,7 @@
     {
         "id": "0102",
         "name": "smith-machine-good-mornings",
-        "title": "Smith Machine Good Mornings",
+        "title": "Good Mornings: Smith Machine",
         "primer": "This exercise utilises the same technique of the standard Good Mornings yet the use of the Smith Machine provides more stability.",
         "type": "isolation",
         "primary": [
@@ -3970,7 +3969,7 @@
     {
         "id": "0123",
         "name": "hack-squat-machine",
-        "title": "Hack Squat Machine",
+        "title": "Hack Squat: Machine",
         "primer": "This exercise is a variation of the Squat which uses a machine.",
         "type": "compound",
         "primary": [
@@ -4007,7 +4006,7 @@
     {
         "id": "0124",
         "name": "smith-machine-squats",
-        "title": "Smith Machine Squats",
+        "title": "Squats: Smith Machine",
         "primer": "This exercise is a variation of a squat using the Smith Machine.",
         "type": "compound",
         "primary": [
@@ -4045,7 +4044,7 @@
     {
         "id": "0125",
         "name": "hack-squat-with-barbell",
-        "title": "Hack Squat with barbell",
+        "title": "Hack Squat: Barbell",
         "primer": "This is another variation of the basic Squat that focuses primarily on the quadriceps or thigh muscles.",
         "type": "compound",
         "primary": [
@@ -4227,7 +4226,7 @@
     {
         "id": "0130",
         "name": "squats-using-dumbbells",
-        "title": "Squats using Dumbbells",
+        "title": "Squats: Dumbbells",
         "primer": "This is a great overall exercise for the lower body that uses dumbbells.",
         "type": "compound",
         "primary": [
@@ -4264,7 +4263,7 @@
     {
         "id": "0131",
         "name": "side-squats-with-barbell",
-        "title": "Side Squats with Barbell",
+        "title": "Side Squats: Barbell",
         "primer": "This version of a squat works the hip adductors, helping build better core strength and coordination.",
         "type": "compound",
         "primary": [
@@ -4333,7 +4332,7 @@
     {
         "id": "0133",
         "name": "squat-to-bench-with-barbell",
-        "title": "Squat to Bench with Barbell",
+        "title": "Squats: Barbell (to Bench)",
         "primer": "This variation on a squat uses a bench to remind you how far down to squat.",
         "type": "compound",
         "primary": [
@@ -4346,7 +4345,8 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "barbell",
+            "bench"
         ],
         "steps": [
             "This is s great overall exercise for the lower body. There are many variations on the squat, this one uses a bench to remind you how far down to squat.",
@@ -4440,7 +4440,7 @@
     {
         "id": "0136",
         "name": "squat-to-bench-with-dumbbells",
-        "title": "Squat to Bench with Dumbbells",
+        "title": "Squats: Dumbbells (to Bench)",
         "primer": "This variation of a squat uses a bench to remind you how far down to squat.",
         "type": "compound",
         "primary": [
@@ -4453,7 +4453,8 @@
             "glutaeus maximus"
         ],
         "equipment": [
-            "dumbbell"
+            "dumbbell",
+            "bench"
         ],
         "steps": [
             "This is a great overall exercise for the lower body. There are many variations on the squat, this one uses a bench to remind you how far down to squat.",
@@ -4624,7 +4625,7 @@
     {
         "id": "0141",
         "name": "jefferson-squats-with-barbell",
-        "title": "Jefferson Squats with Barbell",
+        "title": "Jefferson Squats: Barbell",
         "primer": "This exercise builds and shapes the inner thighs.",
         "type": "compound",
         "primary": [
@@ -5024,7 +5025,7 @@
     {
         "id": "0154",
         "name": "speed-squats-with-barbell",
-        "title": "Speed Squats with Barbell",
+        "title": "Speed Squats: Barbell",
         "primer": "This version of the squat uses an empty barbell and moves at a faster pace than the standard squat.",
         "type": "compound",
         "primary": [
@@ -5061,7 +5062,7 @@
     {
         "id": "0155",
         "name": "squats-with-exercise-bands",
-        "title": "Squats with Exercise Bands",
+        "title": "Squats: Exercise Bands",
         "primer": "This version of the Squat uses flexible exercise bands for resistance instead of weights.",
         "type": "compound",
         "primary": [
@@ -5334,7 +5335,7 @@
     {
         "id": "0164",
         "name": "incline-triceps-extension-with-cable",
-        "title": "Incline Triceps Extension with Cable",
+        "title": "Triceps Extension: Cable (Incline)",
         "primer": "This exercise uses cables to isolate and work the triceps.",
         "type": "isolation",
         "primary": [
@@ -5431,7 +5432,7 @@
     {
         "id": "0167",
         "name": "standing-triceps-extension",
-        "title": "Standing Triceps Extension",
+        "title": "Triceps Extension: Dumbbell (Standing)",
         "primer": "This exercise works the triceps by reaching behind your neck.",
         "type": "isolation",
         "primary": [
@@ -5496,7 +5497,7 @@
     {
         "id": "0169",
         "name": "decline-triceps-extension-with-dumbbell",
-        "title": "Decline Triceps Extension with Dumbbell",
+        "title": "Triceps Extension: Dumbbell (Decline)",
         "primer": "This exercise combines a decline bench and dumbbells to target the triceps.",
         "type": "isolation",
         "primary": [
@@ -5525,7 +5526,7 @@
     {
         "id": "0170",
         "name": "decline-ez-bar-triceps-extension-with-barbell",
-        "title": "Decline EZ Bar Triceps Extension with Barbell",
+        "title": "Triceps Extension: EZ Bar Barbell (Decline)",
         "primer": "This exercise combines a decline bench and a curved bar to more efficiently work the triceps.",
         "type": "isolation",
         "primary": [
@@ -5618,7 +5619,7 @@
     {
         "id": "0173",
         "name": "one-arm-triceps-extension-with-dumbbell",
-        "title": "One Arm Triceps Extension with Dumbbell",
+        "title": "Triceps Extension: Dumbbell (One Arm)",
         "primer": "This exercise uses a dumbbell to work each arm individually.",
         "type": "isolation",
         "primary": [
@@ -5648,7 +5649,7 @@
     {
         "id": "0174",
         "name": "incline-triceps-extension-with-barbell",
-        "title": "Incline Triceps Extension with Barbell",
+        "title": "Triceps Extension: Barbell (Incline)",
         "primer": "This version of a triceps extension uses gravity to increase the resistance of the exercise.",
         "type": "isolation",
         "primary": [
@@ -5744,7 +5745,7 @@
     {
         "id": "0177",
         "name": "kneeling-triceps-extension-with-cable-2",
-        "title": "Kneeling Triceps Extension with Cable",
+        "title": "Triceps Extension: Cable (Kneeling)",
         "primer": "Kneeling allows you to isolate your triceps more effectively.",
         "type": "isolation",
         "primary": [
@@ -5775,7 +5776,7 @@
     {
         "id": "0178",
         "name": "low-triceps-extension-with-cable",
-        "title": "Low Triceps Extension with Cable",
+        "title": "Triceps Extension: Cable (Low)",
         "primer": "This exercise is done while lying on a seated row station.",
         "type": "isolation",
         "primary": [
@@ -5806,7 +5807,7 @@
     {
         "id": "0179",
         "name": "lying-close-grip-triceps-extension-behind-the-head-with-barbell",
-        "title": "Lying Close-Grip Triceps Extension Behind the Head with Barbell",
+        "title": "Triceps Extension: Barbell (Lying, Close Grip, Behind the Head)",
         "primer": "You can use a barbell or EZ bar to further concentrate the benefit to your triceps.",
         "type": "isolation",
         "primary": [
@@ -5868,7 +5869,7 @@
     {
         "id": "0181",
         "name": "lying-triceps-extension-with-dumbbells",
-        "title": "Lying Triceps Extension with Dumbbells",
+        "title": "Triceps Extension: Dumbbells (Lying)",
         "primer": "This exercise uses gravity to increase the resistance of the weight.",
         "type": "isolation",
         "primary": [
@@ -5899,7 +5900,7 @@
     {
         "id": "0182",
         "name": "lying-triceps-extension-across-face-with-dumbbell",
-        "title": "Lying Triceps Extension Across Face with Dumbbell",
+        "title": "Triceps Extension: Dumbbell (Lying, Across Face)",
         "primer": "This is an advanced Triceps exercise and should be avoided by beginners.",
         "type": "isolation",
         "primary": [
@@ -5966,7 +5967,7 @@
     {
         "id": "0184",
         "name": "lying-two-arm-triceps-extension-with-dumbbell",
-        "title": "Lying Two Arm Triceps Extension with Dumbbell",
+        "title": "Triceps Extension: Dumbbell (Lying Two Arm)",
         "primer": "This a lying version of a Triceps Kickback.",
         "type": "isolation",
         "primary": [
@@ -6026,7 +6027,7 @@
     {
         "id": "0186",
         "name": "single-arm-triceps-extension-with-dumbbell",
-        "title": "Single Arm Pronated Triceps Extension with Dumbbell",
+        "title": "Triceps Extension: Dumbbell (Single Arm, Pronated)",
         "primer": "This is an advanced exercise to isolate and work the tricep muscles.",
         "type": "isolation",
         "primary": [
@@ -6059,7 +6060,7 @@
     {
         "id": "0187",
         "name": "single-arm-supinated-triceps-extension-with-dumbbell",
-        "title": "Single Arm Supinated Triceps Extension with Dumbbell",
+        "title": "Triceps Extension: Dumbbell (Single Arm, Supinated)",
         "primer": "This exercise is similar to the Single Arm Pronated Triceps Extension except the movement is over the head instead of across the chest.",
         "type": "isolation",
         "primary": [
@@ -6186,7 +6187,7 @@
     {
         "id": "0191",
         "name": "seated-one-arm-triceps-extension-with-dumbbell",
-        "title": "Seated One Arm Triceps Extension with Dumbbell",
+        "title": "Triceps Extension: Dumbbell (Seated, One Arm)",
         "primer": "This exercise uses a kickback movement to work the triceps in each arm individually.",
         "type": "isolation",
         "primary": [
@@ -6217,7 +6218,7 @@
     {
         "id": "0192",
         "name": "seated-two-arm-triceps-extension-with-dumbbell",
-        "title": "Seated Two-Arm Triceps Extension with Dumbbell",
+        "title": "Triceps Extension: Dumbbell (Seated, Two-Arm)",
         "primer": "This exercise is the two handed version of seated triceps extension.",
         "type": "isolation",
         "primary": [
@@ -6248,7 +6249,7 @@
     {
         "id": "0193",
         "name": "seated-overhead-triceps-extension-with-barbell",
-        "title": "Seated Overhead Triceps Extension with Barbell",
+        "title": "Triceps Extension: Barbell (Seated, Overhead)",
         "primer": "This exercise uses a barbell behind your neck to isolate the triceps effectively.",
         "type": "isolation",
         "primary": [
@@ -6340,7 +6341,7 @@
     {
         "id": "0196",
         "name": "bent-over-one-arm-triceps-extension-with-dumbbell",
-        "title": "Bent-Over One Arm Triceps Extension with Dumbbell",
+        "title": "Triceps Extension: Dumbbell (Bent-Over, One Arm)",
         "primer": "This exercise uses a kickback movement to work the triceps in each arm individually.",
         "type": "isolation",
         "primary": [
@@ -6370,7 +6371,7 @@
     {
         "id": "0197",
         "name": "bent-over-two-arm-triceps-extension-with-dumbbell",
-        "title": "Bent-Over Two Arm Triceps Extension with Dumbbell",
+        "title": "Triceps Extension: Dumbbell (Bent-Over, Two Arm)",
         "primer": "This exercise uses a kickback movement to work the triceps in each arm individually.",
         "type": "isolation",
         "primary": [
@@ -6400,7 +6401,7 @@
     {
         "id": "0198",
         "name": "standing-triceps-extension-2",
-        "title": "Standing Triceps Extension",
+        "title": "Triceps Extension: Dumbbell (Standing)",
         "primer": "This exercise works the triceps by reaching behind your neck.",
         "type": "isolation",
         "primary": [
@@ -6431,7 +6432,7 @@
     {
         "id": "0199",
         "name": "one-arm-low-pulley-triceps-extension-with-cable",
-        "title": "One Arm Low-Pulley Triceps Extension with Cable",
+        "title": "Triceps Extension: Cable (One Arm, Low-Pulley)",
         "primer": "This exercise uses a cable machine to isolate the triceps.",
         "type": "compound",
         "primary": [
@@ -6463,7 +6464,7 @@
     {
         "id": "0200",
         "name": "standing-one-arm-triceps-extension-with-dumbbell",
-        "title": "Standing One Arm Triceps Extension with Dumbbell",
+        "title": "Triceps Extension: Dumbbell (Standing, One Arm)",
         "primer": "This is a single arm version of a behind the neck triceps exercise.",
         "type": "isolation",
         "primary": [
@@ -6489,7 +6490,7 @@
     {
         "id": "0201",
         "name": "standing-overhead-triceps-extension-with-barbell",
-        "title": "Standing Overhead Triceps Extension with Barbell",
+        "title": "Triceps Extension: Barbell (Standing, Overhead)",
         "primer": "This is a double arm barbell version of a behind the neck triceps exercise.",
         "type": "isolation",
         "primary": [
@@ -6520,7 +6521,7 @@
     {
         "id": "0202",
         "name": "standing-triceps-extension-with-towel",
-        "title": "Standing Triceps Extension with Towel",
+        "title": "Triceps Extension: Towel (Standing)",
         "primer": "This exercise requires another person and uses manual resistance, or your body’s own weight to build muscle.",
         "type": "isolation",
         "primary": [
@@ -6528,7 +6529,8 @@
         ],
         "secondary": [],
         "equipment": [
-            "body"
+            "body",
+            "towel"
         ],
         "steps": [
             "Stand with your feet shoulder width apart, your back straight and your abs drawn in.",
@@ -6745,7 +6747,7 @@
     {
         "id": "0209",
         "name": "incline-triceps-extensions-with-dumbbell",
-        "title": "Incline Triceps Extensions with Dumbbell",
+        "title": "Triceps Extensions: Dumbbell (Incline)",
         "primer": "This version of the triceps extension uses an incline bench.",
         "type": "isolation",
         "primary": [
@@ -6777,7 +6779,7 @@
     {
         "id": "0210",
         "name": "triceps-extensions-using-machine",
-        "title": "Triceps Extensions using Machine",
+        "title": "Triceps Extension: Machine",
         "primer": "This exercise uses a machine to insure proper range of motion for tricep extensions.",
         "type": "isolation",
         "primary": [
@@ -6806,7 +6808,7 @@
     {
         "id": "0211",
         "name": "biceps-curls-with-barbell",
-        "title": "Biceps Curls with Barbell",
+        "title": "Biceps Curl: Barbell",
         "primer": "This is a basic exercise for the biceps.",
         "type": "isolation",
         "primary": [
@@ -7241,7 +7243,7 @@
     {
         "id": "0224",
         "name": "biceps-curl-with-dumbbell",
-        "title": "Biceps Curl with Dumbbell",
+        "title": "Biceps Curl: Dumbbell",
         "primer": "This version of a biceps curl uses both arms at the same time.",
         "type": "isolation",
         "primary": [
@@ -7341,7 +7343,7 @@
     {
         "id": "0227",
         "name": "biceps-hammer-curl-with-dumbbell",
-        "title": "Biceps Hammer Curl with Dumbbell",
+        "title": "Biceps Curl: Dumbbell (Hammer)",
         "primer": "This exercise uses a hammering motion to isolate the biceps.",
         "type": "isolation",
         "primary": [
@@ -8195,7 +8197,7 @@
     {
         "id": "0253",
         "name": "biceps-curl-with-machine",
-        "title": "Bicep Curl with Machine",
+        "title": "Biceps Curl: Machine",
         "primer": "This exercise uses a machine to insure proper form.",
         "type": "isolation",
         "primary": [
@@ -8261,7 +8263,7 @@
     {
         "id": "0255",
         "name": "biceps-curl-seated-on-stability-ball-with-dumbbell",
-        "title": "Biceps Curl Seated on Stability Ball with Dumbbell",
+        "title": "Biceps Curl: Stability Ball with Dumbbell (seated)",
         "primer": "This version of a biceps curl uses a Stability Ball.",
         "type": "isolation",
         "primary": [
@@ -8294,7 +8296,7 @@
     {
         "id": "0256",
         "name": "biceps-curl-squat-with-dumbbell",
-        "title": "Biceps Curl Squat with Dumbbell",
+        "title": "Biceps Curl: Squat with Dumbbell",
         "primer": "This exercise combines a squat with a curl to effectively work the entire body.",
         "type": "isolation, compound",
         "primary": [
@@ -8329,7 +8331,7 @@
     {
         "id": "0257",
         "name": "biceps-curl-reverse-with-dumbbells",
-        "title": "Biceps Curl Reverse with Dumbbells",
+        "title": "Biceps Curl: Dumbbells (reverse)",
         "primer": "This is a reverse curl exercise that works all of the muscles of the arms.",
         "type": "isolation",
         "primary": [
@@ -8434,7 +8436,7 @@
     {
         "id": "0260",
         "name": "biceps-curl-with-overhead-extension-using-dumbbells-on-stability-ball",
-        "title": "Biceps Curl with Overhead Extension using Dumbbells on Stability Ball",
+        "title": "Biceps Curl: Stability Ball with Dumbbells (Overhead Extension)",
         "primer": "This exercise requires you to be able to balance kneeling on a stability ball before you can correctly perform this exercise",
         "type": "isolation",
         "primary": [
@@ -8504,7 +8506,7 @@
     {
         "id": "0262",
         "name": "biceps-curl-lunge-with-bowling-motion",
-        "title": "Bicep Curl Lunge with Bowling Motion",
+        "title": "Biceps Curl: Medicine Balll (Lunge, Bowling Motion)",
         "primer": "This exercise is similar to the motions of bowling.",
         "type": "isolation",
         "primary": [
@@ -8542,7 +8544,7 @@
     {
         "id": "0263",
         "name": "biceps-curl-on-stability-ball-with-leg-raised",
-        "title": "Bicep Curl on Stability Ball with Leg Raised",
+        "title": "Biceps Curl: Stability Ball with Dumbbell (leg raised)",
         "primer": "This exercise incorporates balance along with a bicep curl.",
         "type": "isolation",
         "primary": [
@@ -8556,7 +8558,8 @@
             "soleus"
         ],
         "equipment": [
-            "dumbbell"
+            "dumbbell",
+            "stability Ball"
         ],
         "steps": [
             "Grasp a dumbbell in each hand with a palms up grip.",
@@ -8775,7 +8778,7 @@
     {
         "id": "0269",
         "name": "biceps-curl-v-sit-on-dome-with-dumbbells",
-        "title": "Biceps Curl V Sit on Dome with Dumbbells",
+        "title": "Biceps Curl: V-Sit on Dome with Dumbbells",
         "primer": "This exercise uses a Dome (or Bosu) as a seat forcing you to engage and contract your abs throughout the exercise.",
         "type": "isolation",
         "primary": [
@@ -8786,7 +8789,8 @@
             "core"
         ],
         "equipment": [
-            "dumbbell"
+            "dumbbell",
+            "bosu ball"
         ],
         "steps": [
             "This exercise uses a Dome (or Bosu) as a seat forcing you to engage and contract your abs throughout the exercise. The name comes from having our body in the shape of a “V”.",
@@ -9724,38 +9728,6 @@
             "png/cuban-dumbbell-press-1.png",
             "png/cuban-dumbbell-press-2.png",
             "png/cuban-dumbbell-press-3.png"
-        ]
-    },
-    {
-        "id": "0301",
-        "name": "push-up-feet-elevated-2",
-        "title": "Push Ups with Feet Elevated",
-        "primer": "This is the same general movement as with a Push Up except your feet are elevated allowing greater range of motions and targeting the pectorals differently than the regular Push Up.",
-        "type": "isolation",
-        "primary": [
-            "pectoralis major"
-        ],
-        "secondary": [
-            "deltoid",
-            "triceps brachii"
-        ],
-        "equipment": [
-            "body",
-            "bench"
-        ],
-        "steps": [
-            "Place your feet on a bench at least 18” off the ground.",
-            "Make sure the tops of your feet are flush against the bench.",
-            "Place your hands on the floor slightly wider than shoulder width apart.",
-            "With your hands directly under your shoulders, press up from the floor, keeping your back and neck in a straight line so you are looking forward during the entire exercise.",
-            "Once your arms are fully extended pause and then with slow controlled movements lower yourself to the floor again."
-        ],
-        "tips": [],
-        "references": [],
-        "svg": [],
-        "png": [
-            "png/push-up-feet-elevated-2-1.png",
-            "png/push-up-feet-elevated-2-2.png"
         ]
     },
     {

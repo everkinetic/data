@@ -1,4 +1,4 @@
-# Smith Machine Upright Row
+# Upright Row: Smith Machine
 > This is an exercise for shoulder and biceps strengthening.
 
 ``` 

@@ -1,4 +1,4 @@
-# Seated Two-Arm Triceps Extension with Dumbbell
+# Triceps Extension: Dumbbell (Seated, Two-Arm)
 > This exercise is the two handed version of seated triceps extension.
 
 ``` 

@@ -1,4 +1,4 @@
-# Decline Triceps Extension with Dumbbell
+# Triceps Extension: Dumbbell (Decline)
 > This exercise combines a decline bench and dumbbells to target the triceps.
 
 ``` 

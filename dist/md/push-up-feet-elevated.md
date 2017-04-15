@@ -1,5 +1,5 @@
-# Push Up with Feet Elevated
-> 
+# Push Up: Bench (Feet Elevated)
+> This is the same general movement as with a Push Up except your feet are elevated allowing greater range of motions and targeting the pectorals differently than the regular Push Up.
 
 ``` 
 id: 0075 
@@ -11,7 +11,6 @@ equipment: body, bench
 
 ## Steps
 
- - This is the same general movement as with a Push Up except your feet are elevated allowing greater range of motions and targeting the pectorals differently than the regular Push Up.
  - Place your feet on a bench at least 18” off the ground.
  - Make sure the tops of your feet are flush against the bench.
  - Place your hands on the floor slightly wider than shoulder width apart.

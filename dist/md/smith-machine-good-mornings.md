@@ -1,4 +1,4 @@
-# Smith Machine Good Mornings
+# Good Mornings: Smith Machine
 > This exercise utilises the same technique of the standard Good Mornings yet the use of the Smith Machine provides more stability.
 
 ``` 

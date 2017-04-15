@@ -1,4 +1,4 @@
-# Standing Triceps Extension with Towel
+# Triceps Extension: Towel (Standing)
 > This exercise requires another person and uses manual resistance, or your body’s own weight to build muscle.
 
 ``` 
@@ -6,7 +6,7 @@ id: 0202
 type: isolation 
 primary: triceps brachii 
 secondary:  
-equipment: body 
+equipment: body, towel 
 ``` 
 
 ## Steps

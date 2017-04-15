@@ -1,4 +1,4 @@
-# Biceps Hammer Curl with Dumbbell
+# Biceps Curl: Dumbbell (Hammer)
 > This exercise uses a hammering motion to isolate the biceps.
 
 ``` 

@@ -1,4 +1,4 @@
-# Shoulder Shrugs
+# Shoulder Shrugs: Dumbbell
 > An exercise for trapezius strengthening.
 
 ``` 

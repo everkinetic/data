@@ -1,4 +1,4 @@
-# Biceps Curls with Barbell
+# Biceps Curl: Barbell
 > This is a basic exercise for the biceps.
 
 ``` 

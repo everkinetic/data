@@ -1,4 +1,4 @@
-# Lying Close-Grip Triceps Extension Behind the Head with Barbell
+# Triceps Extension: Barbell (Lying, Close Grip, Behind the Head)
 > You can use a barbell or EZ bar to further concentrate the benefit to your triceps.
 
 ``` 

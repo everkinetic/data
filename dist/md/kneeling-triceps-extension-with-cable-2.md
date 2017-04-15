@@ -1,4 +1,4 @@
-# Kneeling Triceps Extension with Cable
+# Triceps Extension: Cable (Kneeling)
 > Kneeling allows you to isolate your triceps more effectively.
 
 ``` 

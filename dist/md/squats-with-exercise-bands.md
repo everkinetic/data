@@ -1,4 +1,4 @@
-# Squats with Exercise Bands
+# Squats: Exercise Bands
 > This version of the Squat uses flexible exercise bands for resistance instead of weights.
 
 ``` 

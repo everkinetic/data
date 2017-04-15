@@ -1,4 +1,4 @@
-# Smith Machine Shoulder Shrugs
+# Shoulder Shrugs: Smith Machine
 > This is an exercise for shoulder strengthening.
 
 ``` 
