@@ -4,7 +4,7 @@
 ``` 
 id: 0113 
 type: isolation 
-primary: obliquus 
+primary: obliques 
 secondary:  
 equipment: body 
 ``` 
