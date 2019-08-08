@@ -5,7 +5,8 @@
     "primer": "This is a unique exercise that works the tibialis anterior muscle, one of the muscles of the calves.",
     "type": "isolation",
     "primary": [
-        "gastrocnemius", "soleus"
+        "gastrocnemius",
+        "soleus"
     ],
     "secondary": [],
     "equipment": [

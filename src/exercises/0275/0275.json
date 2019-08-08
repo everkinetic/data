@@ -5,7 +5,8 @@
     "primer": "This is an old school gym exercise which requires the assistance of another person.",
     "type": "isolation",
     "primary": [
-        "gastrocnemius", "soleus"
+        "gastrocnemius",
+        "soleus"
     ],
     "secondary": [],
     "equipment": [

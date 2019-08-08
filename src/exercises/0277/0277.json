@@ -5,7 +5,8 @@
     "primer": "This is a simple exercise and a great stretch.",
     "type": "compound",
     "primary": [
-        "gastrocnemius", "soleus"
+        "gastrocnemius",
+        "soleus"
     ],
     "secondary": [
         "ischiocrural muscles"
