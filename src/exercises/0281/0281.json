@@ -5,7 +5,8 @@
     "primer": "This is standing version of a Calf Raise.",
     "type": "isolation",
     "primary": [
-        "gastrocnemius", "soleus"
+        "gastrocnemius",
+        "soleus"
     ],
     "secondary": [],
     "equipment": [

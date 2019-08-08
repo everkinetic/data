@@ -5,7 +5,8 @@
     "primer": "This is the most simple of all exercises for the calves.",
     "type": "isolation",
     "primary": [
-        "gastrocnemius", "soleus"
+        "gastrocnemius",
+        "soleus"
     ],
     "secondary": [],
     "equipment": [

@@ -5,7 +5,8 @@
     "primer": "This version of a calf raise allows you to exercise each leg individually.",
     "type": "isolation",
     "primary": [
-        "gastrocnemius", "soleus"
+        "gastrocnemius",
+        "soleus"
     ],
     "secondary": [],
     "equipment": [

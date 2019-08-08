@@ -13,7 +13,8 @@
         "erector spinae",
         "abdominals",
         "trapezius",
-        "gastrocnemius", "soleus"
+        "gastrocnemius",
+        "soleus"
     ],
     "equipment": [
         "barbell"
@@ -25,6 +26,8 @@
         "Grasp the bar with an overhead grip.",
         "Starting with the barbell held slightly above the knees (hang position), lift the weight up over your head (step 1) then back to shoulder height (step 2) and finally back to starting position between near your knees."
     ],
-    "tips": ["Note: Bend your knees as you lift and lower the weight to help control the movement."],
+    "tips": [
+        "Note: Bend your knees as you lift and lower the weight to help control the movement."
+    ],
     "references": []
 }
