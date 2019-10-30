@@ -95,9 +95,9 @@ jsonfile@^2.1.0:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/jsonfile/-/jsonfile-2.3.1.tgz#28bcb29c596b5b7aafd34e662a329ba62cd842fc"
 
-lodash@4.15:
-  version "4.15.0"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.15.0.tgz#3162391d8f0140aa22cf8f6b3c34d6b7f63d3aa9"
+lodash@4.17:
+  version "4.17.13"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.13.tgz#0bdc3a6adc873d2f4e0c4bac285df91b64fc7b93"
 
 minimist@0.0.8:
   version "0.0.8"
