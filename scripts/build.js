@@ -48,9 +48,9 @@ _.each(util.getDirectories(__dirname + '/../src/exercises'), function (dir) {
             // optimize svg
             if (file.extension === 'svg') {
                 var svgcontent = fs.readFileSync(file.path, 'utf8');
-                svgo.optimize(svgcontent, function(result) {
+                data.svg.push(relative);
+                svgo.optimize(svgcontent).then(function(result) {
                     fs.writeFileSync(path.join(svg, file.name), result.data);
-                    data.svg.push(relative);
                 });
             }
         })
