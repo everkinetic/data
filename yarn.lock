@@ -251,9 +251,10 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-indento@^1.1.7:
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/indento/-/indento-1.1.7.tgz#16dc78c39824c69c8d66e430a5cf137ebf86b663"
+indento@^1.1.13:
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/indento/-/indento-1.1.13.tgz#751331b327c04740eeb7be40c5606e6e255c9e36"
+  integrity sha512-YZWk3mreBEM7sBPddsiQnW9Z8SGg/gNpFfscJq00HCDS7pxcQWWWMSVKJU7YkTRyDu1Zv2s8zaK8gQWKmCXHlg==
 
 internal-slot@^1.0.3:
   version "1.0.3"
@@ -345,11 +346,12 @@ js-yaml@^3.13.1:
     argparse "^1.0.7"
     esprima "^4.0.0"
 
-json2md@^1.5.6:
-  version "1.5.6"
-  resolved "https://registry.yarnpkg.com/json2md/-/json2md-1.5.6.tgz#e296517a3aae53719c1dbd9862caf57dc4101d37"
+json2md@^1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/json2md/-/json2md-1.12.0.tgz#3ac0a2f8f5af140d6f29d91ab1107ca696305165"
+  integrity sha512-bpJpuqECzkndCa10aGPxeJNikmkDN7PAGXHvrBGTI4uey6QbTL5p0rkhk9lB3lKU4J7yGvkSmVBt8VhzUGu/fA==
   dependencies:
-    indento "^1.1.7"
+    indento "^1.1.13"
 
 jsonfile@^2.1.0:
   version "2.3.1"

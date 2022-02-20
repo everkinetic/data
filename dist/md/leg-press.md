@@ -1,4 +1,5 @@
 # Leg Press
+
 > This exercise is crucial for building and strengthening the legs.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,ischiocrural muscles
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - Along with the Squat, this exercise is crucial for building and strengthening the legs.
  - Adjust the seat of the machine so that your feet comfortably reach the crosspiece with a slight bend in your knees.
@@ -20,8 +23,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0127-relaxation.svg)
+![](./../svg/0127-relaxation.svg "")
 
-![](./../svg/0127-tension.svg)
+![](./../svg/0127-tension.svg "")
+

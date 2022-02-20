@@ -1,4 +1,5 @@
 # Lateral Dumbbell Raises
+
 > This is an exercise for lateral deltoid, shoulder and forearm strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a dumbbell in each hand, palms facing inward towards your body and the dumbbells at your sides.
  - Standing with your feet shoulder with apart, draw your abs in and bend your knees slightly.
@@ -20,10 +23,12 @@ equipment: dumbbells
 
 ## Tips
 
+
  - Maintain a good upright posture ensuring no arching in the back in order to prevent injuries.
 
 ## Images
 
-![](./../svg/0018-relaxation.svg)
+![](./../svg/0018-relaxation.svg "")
 
-![](./../svg/0018-tension.svg)
+![](./../svg/0018-tension.svg "")
+

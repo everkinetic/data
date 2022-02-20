@@ -1,4 +1,5 @@
 # Crunches with Legs on Stability Ball
+
 > This exercise uses a Stability Ball as the base during your crunches.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: stability ball 
 ``` 
 
+
 ## Steps
+
 
  - Lie on your back and place your feet up on a stability ball.
  - Place your hands across your chest, or on either side of your head.
@@ -20,8 +23,10 @@ equipment: stability ball
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0290-relaxation.svg)
+![](./../svg/0290-relaxation.svg "")
 
-![](./../svg/0290-tension.svg)
+![](./../svg/0290-tension.svg "")
+

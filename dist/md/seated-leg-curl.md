@@ -1,4 +1,5 @@
 # Seated Leg Curl
+
 > This is an exercise for hamstring strengthening which is similar to the laying leg curls.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - Adjust the machine so that the footpad is just above your heels.
  - Sit upright with your abs drawn in and your legs in front of you.
@@ -19,8 +22,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0119-relaxation.svg)
+![](./../svg/0119-relaxation.svg "")
 
-![](./../svg/0119-tension.svg)
+![](./../svg/0119-tension.svg "")
+

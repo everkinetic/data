@@ -1,4 +1,5 @@
 # Zecher Squats
+
 > This variation of squat is similar to a Front Squat, it works to build the Upper muscles of the quadriceps (thighs).
 
 ``` 
@@ -9,7 +10,9 @@ secondary: glutaeus maximus,ischiocrural muscles,gastrocnemius,soleus
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This variation of squat is similar to a Front Squat, it works to build the upper muscles of the quadriceps (thighs).
  - Lift a barbell off of a weight rack and place across your chest. Hold the barbell with your arms crossed.
@@ -22,8 +25,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0161-relaxation.svg)
+![](./../svg/0161-relaxation.svg "")
 
-![](./../svg/0161-tension.svg)
+![](./../svg/0161-tension.svg "")
+

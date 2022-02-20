@@ -1,4 +1,5 @@
 # Triceps Extension: Dumbbell (Single Arm, Pronated)
+
 > This is an advanced exercise to isolate and work the tricep muscles.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - This is an advanced exercise to isolate and work the tricep (back of the arm) muscles.
  - Lie flat in a bench with your head at one end and your feet placed firmly on the floor.
@@ -22,8 +25,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0186-relaxation.svg)
+![](./../svg/0186-relaxation.svg "")
 
-![](./../svg/0186-tension.svg)
+![](./../svg/0186-tension.svg "")
+

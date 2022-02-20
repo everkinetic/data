@@ -1,4 +1,5 @@
 # Standing One Arm Bicep Curl with Cable
+
 > This is a single arm version of a bicep cable curl.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - This is a single arm version of a bicep cable curl. Cable machines are great for helping you learn proper form while building muscle.
  - Attach a stirrup bar to a low cable pulley.
@@ -22,8 +25,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0247-relaxation.svg)
+![](./../svg/0247-relaxation.svg "")
 
-![](./../svg/0247-tension.svg)
+![](./../svg/0247-tension.svg "")
+

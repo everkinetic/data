@@ -1,4 +1,5 @@
 # Standing Calf Raises using Machine
+
 > This exercise uses a machine to allow for proper form.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - This exercise uses a machine to allow for proper form.
  - Stand with your toes on the footpad of the machine and adjust your shoulders under the upper pads.
@@ -19,8 +22,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0282-relaxation.svg)
+![](./../svg/0282-relaxation.svg "")
 
-![](./../svg/0282-tension.svg)
+![](./../svg/0282-tension.svg "")
+

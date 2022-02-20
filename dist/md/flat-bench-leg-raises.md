@@ -1,4 +1,5 @@
 # Flat Bench Leg Raises
+
 > This is an exercise for lower abdominal strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - Lie on a flat bench with your hands under your hips supporting your back.
  - Your legs should be unsupported by the bench from below your knees.
@@ -20,11 +23,13 @@ equipment: body
 
 ## Tips
 
+
  - If you are pregnant you should contact your doctor prior to doing this exercise.
  - Ensure your back stays in contact with the bench at all times during this exercise.
 
 ## Images
 
-![](./../svg/0021-relaxation.svg)
+![](./../svg/0021-relaxation.svg "")
 
-![](./../svg/0021-tension.svg)
+![](./../svg/0021-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Lying High Bench Biceps Curl with Barbell
+
 > 
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - With this exercise your lay face down to isolate your biceps.
  - Lay face down on a high bench with your head at one end and your toes pressed against the floor to support you.
@@ -20,8 +23,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0234-relaxation.svg)
+![](./../svg/0234-relaxation.svg "")
 
-![](./../svg/0234-tension.svg)
+![](./../svg/0234-tension.svg "")
+

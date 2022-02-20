@@ -1,4 +1,5 @@
 # Lying Close Grip Triceps Press to Chin with Barbell
+
 > This exercise is a classic for building the triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie on a flat bench on your back, with your head at one end.
  - Grasp a bar with a close grip, approximately 6 inches apart.
@@ -20,8 +23,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0180-relaxation.svg)
+![](./../svg/0180-relaxation.svg "")
 
-![](./../svg/0180-tension.svg)
+![](./../svg/0180-tension.svg "")
+

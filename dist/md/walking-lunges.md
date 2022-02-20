@@ -1,4 +1,5 @@
 # Lunges: Dumbbell (Walking)
+
 > A walking lunge gives you the benefit of lunges plus core muscle training from the constant motion.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: quadriceps,glutaeus maximus,gastrocnemius,soleus
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Start by grasping a dumbbell in each hand.
  - Stand with your feet about 8 inches apart, toes facing forward.
@@ -20,10 +23,12 @@ equipment: dumbbell
 
 ## Tips
 
+
  - Practice the walking lunge without any weights until you are comfortable with the movements.
 
 ## Images
 
-![](./../svg/0121-relaxation.svg)
+![](./../svg/0121-relaxation.svg "")
 
-![](./../svg/0121-tension.svg)
+![](./../svg/0121-tension.svg "")
+

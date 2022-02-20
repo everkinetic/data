@@ -1,4 +1,5 @@
 # Incline Biceps Curl with Dumbbell
+
 > This exercise uses an incline bench to change your body’s position as you perform Biceps Curls.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - This exercise uses an incline bench to change your body’s position as you perform Biceps Curls. The movement is very similar to a Preacher Curl.
  - Adjust an incline bench to a 45 degree angle.
@@ -22,5 +25,7 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
+
 

@@ -1,4 +1,5 @@
 # Incline Pushdown with Cable
+
 > This exercise uses cables to isolate and work the triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - This exercise uses cables to isolate and work the triceps (muscles on the back of the arms).
  - Place an incline bench facing away from a cable pulley.
@@ -22,8 +25,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0163-relaxation.svg)
+![](./../svg/0163-relaxation.svg "")
 
-![](./../svg/0163-tension.svg)
+![](./../svg/0163-tension.svg "")
+

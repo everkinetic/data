@@ -1,4 +1,5 @@
 # Triceps Pushdown: Cable
+
 > This exercise is the original version of the triceps pushdown.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Stand in front of a cable machine and attach a short bar to a high pulley.
  - Grasp the handle with your palms facing down.
@@ -21,8 +24,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0205-relaxation.svg)
+![](./../svg/0205-relaxation.svg "")
 
-![](./../svg/0205-tension.svg)
+![](./../svg/0205-tension.svg "")
+

@@ -1,4 +1,5 @@
 # One Arm Tricep Extension with Cable
+
 > This exercise isolates the triceps muscles individually.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Place a cable pulley on the highest setting and adjust a stirrup handle to the pulley.
  - Stand facing the weight stack and grasp the handle with and underhand grip.
@@ -21,8 +24,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0166-relaxation.svg)
+![](./../svg/0166-relaxation.svg "")
 
-![](./../svg/0166-tension.svg)
+![](./../svg/0166-tension.svg "")
+

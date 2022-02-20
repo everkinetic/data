@@ -1,4 +1,5 @@
 # Cross Body Hammer Curl with Dumbbell
+
 > This exercise targets the biceps using a crossing motion rather than a standard curl.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - While standing, grab a dumbbell in each arm with palms facing in.
  - Keeping your palms facing in (and not twisting your arms) curl the dumbbell up towards your opposite shoulder.
@@ -19,8 +22,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0221-relaxation.svg)
+![](./../svg/0221-relaxation.svg "")
 
-![](./../svg/0221-tension.svg)
+![](./../svg/0221-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Push Up: Bench (Feet Elevated)
+
 > This is the same general movement as with a Push Up except your feet are elevated allowing greater range of motions and targeting the pectorals differently than the regular Push Up.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii
 equipment: body, bench 
 ``` 
 
+
 ## Steps
+
 
  - Place your feet on a bench at least 18” off the ground.
  - Make sure the tops of your feet are flush against the bench.
@@ -20,8 +23,10 @@ equipment: body, bench
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0075-relaxation.svg)
+![](./../svg/0075-relaxation.svg "")
 
-![](./../svg/0075-tension.svg)
+![](./../svg/0075-tension.svg "")
+

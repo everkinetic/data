@@ -1,4 +1,5 @@
 # One Arm Bicep Concentration on Stability Ball with Dumbbell
+
 > This exercise uses a Stability Ball instead of a bench for better form.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a dumbbell in one hand and sit on a Stability Ball with your feet wide apart.
  - Bend forward leaning at the waist.
@@ -21,8 +24,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0258-relaxation.svg)
+![](./../svg/0258-relaxation.svg "")
 
-![](./../svg/0258-tension.svg)
+![](./../svg/0258-tension.svg "")
+

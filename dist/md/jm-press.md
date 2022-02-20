@@ -1,4 +1,5 @@
 # JM Press
+
 > This is an advanced exercise used by bodybuilders and power lifters to build explosive power in the triceps muscle.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This exercise is named after the inventor, J.M. Blakley. This is an advanced exercise used by bodybuilders and power lifters to build explosive power in the triceps muscle (back of the arms).
  - Lay on a flat bench with your head just at the end of the bench.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0175-relaxation.svg)
+![](./../svg/0175-relaxation.svg "")
 
-![](./../svg/0175-tension.svg)
+![](./../svg/0175-tension.svg "")
+

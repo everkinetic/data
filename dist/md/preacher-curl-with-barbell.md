@@ -1,4 +1,5 @@
 # Preacher Curl: Barbell
+
 > A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - &nbsp;
  - Adjust the seat of the bench so that your arms are level with the top of the bench.
@@ -22,8 +25,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0239-relaxation.svg)
+![](./../svg/0239-relaxation.svg "")
 
-![](./../svg/0239-tension.svg)
+![](./../svg/0239-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Romanian Dead Lift
+
 > This is an exercise similar to the regular dead lift and strengthens the hamstring, calves, quadriceps and gluts.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,quadriceps,glutaeus maximus
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Place a barbell in front of your feet on the ground.
  - Grasp the barbell with a grip a bit wider than shoulder width apart.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0118-relaxation.svg)
+![](./../svg/0118-relaxation.svg "")
 
-![](./../svg/0118-tension.svg)
+![](./../svg/0118-tension.svg "")
+

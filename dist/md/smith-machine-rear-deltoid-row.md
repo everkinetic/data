@@ -1,4 +1,5 @@
 # Smith Machine Rear Deltoid Row
+
 > A exercise for the rear deltoid
 
 ``` 
@@ -9,7 +10,9 @@ secondary: back,biceps brachii
 equipment: smith machine 
 ``` 
 
+
 ## Steps
+
 
  - This is an exercise for rear deltoid,shoulder, biceps and back strengthening.
  -  Set the bar to the lowest setting.
@@ -22,10 +25,12 @@ equipment: smith machine
 
 ## Tips
 
+
  - Ensure you back is straight and that you maintain a good posture throughout this exercise.
 
 ## Images
 
-![](./../svg/0022-relaxation.svg)
+![](./../svg/0022-relaxation.svg "")
 
-![](./../svg/0022-tension.svg)
+![](./../svg/0022-tension.svg "")
+

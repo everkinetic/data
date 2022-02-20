@@ -1,4 +1,5 @@
 # Wide Stance Squat with Barbell
+
 > This version of the squat uses a wider stance to isolate the inner thigh.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,ischiocrural muscles
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Lifting a barbell off of a weight rack, position it on your shoulders.
  - Stand with your feet wider than shoulder width apart (about 30 inches apart) with your toes pointing out.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0160-relaxation.svg)
+![](./../svg/0160-relaxation.svg "")
 
-![](./../svg/0160-tension.svg)
+![](./../svg/0160-tension.svg "")
+

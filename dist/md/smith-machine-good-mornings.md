@@ -1,4 +1,5 @@
 # Good Mornings: Smith Machine
+
 > This exercise utilises the same technique of the standard Good Mornings yet the use of the Smith Machine provides more stability.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles
 equipment: smith machine 
 ``` 
 
+
 ## Steps
+
 
  - Place a barbell across your shoulders.
  - Keeping your head up and your back completely straight, bend at the waist until your back is parallel with the floor.
@@ -19,8 +22,10 @@ equipment: smith machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0102-relaxation.svg)
+![](./../svg/0102-relaxation.svg "")
 
-![](./../svg/0102-tension.svg)
+![](./../svg/0102-tension.svg "")
+

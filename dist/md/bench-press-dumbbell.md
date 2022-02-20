@@ -1,4 +1,5 @@
 # Bench Press: Dumbbell
+
 > This is  an exercise for chest,triceps and shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid,triceps brachii
 equipment: dumbbells, flat bench 
 ``` 
 
+
 ## Steps
+
 
  - This is an exercise for chest, triceps and shoulder strengthening.
  - Grasp the dumbbells in each hand and lie on a flat bench with your feet firmly on the ground.
@@ -23,8 +26,10 @@ equipment: dumbbells, flat bench
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0055-relaxation.svg)
+![](./../svg/0055-relaxation.svg "")
 
-![](./../svg/0055-tension.svg)
+![](./../svg/0055-tension.svg "")
+

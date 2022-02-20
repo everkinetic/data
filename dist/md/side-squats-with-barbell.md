@@ -1,4 +1,5 @@
 # Side Squats: Barbell
+
 > This version of a squat works the hip adductors, helping build better core strength and coordination.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: hip abductors,ischiocrural muscles
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Place a barbell on your shoulders and grasp it with a wide grip.
  - Stand with your feet wide apart, with the foot of the leg you will be leaning towards angled out.
@@ -19,8 +22,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0131-relaxation.svg)
+![](./../svg/0131-relaxation.svg "")
 
-![](./../svg/0131-tension.svg)
+![](./../svg/0131-tension.svg "")
+

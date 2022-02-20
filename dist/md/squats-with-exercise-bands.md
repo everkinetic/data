@@ -1,4 +1,5 @@
 # Squats: Exercise Bands
+
 > This version of the Squat uses flexible exercise bands for resistance instead of weights.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,glutaeus maximus,ischiocrural muscles
 equipment: exercise band 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet on the exercise bands with your feet shoulder width apart.
  - Grasp the handles of the bands and pull them up to your shoulders.
@@ -20,8 +23,10 @@ equipment: exercise band
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0155-relaxation.svg)
+![](./../svg/0155-relaxation.svg "")
 
-![](./../svg/0155-tension.svg)
+![](./../svg/0155-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Alternating Hammer Curl with Dumbbell
+
 > This exercise uses a hammering motion to isolate the biceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - This exercise uses a hammering (up and down) motion to isolate the biceps.
  - Stand with our feet shoulder width apart, your knees slightly bent and your abs drawn in.
@@ -22,8 +25,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0213-relaxation.svg)
+![](./../svg/0213-relaxation.svg "")
 
-![](./../svg/0213-tension.svg)
+![](./../svg/0213-tension.svg "")
+

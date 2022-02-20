@@ -1,4 +1,5 @@
 # Dead Lifts: Smith Machine
+
 > This is the same as a Dead Lift but the Smith Machine allows for better control of the weight.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles,gastrocnemius,soleus
 equipment: smith machine 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart so that your feet are under the bar.
  - Keeping your back straight bend at the waist, allow some bend in your knees.
@@ -20,8 +23,10 @@ equipment: smith machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0100-relaxation.svg)
+![](./../svg/0100-relaxation.svg "")
 
-![](./../svg/0100-tension.svg)
+![](./../svg/0100-tension.svg "")
+

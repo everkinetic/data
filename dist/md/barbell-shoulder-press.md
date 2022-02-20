@@ -1,4 +1,5 @@
 # Seated Barbell Shoulder Press
+
 > This is an exercise for shoulder, chest and triceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,pectoralis major
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Sitting on a bench with a barbell rack, grasp the barbell with a grip 3 to 4 inches wider than your shoulders.
  - Lift the bar off the rack and lower it to just at the height of your shoulders.
@@ -18,7 +21,9 @@ equipment: barbell
 
 ## Tips
 
+
  - Do not perform this exercise if you have shoulder, elbow or wrist pain.
 
 ## Images
+
 

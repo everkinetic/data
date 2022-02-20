@@ -1,4 +1,5 @@
 # Close Triceps Pushup
+
 > This version of the Pushup isolates the tricep muscles.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: pectoralis major
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - This version of the Pushup isolates the tricep (back of the arm) muscles.
  - Kneel down on the floor or a mat, placing your hand thumbs together and raise your up on your toes.
@@ -20,8 +23,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0188-relaxation.svg)
+![](./../svg/0188-relaxation.svg "")
 
-![](./../svg/0188-tension.svg)
+![](./../svg/0188-tension.svg "")
+

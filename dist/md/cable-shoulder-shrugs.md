@@ -1,4 +1,5 @@
 # Shoulder Shrugs: Cable
+
 > An exercise for trapezius strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Attach a pulley to the lowest setting on cable machine.
  - Stand with your feet shoulder width apart, your abs drawn and your back straight.
@@ -19,10 +22,12 @@ equipment: cable
 
 ## Tips
 
+
  - Bend your knees slightly when standing.
 
 ## Images
 
-![](./../svg/0009-relaxation.svg)
+![](./../svg/0009-relaxation.svg "")
 
-![](./../svg/0009-tension.svg)
+![](./../svg/0009-tension.svg "")
+

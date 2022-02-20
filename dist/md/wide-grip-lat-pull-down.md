@@ -1,4 +1,5 @@
 # Pull Down: Wide Bar (Wide Grip)
+
 > This is an exercise for lats, biceps and middle back strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii,latissimus dorsi
 equipment: cable, wide bar 
 ``` 
 
+
 ## Steps
+
 
  - Sit at a cable pull down machine fitted with a wide bar.
  - Grasp the bar with a wide overhand grip (palms facing forward) .
@@ -19,7 +22,9 @@ equipment: cable, wide bar
 
 ## Tips
 
+
  - Ensure you maintain a straight back trough out this exercise.
 
 ## Images
+
 

@@ -1,4 +1,5 @@
 # Triceps Extension: Barbell (Seated, Overhead)
+
 > This exercise uses a barbell behind your neck to isolate the triceps effectively.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Sit on a short straight back chair with your feet firmly placed on the floor and your back straight.
  - Grasp an EZ or Curl bar, or barbell with a grip about 6 inches apart.
@@ -19,8 +22,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0193-relaxation.svg)
+![](./../svg/0193-relaxation.svg "")
 
-![](./../svg/0193-tension.svg)
+![](./../svg/0193-tension.svg "")
+

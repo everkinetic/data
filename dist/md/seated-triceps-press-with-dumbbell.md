@@ -1,4 +1,5 @@
 # Seated Triceps Press with Dumbbell
+
 > This exercise uses a single dumbbell held between both hands to work the triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Sit on a short, straight backed bench with your feet planted firmly on the floor.
  - Drawing your abs in, grasp the dumbbell with both hands with a palms up grip.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0194-relaxation.svg)
+![](./../svg/0194-relaxation.svg "")
 
-![](./../svg/0194-tension.svg)
+![](./../svg/0194-tension.svg "")
+

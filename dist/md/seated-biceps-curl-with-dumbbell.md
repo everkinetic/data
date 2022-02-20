@@ -1,4 +1,5 @@
 # Seated Bicep Curl with Dumbbell
+
 > This exercise is a seated biceps curl using dumbbells.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Sit on bench with your feet firmly on the floor and your back straight.
  - Grasp a dumbbell in each hand with your palms facing each other.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0243-relaxation.svg)
+![](./../svg/0243-relaxation.svg "")
 
-![](./../svg/0243-tension.svg)
+![](./../svg/0243-tension.svg "")
+

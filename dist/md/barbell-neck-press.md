@@ -1,4 +1,5 @@
 # Barbell Neck Press
+
 > This is an advanced exercise for chest strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii
 equipment: barbell, flat bench 
 ``` 
 
+
 ## Steps
+
 
  - Lie on a flat bench with you feet planted firmly on the floor.
  - Grasp the bar a little wider than shoulder width apart.
@@ -23,8 +26,10 @@ equipment: barbell, flat bench
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0067-relaxation.svg)
+![](./../svg/0067-relaxation.svg "")
 
-![](./../svg/0067-tension.svg)
+![](./../svg/0067-tension.svg "")
+

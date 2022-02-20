@@ -1,4 +1,5 @@
 # One Legged Cable Kickback
+
 > This is an exercise for gluts and hamstring strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Standing at a cable tower attach an ankle cuff to a low pulley.
  - Facing the weight stack, with a slight bend in your knees and your abs drawn in
@@ -19,8 +22,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0112-relaxation.svg)
+![](./../svg/0112-relaxation.svg "")
 
-![](./../svg/0112-tension.svg)
+![](./../svg/0112-tension.svg "")
+

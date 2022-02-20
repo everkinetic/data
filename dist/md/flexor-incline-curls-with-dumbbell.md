@@ -1,4 +1,5 @@
 # Flexor Incline Curls with Dumbbell
+
 > This exercise was designed to keep the stress on the biceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Sit on an incline bench with your feet firmly on the floor in front of you.
  - Grasp a dumbbell with your palms facing up.
@@ -19,8 +22,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0228-relaxation.svg)
+![](./../svg/0228-relaxation.svg "")
 
-![](./../svg/0228-tension.svg)
+![](./../svg/0228-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Lying Squat
+
 > This exercise is similar to a Leg Press Machine working the same muscles.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,ischiocrural muscles
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - Adjust the shoulder rack of the machine so that your feet comfortably reach the crosspiece with a slight bend in your knees.
  - To begin, press your feet forward and release the safety locks.
@@ -19,8 +22,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0144-relaxation.svg)
+![](./../svg/0144-relaxation.svg "")
 
-![](./../svg/0144-tension.svg)
+![](./../svg/0144-tension.svg "")
+

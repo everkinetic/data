@@ -1,4 +1,5 @@
 # Bench Press: Bands (Incline)
+
 > This is an exercise for chest and biceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii
 equipment: exercise band, bench: incline 
 ``` 
 
+
 ## Steps
+
 
  - Securely fasten the band under the leg of a flat bench, near your head.
  - Lie flat on the bench with your feet flat on the floor in order to stabilise your movements.
@@ -20,8 +23,10 @@ equipment: exercise band, bench: incline
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0044-relaxation.svg)
+![](./../svg/0044-relaxation.svg "")
 
-![](./../svg/0044-tension.svg)
+![](./../svg/0044-tension.svg "")
+

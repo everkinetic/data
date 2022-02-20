@@ -1,4 +1,5 @@
 # Seated Military Press
+
 > An exercise for the shoulder and triceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii
 equipment: barbell, bench 
 ``` 
 
+
 ## Steps
+
 
  - Sit on the bench with your toes pointing straight out, back straight and abs drawn in.
  - Grip the bar with your palms facing outwards and your hands shoulder width apart
@@ -18,11 +21,13 @@ equipment: barbell, bench
 
 ## Tips
 
+
  - Ensure your hips, knees and ankles are at 90 degree positions to ensure optimal posture.
  - This exercise can also be performed with the bar in the starting position behind your head.
 
 ## Images
 
-![](./../svg/0004-relaxation.svg)
+![](./../svg/0004-relaxation.svg "")
 
-![](./../svg/0004-tension.svg)
+![](./../svg/0004-tension.svg "")
+

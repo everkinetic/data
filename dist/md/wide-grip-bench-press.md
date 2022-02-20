@@ -1,4 +1,5 @@
 # Bench Press: Barbell (Wide Grip)
+
 > This is an exercise for chest, triceps and shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: flat bench, barbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie flat on a bench with your feet flat on the floor.
  - Place your hands wider than shoulder width apart on the bar and lift it off the rack, this is starting position.
@@ -20,10 +23,12 @@ equipment: flat bench, barbell
 
 ## Tips
 
+
  - Ensure that your hips and back remain in contact through out the exercise.
 
 ## Images
 
-![](./../svg/0082-relaxation.svg)
+![](./../svg/0082-relaxation.svg "")
 
-![](./../svg/0082-tension.svg)
+![](./../svg/0082-tension.svg "")
+

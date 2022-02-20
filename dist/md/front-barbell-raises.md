@@ -1,4 +1,5 @@
 # Front Barbell Raises
+
 > An exercise for shoulder, chest and forearm strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: pectoralis major,forerm
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a barbell with an overhand grip(palms of hands face downwards) .
  - Stand up-right with your feet shoulder width apart, knees slightly bent and your abs drawn in.
@@ -18,8 +21,10 @@ equipment: barbell
 
 ## Tips
 
+
  - Maintain a good upright posture when performing this exercise, do not sway or arch your back.
  - Do not perform this exercise if you have shoulder pain.
 
 ## Images
+
 

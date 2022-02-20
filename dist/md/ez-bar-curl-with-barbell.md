@@ -1,4 +1,5 @@
 # EZ Bar Curl with Barbell
+
 > This exercise uses an EZ or curl bar to better isolate and build the arms.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart and your knees slightly bent.
  - Grasp the barbell with palms up.
@@ -20,8 +23,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0226-relaxation.svg)
+![](./../svg/0226-relaxation.svg "")
 
-![](./../svg/0226-tension.svg)
+![](./../svg/0226-tension.svg "")
+

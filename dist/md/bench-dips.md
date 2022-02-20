@@ -1,4 +1,5 @@
 # Bench Dips
+
 > This exercise is one of the most basic and still one of the best for building the triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: pectoralis major
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - This exercise is one of the most basic and still one of the best for building the triceps (muscles on the back of the arm).
  - Place two benches parallel to each other 3-4 feet apart.
@@ -22,8 +25,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0162-relaxation.svg)
+![](./../svg/0162-relaxation.svg "")
 
-![](./../svg/0162-tension.svg)
+![](./../svg/0162-tension.svg "")
+

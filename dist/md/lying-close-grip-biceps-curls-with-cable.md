@@ -1,4 +1,5 @@
 # Lying Close Grip Biceps Curls with Cable
+
 > This exercise combines a flat body position with a pulling motion to work the biceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Place a flat bench under a cable weight stack and attach a flat bar to the pulley.
  - Lie down with your head towards the stack and your feet firmly on the floor.
@@ -20,8 +23,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0233-relaxation.svg)
+![](./../svg/0233-relaxation.svg "")
 
-![](./../svg/0233-tension.svg)
+![](./../svg/0233-tension.svg "")
+

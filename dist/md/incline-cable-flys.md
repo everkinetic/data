@@ -1,4 +1,5 @@
 # Incline Cable Fly's
+
 > This exercise is an alternative to the Butterfly or Pec Deck, it defines the muscles of the chest.Place an incline bench set at a 45 degree angle between two cable towers.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii,triceps brachii,forearm
 equipment: bench: incline, cable 
 ``` 
 
+
 ## Steps
+
 
  - Place an incline bench set at a 45 degree angle between two cable towers.
  - Grasp a pulley in each hand with your palms facing up.
@@ -19,8 +22,10 @@ equipment: bench: incline, cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0060-relaxation.svg)
+![](./../svg/0060-relaxation.svg "")
 
-![](./../svg/0060-tension.svg)
+![](./../svg/0060-tension.svg "")
+

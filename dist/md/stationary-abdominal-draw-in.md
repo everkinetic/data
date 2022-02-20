@@ -1,4 +1,5 @@
 # Stationary Abdominal Draw In
+
 > This is an exercise for abdominal and core strengthening which are vital in supporting the spine.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: core
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - Get down on a mat on your hands and knees, forming a four point rectangle or square shape.
  - Keep your back straight and your hips and pelvis in a neutral position.
@@ -19,10 +22,12 @@ equipment: body
 
 ## Tips
 
+
  - For this exercise to be maximally effective your back should not move at all through out the contraction and relaxation.
 
 ## Images
 
-![](./../svg/0027-relaxation.svg)
+![](./../svg/0027-relaxation.svg "")
 
-![](./../svg/0027-tension.svg)
+![](./../svg/0027-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Dumbbell Raise
+
 > This is an exercise for shoulder and biceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - Stand upright with your feet shoulder width apart and a slight bend in your knees.
  - Grasp a dumbbell in each hand, in front of your thighs. This is your starting position.
@@ -20,5 +23,7 @@ equipment: dumbbells
 ## Tips
 
 
+
 ## Images
+
 

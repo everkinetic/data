@@ -1,4 +1,5 @@
 # Bench Press: Barbell
+
 > This is an exercise for the chest.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoideus (clavicula)
 equipment: bench, barbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie on a flat bench with your feet flat on the floor, keep your back flat on the bench.
  - Grasp the bar a little wider than shoulder width apart.
@@ -21,8 +24,10 @@ equipment: bench, barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0042-relaxation.svg)
+![](./../svg/0042-relaxation.svg "")
 
-![](./../svg/0042-tension.svg)
+![](./../svg/0042-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Wide Grip Standing Biceps Curl with Barbell
+
 > This is a wide grip version of a biceps curl.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This is a wide grip version of a biceps curl. The wider grip targets the lateral or outer portion of the muscle.
  - Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.
@@ -22,8 +25,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0250-relaxation.svg)
+![](./../svg/0250-relaxation.svg "")
 
-![](./../svg/0250-tension.svg)
+![](./../svg/0250-tension.svg "")
+

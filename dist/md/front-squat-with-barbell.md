@@ -1,4 +1,5 @@
 # Front Squat with Barbell
+
 > The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles,gastrocnemius,soleus
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders. This exercise can be a good substitute for people with back and neck injuries.
  - Place the barbell on your upper chest, resting it across your front deltoids and holding it with your arms crossed securely.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0138-relaxation.svg)
+![](./../svg/0138-relaxation.svg "")
 
-![](./../svg/0138-tension.svg)
+![](./../svg/0138-tension.svg "")
+

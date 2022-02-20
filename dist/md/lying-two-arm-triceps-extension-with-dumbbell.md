@@ -1,4 +1,5 @@
 # Triceps Extension: Dumbbell (Lying Two Arm)
+
 > This a lying version of a Triceps Kickback.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie flat on a bench, on your back, with your head at one end.
  - Grasp a dumbbell in each hand and raise them at arms length over your shoulders.
@@ -19,8 +22,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0184-relaxation.svg)
+![](./../svg/0184-relaxation.svg "")
 
-![](./../svg/0184-tension.svg)
+![](./../svg/0184-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Upright Cable Row
+
 > This is an exercise for shoulder, biceps and upper back strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: upper back,biceps brachii
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Attach a straight bar to the pulley on the floor.
  - Stand with your feet shoulder width apart, your abs drawn in and your back straight.
@@ -20,10 +23,12 @@ equipment: cable
 
 ## Tips
 
+
  - Do not arch your back when raising the bar to your shoulders.
 
 ## Images
 
-![](./../svg/0015-relaxation.svg)
+![](./../svg/0015-relaxation.svg "")
 
-![](./../svg/0015-tension.svg)
+![](./../svg/0015-tension.svg "")
+

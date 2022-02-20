@@ -1,4 +1,5 @@
 # Front Cable Raises
+
 > An exercise for shoulders, chest and forearm strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: pectoralis major,forearm
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Place the pulley on the setting just above the floor.
  - Stand with your feet shoulder width apart, your abs drawn in and your knees slightly bent.
@@ -20,11 +23,13 @@ equipment: cable
 
 ## Tips
 
+
  - Maintain a good posture at all times during this exercise ensuring not swaying or arching at your back.
  - Do not perform this exercise if you have shoulder pain.
 
 ## Images
 
-![](./../svg/0008-relaxation.svg)
+![](./../svg/0008-relaxation.svg "")
 
-![](./../svg/0008-tension.svg)
+![](./../svg/0008-tension.svg "")
+

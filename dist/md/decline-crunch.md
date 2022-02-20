@@ -1,4 +1,5 @@
 # Decline Crunch
+
 > Using a decline crunch allows you keep your legs steady and isolate all of the abdominal muscles.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - Lie on a decline bench face up.
  - Place your feet securely under the pads.
@@ -21,8 +24,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0292-relaxation.svg)
+![](./../svg/0292-relaxation.svg "")
 
-![](./../svg/0292-tension.svg)
+![](./../svg/0292-tension.svg "")
+

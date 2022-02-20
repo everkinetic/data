@@ -1,4 +1,5 @@
 # Biceps Curl: Medicine Balll (Lunge, Bowling Motion)
+
 > This exercise is similar to the motions of bowling.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,triceps brachii,ischiocrural muscles,glutaeus ma
 equipment: medicine ball 
 ``` 
 
+
 ## Steps
+
 
  - Hold a Medicine Ball in one hand with your palms facing up at shoulder height.
  - Bring one foot back and into a lunge, keeping your front foot stationary and not letting your back knee touch the ground.
@@ -20,8 +23,10 @@ equipment: medicine ball
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0262-relaxation.svg)
+![](./../svg/0262-relaxation.svg "")
 
-![](./../svg/0262-tension.svg)
+![](./../svg/0262-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Rear Deltoid Row Dumbbell
+
 > This is an exercise for deltoid, biceps and trapezius strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii,trapezius
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Place your right foot on the floor, rest your left knee and hand on a flat bench.
  - Lean forward so your body’s weight is supported by your left arm and knee.
@@ -21,10 +24,12 @@ equipment: dumbbell
 
 ## Tips
 
+
  - maintain a good posture at all times throughout the exercise.
 
 ## Images
 
-![](./../svg/0024-relaxation.svg)
+![](./../svg/0024-relaxation.svg "")
 
-![](./../svg/0024-tension.svg)
+![](./../svg/0024-tension.svg "")
+

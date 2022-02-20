@@ -1,4 +1,5 @@
 # Standing Barbell Calf Raise
+
 > This is standing version of a Calf Raise.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Place a block or two free weight plates on the floor.
  - Place a barbell across your back and step up so the balls of your feet are on the block.
@@ -19,8 +22,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0281-relaxation.svg)
+![](./../svg/0281-relaxation.svg "")
 
-![](./../svg/0281-tension.svg)
+![](./../svg/0281-tension.svg "")
+

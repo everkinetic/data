@@ -1,4 +1,5 @@
 # Decline Oblique Crunch
+
 > This version of a decline crunch isolates the oblique muscles of the abs.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - This version of a decline crunch isolates the oblique (side) muscles of the abs.
  - Lie on a decline bench face up.
@@ -22,8 +25,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0293-relaxation.svg)
+![](./../svg/0293-relaxation.svg "")
 
-![](./../svg/0293-tension.svg)
+![](./../svg/0293-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Front Raises
+
 > This is an exercise for shoulder, chest and forearm strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm,pectoralis major
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart, abs drawn in and knees slightly bent.
  - Grasp a dumbbell in each hand, with your palm facing down.
@@ -20,7 +23,9 @@ equipment: dumbbell
 
 ## Tips
 
+
  - Do not perform this exercise if you have any shoulder, elbow or wrist pain.
 
 ## Images
+
 

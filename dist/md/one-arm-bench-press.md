@@ -1,4 +1,5 @@
 # Bench Press: Dumbbell (One Arm)
+
 > This is an advanced strengthening exercise for the chest and rotator cuff muscles of the shoulder.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: flat bench, dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie flat on a bench with your feet placed firmly on the floor and your abs drawn in.
  - Grasp the dumbbell in one hand and bring it up to the side of your chest, this is starting position.
@@ -20,11 +23,13 @@ equipment: flat bench, dumbbell
 
 ## Tips
 
+
  - Ensure your hips and back remain in contact with the bench at all times during this exercise.
  - Start with a lighter weight in order to perfect the exercise technique and then when progressing onto a heavier weight you should be spotted to ensure safety and injury prevention.
 
 ## Images
 
-![](./../svg/0068-relaxation.svg)
+![](./../svg/0068-relaxation.svg "")
 
-![](./../svg/0068-tension.svg)
+![](./../svg/0068-tension.svg "")
+

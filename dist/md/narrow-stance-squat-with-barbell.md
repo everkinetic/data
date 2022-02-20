@@ -1,4 +1,5 @@
 # Narrow Stance Squat with Barbell
+
 > This version of the Squat targets and defines more of the externals leg muscles.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: glutaeus maximus,gastrocnemius,soleus,ischiocrural muscles
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - A great overall exercise for the lower body. This version of the Squat targets and defines more of the externals leg muscles.
  - Lifting a barbell off of a weight rack, position it on your shoulders.
@@ -22,8 +25,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0146-relaxation.svg)
+![](./../svg/0146-relaxation.svg "")
 
-![](./../svg/0146-tension.svg)
+![](./../svg/0146-tension.svg "")
+

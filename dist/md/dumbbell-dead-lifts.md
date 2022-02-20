@@ -1,4 +1,5 @@
 # Dead Lifts: Dumbbell
+
 > This is an exercise for lower back, hamstring and calves strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,ischiocrural muscles
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - Grasp 2 dumbbells and stand with your feet shoulder width apart.
  - Keeping your back straight bend at the waist, allow some bend in your knees.
@@ -21,10 +24,12 @@ equipment: dumbbells
 
 ## Tips
 
+
  - Do not increase the weight on this exercise until you have mastered the correct form.
 
 ## Images
 
-![](./../svg/0107-relaxation.svg)
+![](./../svg/0107-relaxation.svg "")
 
-![](./../svg/0107-tension.svg)
+![](./../svg/0107-tension.svg "")
+

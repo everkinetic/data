@@ -1,4 +1,5 @@
 # Lying Supine Biceps Curl with Dumbbell
+
 > This is an advanced biceps exercise where you lay down to isolate the muscles you are working.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - This is another biceps exercise where you lay down to isolate the muscles you are working. This is an advanced exercise.
  - Lie on a flat bench with your head at one end and your feet planted firmly on the floor.
@@ -22,8 +25,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0235-relaxation.svg)
+![](./../svg/0235-relaxation.svg "")
 
-![](./../svg/0235-tension.svg)
+![](./../svg/0235-tension.svg "")
+

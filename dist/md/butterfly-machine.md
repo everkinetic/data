@@ -1,4 +1,5 @@
 # Butterfly Machine
+
 > This is an exercise for chest strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: machine: butterfly 
 ``` 
 
+
 ## Steps
+
 
  - Adjust the machine so you are sitting at chest heights with the pads.
  - Sit on the machine with your back flat.
@@ -21,5 +24,7 @@ equipment: machine: butterfly
 ## Tips
 
 
+
 ## Images
+
 

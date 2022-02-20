@@ -1,4 +1,5 @@
 # Step Up: Dumbbell (Bicep Curl, Single Leg Balance)
+
 > This exercise combines a step up with a bicep curl.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: core,quadriceps,forearm,ischiocrural muscles,glutaeus maximus,gastroc
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - This is an advanced exercise. This exercise combines a step up with a bicep curl.
  - Place a box or bench in front of you.
@@ -22,8 +25,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0266-relaxation.svg)
+![](./../svg/0266-relaxation.svg "")
 
-![](./../svg/0266-tension.svg)
+![](./../svg/0266-tension.svg "")
+

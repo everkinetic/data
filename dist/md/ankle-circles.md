@@ -1,4 +1,5 @@
 # Ankle Circles
+
 > This is the most simple of all exercises for the calves.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - Stand on one foot near a chair or wall for support.
  - Lift your foot off the ground and draw circles clockwise in the air with your toes.
@@ -18,8 +21,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0270-relaxation.svg)
+![](./../svg/0270-relaxation.svg "")
 
-![](./../svg/0270-tension.svg)
+![](./../svg/0270-tension.svg "")
+

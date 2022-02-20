@@ -1,4 +1,5 @@
 # Triceps Extension: Dumbbell (Bent-Over, One Arm)
+
 > This exercise uses a kickback movement to work the triceps in each arm individually.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart, your abs drawn in and your back straight as you bend at the waist.
  - Hold a dumbbell in your right hand.
@@ -19,8 +22,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0196-relaxation.svg)
+![](./../svg/0196-relaxation.svg "")
 
-![](./../svg/0196-tension.svg)
+![](./../svg/0196-tension.svg "")
+

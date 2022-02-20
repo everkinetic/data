@@ -1,4 +1,5 @@
 # Triceps Extension: Dumbbell (Standing, One Arm)
+
 > This is a single arm version of a behind the neck triceps exercise.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart, your back straight and your abs drawn in.
  - Hold a dumbbell in your right hand with your palms facing up.
@@ -21,5 +24,7 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
+
 

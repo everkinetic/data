@@ -1,4 +1,5 @@
 # One Armed Biased Push Up
+
 > This is an exercise for chest strengthening but also strengthens ones core, shoulders, biceps and triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,bicpes,deltoid,core
 equipment: bosu ball 
 ``` 
 
+
 ## Steps
+
 
  - Arrange the ball so that as you begin the exercise, one hand on the Bosu ball and the other on the floor.
  - Place the ball flat side down on the floor.
@@ -21,8 +24,10 @@ equipment: bosu ball
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0072-relaxation.svg)
+![](./../svg/0072-relaxation.svg "")
 
-![](./../svg/0072-tension.svg)
+![](./../svg/0072-tension.svg "")
+

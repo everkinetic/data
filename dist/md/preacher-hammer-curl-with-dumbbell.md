@@ -1,4 +1,5 @@
 # Preacher Curl: Dumbbell (Hammer)
+
 > This exercise combines a Hammer Curl with a Preacher bench.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Adjust the seat of the bench so that your arms are level with the top of the bench.
  - Grasp a dumbbell in each hand with your palms facing each other, shoulder width apart and extend your arms fully along the bench.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0240-relaxation.svg)
+![](./../svg/0240-relaxation.svg "")
 
-![](./../svg/0240-tension.svg)
+![](./../svg/0240-tension.svg "")
+

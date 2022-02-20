@@ -1,4 +1,5 @@
 # Ab Rollout with Barbell
+
 > This exercise works the abs and lower back and is the proper version of an “ab roller”.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: erector spinae,deltoid
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Place a barbell on the floor at your feet.
  - Bending at the waist, grip the barbell with a shoulder with overhand grip.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0285-relaxation.svg)
+![](./../svg/0285-relaxation.svg "")
 
-![](./../svg/0285-tension.svg)
+![](./../svg/0285-tension.svg "")
+

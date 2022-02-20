@@ -1,4 +1,5 @@
 # Single Leg Squat with Barbell
+
 > This is an advanced exercise and modification of the basic squat.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,ischiocrural muscles
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This is an advanced exercise and modification of the basic squat. Mastery of the squat is recommended before attempting this exercise.
  - Place a barbell on your back, above your shoulders with a wide grip.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0132-relaxation.svg)
+![](./../svg/0132-relaxation.svg "")
 
-![](./../svg/0132-tension.svg)
+![](./../svg/0132-tension.svg "")
+

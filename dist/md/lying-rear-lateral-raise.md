@@ -1,4 +1,5 @@
 # Lying Rear Lateral Raise
+
 > This is an exercise for shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: flat bench, dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - Place the dumbbells at he head of the bench.
  - Lie facedown on a raised bench; raised enough for your arms to move freely beneath the bench.
@@ -21,8 +24,10 @@ equipment: flat bench, dumbbells
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0023-relaxation.svg)
+![](./../svg/0023-relaxation.svg "")
 
-![](./../svg/0023-tension.svg)
+![](./../svg/0023-tension.svg "")
+

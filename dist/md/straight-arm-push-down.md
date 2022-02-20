@@ -1,4 +1,5 @@
 # Straight Arm Push Down
+
 > This exercise for strengthening the Lats and also works the Triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Grasp wide grip pull down bar with a wide grip so your hands are on the portion of the bar which curves down.
  - Stand erect with your abs drawn in.
@@ -19,8 +22,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0092-relaxation.svg)
+![](./../svg/0092-relaxation.svg "")
 
-![](./../svg/0092-tension.svg)
+![](./../svg/0092-tension.svg "")
+

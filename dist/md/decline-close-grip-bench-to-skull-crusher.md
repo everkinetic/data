@@ -1,4 +1,5 @@
 # Decline Close Grip Bench to Skull Crusher
+
 > This exercise combines a close grip bench press with triceps extension.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: pectoralis major
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Lay with your back on a flat bench.
  - Grip a barbell with a close grip 8-12 inches apart.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0168-relaxation.svg)
+![](./../svg/0168-relaxation.svg "")
 
-![](./../svg/0168-tension.svg)
+![](./../svg/0168-tension.svg "")
+

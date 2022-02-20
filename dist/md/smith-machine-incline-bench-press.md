@@ -1,4 +1,5 @@
 # Bench Press: Smith Machine (Incline)
+
 > 
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii
 equipment: smith machine 
 ``` 
 
+
 ## Steps
+
 
  - This is an exercise for chest, shoulder and triceps strengthening.
  - Place an incline bench at a 45 degree angle in the middle of the Smith Machine.
@@ -21,5 +24,7 @@ equipment: smith machine
 ## Tips
 
 
+
 ## Images
+
 

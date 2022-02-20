@@ -1,4 +1,5 @@
 # Front Dumbbell Raise
+
 > This is an exercise for shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - Stand with a dumbbell in each hand with an overhand grip, your feet shoulder width apart and your abs drawn in.
  - Keeping each arm straight raise your left arm to just above shoulder height.
@@ -19,8 +22,10 @@ equipment: dumbbells
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0033-relaxation.svg)
+![](./../svg/0033-relaxation.svg "")
 
-![](./../svg/0033-tension.svg)
+![](./../svg/0033-tension.svg "")
+

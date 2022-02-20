@@ -1,4 +1,5 @@
 # Lying Bicep Cable Curl
+
 > By lying down you are able to isolate the muscles of your biceps without standing or sitting.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Attach a short bar to a cable pulley set on the lowest setting.
  - Lie down on a mat or the floor with your feet touching the weight stack.
@@ -20,8 +23,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0232-relaxation.svg)
+![](./../svg/0232-relaxation.svg "")
 
-![](./../svg/0232-tension.svg)
+![](./../svg/0232-tension.svg "")
+

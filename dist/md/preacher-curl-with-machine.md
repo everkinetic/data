@@ -1,4 +1,5 @@
 # Preacher Curl: Machine
+
 > A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms. This version of the exercises is a machine exercise. This is a good exercise for beginners.
  - Adjust the seat of the bench so your arms are level with the top of the bench. Rest your arms against the bench and extend them fully. Grasp the bar underhand (palms facing up) and pull it towards your head. Pause for a moment and then lower the bar back to starting position.
@@ -18,8 +21,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0236-relaxation.svg)
+![](./../svg/0236-relaxation.svg "")
 
-![](./../svg/0236-tension.svg)
+![](./../svg/0236-tension.svg "")
+

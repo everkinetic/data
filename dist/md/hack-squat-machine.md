@@ -1,4 +1,5 @@
 # Hack Squat: Machine
+
 > This exercise is a variation of the Squat which uses a machine.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles,gastrocnemius,soleus
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - This exercise is a variation of the Squat which uses a machine.  This exercise may be preferred by beginners.
  - Lie face up on a Hack Squat machine with your shoulders against the pad.
@@ -22,8 +25,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0123-relaxation.svg)
+![](./../svg/0123-relaxation.svg "")
 
-![](./../svg/0123-tension.svg)
+![](./../svg/0123-tension.svg "")
+

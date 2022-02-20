@@ -1,4 +1,5 @@
 # Concentration Curls with Dumbbell
+
 > Concentration exercises limit your range of movement to increase the effectiveness of the movement.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Sit on the end of a flat bench with your feet flat and your legs spread apart.
  - Grasp a dumbbell in your hand, palms facing up.
@@ -21,8 +24,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0220-relaxation.svg)
+![](./../svg/0220-relaxation.svg "")
 
-![](./../svg/0220-tension.svg)
+![](./../svg/0220-tension.svg "")
+

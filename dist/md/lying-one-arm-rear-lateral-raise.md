@@ -1,4 +1,5 @@
 # Lying One Arm Rear Lateral Raise
+
 > This is an exercise for shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell, flat bench 
 ``` 
 
+
 ## Steps
+
 
  - Lay face down on a flat bench high enough for your arms to hang down to the floor.
  - Place a dumbbell at your side.
@@ -20,10 +23,12 @@ equipment: dumbbell, flat bench
 
 ## Tips
 
+
  - Ensure your back is straight throughout this exercise.
 
 ## Images
 
-![](./../svg/0037-relaxation.svg)
+![](./../svg/0037-relaxation.svg "")
 
-![](./../svg/0037-tension.svg)
+![](./../svg/0037-tension.svg "")
+

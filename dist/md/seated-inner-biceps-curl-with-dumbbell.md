@@ -1,4 +1,5 @@
 # Seated Inner Biceps Curl with Dumbbell
+
 > This exercise works the inner biceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Sit on the edge of a bench with your feet firmly planted on the floor.
  - Keep your back straight and your abs drawn in.
@@ -20,6 +23,8 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0244-tension.svg)
+![](./../svg/0244-tension.svg "")
+

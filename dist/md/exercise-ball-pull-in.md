@@ -1,4 +1,5 @@
 # Exercise Ball Pull In
+
 > This exercise uses a ball to isolate and work the lower abdominal muscles.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - Lay down as if you were performing a pushup.
  - Place your feet and shins over an exercise or stability ball.
@@ -20,8 +23,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0296-relaxation.svg)
+![](./../svg/0296-relaxation.svg "")
 
-![](./../svg/0296-tension.svg)
+![](./../svg/0296-tension.svg "")
+

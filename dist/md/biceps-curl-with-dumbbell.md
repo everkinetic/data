@@ -1,4 +1,5 @@
 # Biceps Curl: Dumbbell
+
 > This version of a biceps curl uses both arms at the same time.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with our feet shoulder width apart, your knees slightly bent and your abs drawn in.
  - Grasp a dumbbell in each hand with your palms facing up.
@@ -21,8 +24,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0224-relaxation.svg)
+![](./../svg/0224-relaxation.svg "")
 
-![](./../svg/0224-tension.svg)
+![](./../svg/0224-tension.svg "")
+

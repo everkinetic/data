@@ -1,4 +1,5 @@
 # Squats: Smith Machine
+
 > This exercise is a variation of a squat using the Smith Machine.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,glutaeus maximus,ischiocrural muscles
 equipment: smith machine 
 ``` 
 
+
 ## Steps
+
 
  - This exercise uses the Smith Machine to work the Quadriceps, Hamstrings, Calves and Glutes. A great overall exercise for the lower body. There are many variations on the squat, this is the original version using a Smith Machine for better flow of movement.
  - Set the height of the barbell to shoulder height.
@@ -22,8 +25,10 @@ equipment: smith machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0124-relaxation.svg)
+![](./../svg/0124-relaxation.svg "")
 
-![](./../svg/0124-tension.svg)
+![](./../svg/0124-tension.svg "")
+

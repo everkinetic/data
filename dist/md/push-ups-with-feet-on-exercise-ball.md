@@ -1,4 +1,5 @@
 # Push Up: Exercise ball
+
 > This is similar to the standard Push Up except using an Exercise Ball forces you to engage the muscle of your core (Rectus Abdominis, Transverse Abdominis, and the Obliques).
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: body, exercise ball 
 ``` 
 
+
 ## Steps
+
 
  - Place your feet and shins flat on an Exercise Ball.
  - Place your arms in front of you at shoulder width apart, place your hands under your arms and press up from the ground until your arms are fully extended.
@@ -19,8 +22,10 @@ equipment: body, exercise ball
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0076-relaxation.svg)
+![](./../svg/0076-relaxation.svg "")
 
-![](./../svg/0076-tension.svg)
+![](./../svg/0076-tension.svg "")
+

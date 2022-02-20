@@ -1,4 +1,5 @@
 # Barbell Squat
+
 > 
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This is an exercise for leg strengthening, mainly the quadriceps.
  - Lifting a barbell off of a weight rack, position it on your shoulders.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0122-relaxation.svg)
+![](./../svg/0122-relaxation.svg "")
 
-![](./../svg/0122-tension.svg)
+![](./../svg/0122-tension.svg "")
+

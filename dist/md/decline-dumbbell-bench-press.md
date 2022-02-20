@@ -1,4 +1,5 @@
 # Bench Press: Dumbbell (Decline)
+
 > This is an exercise for chest, shoulder and triceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: dumbbells, bench: decline 
 ``` 
 
+
 ## Steps
+
 
  - Grasp the dumbbells your hands and lie on a decline bench with your head lower than your feet.
  - Raise the dumbbells above your chest, bringing your elbows close in, this is your starting position.
@@ -19,8 +22,10 @@ equipment: dumbbells, bench: decline
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0052-relaxation.svg)
+![](./../svg/0052-relaxation.svg "")
 
-![](./../svg/0052-tension.svg)
+![](./../svg/0052-tension.svg "")
+

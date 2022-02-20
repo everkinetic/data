@@ -53,12 +53,9 @@ module.exports = util = {
             { frontmatter: data },
             { h2: 'Steps' },
             { ul: data.steps },
-            { linebreak: '' },
             { h2: 'Tips' },
             { ul: data.tips || ['none'] },
-            { linebreak: '' },
             { h2: 'Images' },
-            { linebreak: '' },
             { img: _.map(data.svg, function (img) { return { source: './../' + img } }) }
         );
         return json2md(content);

@@ -1,4 +1,5 @@
 # Triceps Extension: Barbell (Lying, Close Grip, Behind the Head)
+
 > You can use a barbell or EZ bar to further concentrate the benefit to your triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - You can use a barbell or EZ (curl) bar to further concentrate the benefit to your triceps.
  - Lie flat on a bench on your back.
@@ -20,8 +23,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0179-relaxation.svg)
+![](./../svg/0179-relaxation.svg "")
 
-![](./../svg/0179-tension.svg)
+![](./../svg/0179-tension.svg "")
+

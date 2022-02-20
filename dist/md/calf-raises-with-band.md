@@ -1,4 +1,5 @@
 # Calf Raises with Band
+
 > 
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: exercise band 
 ``` 
 
+
 ## Steps
+
 
  - This exercise uses a band to create resistance.
  - Stand with your toes on an exercise band and raise the handles up to your shoulders.
@@ -20,8 +23,10 @@ equipment: exercise band
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0274-relaxation.svg)
+![](./../svg/0274-relaxation.svg "")
 
-![](./../svg/0274-tension.svg)
+![](./../svg/0274-tension.svg "")
+

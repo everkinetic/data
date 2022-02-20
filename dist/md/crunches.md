@@ -1,4 +1,5 @@
 # Crunches
+
 > 
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - This is the most common abdominal exercise and possibly the most often improperly performed. Here is how to perform it correctly.
  - Lie on your back with your feet up on a bench and your knees bent at a 90 degree angle.
@@ -21,8 +24,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0291-relaxation.svg)
+![](./../svg/0291-relaxation.svg "")
 
-![](./../svg/0291-tension.svg)
+![](./../svg/0291-tension.svg "")
+

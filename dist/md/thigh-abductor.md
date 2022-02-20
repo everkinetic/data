@@ -1,4 +1,5 @@
 # Thigh Abductor
+
 > This exercise targets and works the muscles of the outer thigh.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - Sit on the machine and place your knees against the pads.
  - Draw your abs in and “abduct” or move your thighs apart against the pads.
@@ -19,8 +22,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0156-relaxation.svg)
+![](./../svg/0156-relaxation.svg "")
 
-![](./../svg/0156-tension.svg)
+![](./../svg/0156-tension.svg "")
+

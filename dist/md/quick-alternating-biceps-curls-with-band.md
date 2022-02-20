@@ -1,4 +1,5 @@
 # Quick Alternating Biceps Curls with Band
+
 > This exercise uses a bungy or exercise band for resistance.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii
 equipment: exercise band 
 ``` 
 
+
 ## Steps
+
 
  - Place a bungy under your feet and hold the handles palms forward in your hands.
  - Stand with your feet shoulder width apart, knees slightly bent and your abs drawn in.
@@ -20,8 +23,10 @@ equipment: exercise band
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0261-relaxation.svg)
+![](./../svg/0261-relaxation.svg "")
 
-![](./../svg/0261-tension.svg)
+![](./../svg/0261-tension.svg "")
+

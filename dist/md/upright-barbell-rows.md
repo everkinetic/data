@@ -1,4 +1,5 @@
 # Upright Barbell Rows
+
 > This is an exercise for shoulder, biceps and upper back strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii,upper back
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart, your abs drawn in and back straight.
  - Place the bar on rack in the position where your arms are fully extended in front of you with your elbows slightly bent.
@@ -20,10 +23,12 @@ equipment: barbell
 
 ## Tips
 
+
  - Do not arch your back when raising the barbell towards your chin.
 
 ## Images
 
-![](./../svg/0014-relaxation.svg)
+![](./../svg/0014-relaxation.svg "")
 
-![](./../svg/0014-tension.svg)
+![](./../svg/0014-tension.svg "")
+

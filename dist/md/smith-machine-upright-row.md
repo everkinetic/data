@@ -1,4 +1,5 @@
 # Upright Row: Smith Machine
+
 > This is an exercise for shoulder and biceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii,upper back
 equipment: smith machine 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart and your abs drawn in.
  - Place the bar on the Smith Machine in the position where your arms are fully extended in front of you.
@@ -19,10 +22,12 @@ equipment: smith machine
 
 ## Tips
 
+
  - Ensure you do not arch your back when pulling the bar up towards your chin.
 
 ## Images
 
-![](./../svg/0013-relaxation.svg)
+![](./../svg/0013-relaxation.svg "")
 
-![](./../svg/0013-tension.svg)
+![](./../svg/0013-tension.svg "")
+

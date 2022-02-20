@@ -1,4 +1,5 @@
 # Seated Calf Raise using Machine
+
 > This is one of the simplest and most effective exercises for the calves.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - Sit at a calf raise machine.
  - Put the balls of your feet on the footpad.
@@ -21,8 +24,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0279-relaxation.svg)
+![](./../svg/0279-relaxation.svg "")
 
-![](./../svg/0279-tension.svg)
+![](./../svg/0279-tension.svg "")
+

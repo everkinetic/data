@@ -1,4 +1,5 @@
 # Seated Rear Lateral Cable Raise
+
 > Tis is an exercise for shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Sit on the edge of a bench with your feet on the floor in front of you.
  - Rest your chest on your thighs with your back straight, grasp the cable pulleys with opposite hands.
@@ -20,8 +23,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0035-relaxation.svg)
+![](./../svg/0035-relaxation.svg "")
 
-![](./../svg/0035-tension.svg)
+![](./../svg/0035-tension.svg "")
+

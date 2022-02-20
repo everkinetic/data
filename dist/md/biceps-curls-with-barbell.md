@@ -1,4 +1,5 @@
 # Biceps Curl: Barbell
+
 > This is a basic exercise for the biceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid,forearm
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This is a basic exercise for the biceps (arms).
  - Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0211-relaxation.svg)
+![](./../svg/0211-relaxation.svg "")
 
-![](./../svg/0211-tension.svg)
+![](./../svg/0211-tension.svg "")
+

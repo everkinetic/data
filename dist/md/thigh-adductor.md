@@ -1,4 +1,5 @@
 # Thigh Adductor
+
 > This exercise targets and works the muscles of the inner thigh.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - Sit on the machine and place your knees against the pads.
  - Draw your abs in and “adduct” or move your thighs together.
@@ -19,8 +22,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0157-relaxation.svg)
+![](./../svg/0157-relaxation.svg "")
 
-![](./../svg/0157-tension.svg)
+![](./../svg/0157-tension.svg "")
+

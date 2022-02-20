@@ -1,4 +1,5 @@
 # Squats: Dumbbells (to Bench)
+
 > This variation of a squat uses a bench to remind you how far down to squat.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,ischiocrural muscles,glutaeus maximus
 equipment: dumbbell, bench 
 ``` 
 
+
 ## Steps
+
 
  - This is a great overall exercise for the lower body. There are many variations on the squat, this one uses a bench to remind you how far down to squat.
  - Place a bench behind you.
@@ -23,8 +26,10 @@ equipment: dumbbell, bench
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0136-relaxation.svg)
+![](./../svg/0136-relaxation.svg "")
 
-![](./../svg/0136-tension.svg)
+![](./../svg/0136-tension.svg "")
+

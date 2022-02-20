@@ -1,4 +1,5 @@
 # Cuban Dumbbell Press
+
 > This is a three point exercise for shoulder and middle back strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: latissimus dorsi
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - Grasp dumbbells in each hand with a pronated grip (palms facing back wards, your shoulder rotated forward.
  - Stand upright with your feet shoulder width apart and your knees slightly bent, contract your abdominals.
@@ -20,8 +23,10 @@ equipment: dumbbells
 
 ## Tips
 
+
  - Start with a lower weight in order to perfect the technique.
  - Maintain a good upright posture through out the exercise.
 
 ## Images
+
 

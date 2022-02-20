@@ -1,4 +1,5 @@
 # Cable Crossover
+
 > This is an exercise for chest and shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Attach the cable pulley to shoulder height.
  - Grasp the pulley in both hands and stand approximately one foot in front of the weight stacks, with one foot slightly in front of the other.
@@ -20,8 +23,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0048-relaxation.svg)
+![](./../svg/0048-relaxation.svg "")
 
-![](./../svg/0048-tension.svg)
+![](./../svg/0048-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Bent Over Row with Barbell
+
 > This exercise focuses on the middle back.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Place your feet shoulder width apart.
  - Bend over the bar so your back is flat and parallel to the floor.
@@ -22,5 +25,7 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
+
 

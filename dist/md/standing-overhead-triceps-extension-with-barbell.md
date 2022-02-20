@@ -1,4 +1,5 @@
 # Triceps Extension: Barbell (Standing, Overhead)
+
 > This is a double arm barbell version of a behind the neck triceps exercise.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart, your back straight and your abs drawn in.
  - Hold a barbell or EZ Curl bar about 6-8 inches apart with your palms facing up.
@@ -20,8 +23,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0201-relaxation.svg)
+![](./../svg/0201-relaxation.svg "")
 
-![](./../svg/0201-tension.svg)
+![](./../svg/0201-tension.svg "")
+

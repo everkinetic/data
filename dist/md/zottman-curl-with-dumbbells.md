@@ -1,4 +1,5 @@
 # Zottman Curl with Dumbbells
+
 > This is an advanced exercise where you turn the dumbbells up and out.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart, your knees slightly bent and your and your abs drawn in.
  - Grasp a dumbbell in each hand with your palms facing each other.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0251-relaxation.svg)
+![](./../svg/0251-relaxation.svg "")
 
-![](./../svg/0251-tension.svg)
+![](./../svg/0251-tension.svg "")
+

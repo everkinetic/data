@@ -1,4 +1,5 @@
 # Upright Row: Dumbbell
+
 > This is an exercise for shoulder, biceps and upper back strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii,upper back
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a dumbbell in each hand with an overhand grip (palms facing downwards) and hold them in front of your thighs.
  - Stand with your feet shoulder width apart, your abs drawn in and your back straight.
@@ -20,12 +23,14 @@ equipment: dumbbells
 
 ## Tips
 
+
  - Do not arch your back when raising the dumbbells towards your shoulders.
  - Ensure the dumbbells are held close to your body throughout the exercise.
  - Do not perform this exercise if you have wrist, shoulder or elbow pain.
 
 ## Images
 
-![](./../svg/0016-relaxation.svg)
+![](./../svg/0016-relaxation.svg "")
 
-![](./../svg/0016-tension.svg)
+![](./../svg/0016-tension.svg "")
+

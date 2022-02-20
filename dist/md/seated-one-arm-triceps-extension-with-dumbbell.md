@@ -1,4 +1,5 @@
 # Triceps Extension: Dumbbell (Seated, One Arm)
+
 > This exercise uses a kickback movement to work the triceps in each arm individually.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Sit on the edge of a bench with your feet flat on the floor.
  - Hold a dumbbell in your right hand.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0191-relaxation.svg)
+![](./../svg/0191-relaxation.svg "")
 
-![](./../svg/0191-tension.svg)
+![](./../svg/0191-tension.svg "")
+

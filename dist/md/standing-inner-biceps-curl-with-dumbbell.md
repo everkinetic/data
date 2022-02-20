@@ -1,4 +1,5 @@
 # Standing Inner Biceps Curl with Dumbbell
+
 > This exercise works the inner biceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.
  - Grasp a dumbbell in each arm with your palms facing each other, fully extend your arms along your sides.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0246-relaxation.svg)
+![](./../svg/0246-relaxation.svg "")
 
-![](./../svg/0246-tension.svg)
+![](./../svg/0246-tension.svg "")
+

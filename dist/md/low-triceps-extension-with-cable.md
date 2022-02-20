@@ -1,4 +1,5 @@
 # Triceps Extension: Cable (Low)
+
 > This exercise is done while lying on a seated row station.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Attach a rope to the cable pulley at of a seated row station.
  - Lie on your back on the bench with your head facing the weight stack.
@@ -20,8 +23,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0178-relaxation.svg)
+![](./../svg/0178-relaxation.svg "")
 
-![](./../svg/0178-tension.svg)
+![](./../svg/0178-tension.svg "")
+

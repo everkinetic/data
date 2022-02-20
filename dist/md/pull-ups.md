@@ -1,4 +1,5 @@
 # Pull Ups
+
 > This is an exercise in lats, biceps and middle back strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii
 equipment: bar 
 ``` 
 
+
 ## Steps
+
 
  - Grab the pull-up bar with the palms facing forward using the prescribed grip.
  - As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.
@@ -22,8 +25,10 @@ equipment: bar
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0087-relaxation.svg)
+![](./../svg/0087-relaxation.svg "")
 
-![](./../svg/0087-tension.svg)
+![](./../svg/0087-tension.svg "")
+

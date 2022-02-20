@@ -1,4 +1,5 @@
 # Incline Chest Press
+
 > This exercise is for strengthening the upper chest and is preferred among beginners as it provides support and control.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: chest machine 
 ``` 
 
+
 ## Steps
+
 
  - Adjust the seat of the machine so that the handles are near the upper portion of your chest.
  - Slowly press the handles forward until your hands are fully extended, do not lock your elbows.
@@ -18,5 +21,7 @@ equipment: chest machine
 ## Tips
 
 
+
 ## Images
+
 

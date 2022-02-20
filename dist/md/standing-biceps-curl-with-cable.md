@@ -1,4 +1,5 @@
 # Standing Biceps Curl with Cable
+
 > This version of the biceps curl uses a cable instead of a barbell to work the muscles of the arms.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm,deltoid
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Attach a short bar to a cable pulley to the bottom of the weight stack.
  - Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.
@@ -21,8 +24,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0212-relaxation.svg)
+![](./../svg/0212-relaxation.svg "")
 
-![](./../svg/0212-tension.svg)
+![](./../svg/0212-tension.svg "")
+

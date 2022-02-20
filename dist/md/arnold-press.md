@@ -1,4 +1,5 @@
 # Arnold Press
+
 > An exercise for shoulder and triceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - Sit on a flat bench, feet point forward with your abs drawn in.
  - Grasp a dumbbell in each hand with your palm facing towards your body
@@ -20,8 +23,10 @@ equipment: dumbbells
 
 ## Tips
 
+
  - Start with a lower dumbbell weight in order to perfect the technique.
  - Do not perform this exercise if you have shoulder pain.
 
 ## Images
+
 

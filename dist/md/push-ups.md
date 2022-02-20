@@ -1,4 +1,5 @@
 # Push Up: Body Weight
+
 > This exercise is the main strengthening exercise when wanting to strengthen ones chest, biceps and triceps as well as core muscles.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - Start with a basic push up, lay face down on the floor, or a mat; with your feet together curled slightly so you rise onto the ball of your feet.
  - Place you hands shoulder width apart on the either side of your chest.
@@ -22,8 +25,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0077-relaxation.svg)
+![](./../svg/0077-relaxation.svg "")
 
-![](./../svg/0077-tension.svg)
+![](./../svg/0077-tension.svg "")
+

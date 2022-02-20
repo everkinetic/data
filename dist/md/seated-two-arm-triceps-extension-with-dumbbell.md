@@ -1,4 +1,5 @@
 # Triceps Extension: Dumbbell (Seated, Two Arm)
+
 > This exercise is the two handed version of seated triceps extension.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Sit on the edge of a bench with your feet flat on the floor.
  - Hold a dumbbell in each hand.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0192-relaxation.svg)
+![](./../svg/0192-relaxation.svg "")
 
-![](./../svg/0192-tension.svg)
+![](./../svg/0192-tension.svg "")
+

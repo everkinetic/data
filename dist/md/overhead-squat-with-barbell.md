@@ -1,4 +1,5 @@
 # Overhead Squat with Barbell
+
 > In this version of the squat you hold the bar overhead as you perform the exercise.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: glutaeus maximus,gastrocnemius,soleus,ischiocrural muscles,deltoid,er
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet a bit wider than shoulder width apart with your toes pointed slightly outward.
  - Grasp a barbell using a wide side snatch grip with your arms and elbows fully extended.
@@ -20,8 +23,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0151-relaxation.svg)
+![](./../svg/0151-relaxation.svg "")
 
-![](./../svg/0151-tension.svg)
+![](./../svg/0151-tension.svg "")
+

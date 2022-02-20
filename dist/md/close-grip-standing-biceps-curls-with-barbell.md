@@ -1,4 +1,5 @@
 # Close Grip Standing Biceps Curls with Barbell
+
 > This exercise uses a standard barbell to isolate the biceps during a curl.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.
  - Grasp a barbell with palms up, about 12 inches apart.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0219-relaxation.svg)
+![](./../svg/0219-relaxation.svg "")
 
-![](./../svg/0219-tension.svg)
+![](./../svg/0219-tension.svg "")
+

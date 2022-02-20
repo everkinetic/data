@@ -1,4 +1,5 @@
 # Pile Squat with Dumbbell
+
 > This version of the squat is done with a dumbbell and mimics the action of a pile driver.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles,gastrocnemius,soleus
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet 2-4 inches wider than your shoulders, with your toes pointed out at a 45 degree angle.
  - Grasp a dumbbell with both hands in the center of your body.
@@ -21,8 +24,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0152-relaxation.svg)
+![](./../svg/0152-relaxation.svg "")
 
-![](./../svg/0152-tension.svg)
+![](./../svg/0152-tension.svg "")
+

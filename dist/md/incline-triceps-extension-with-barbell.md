@@ -1,4 +1,5 @@
 # Triceps Extension: Barbell (Incline)
+
 > This version of a triceps extension uses gravity to increase the resistance of the exercise.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a barbell with a close grip (4-6 inches apart).
  - Lie on an incline bench and hold the bar over your head.
@@ -19,8 +22,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0174-relaxation.svg)
+![](./../svg/0174-relaxation.svg "")
 
-![](./../svg/0174-tension.svg)
+![](./../svg/0174-tension.svg "")
+

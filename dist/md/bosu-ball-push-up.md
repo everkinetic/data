@@ -1,4 +1,5 @@
 # Push Up: Bosu Ball
+
 > This is an exercise for chest, core, shoulders and triceps strengthening with the use of a Bosu ball.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid,core,triceps brachii
 equipment: bosu ball 
 ``` 
 
+
 ## Steps
+
 
  - Place the Bosu ball flat side down on the floor.
  - Kneel on the floor with your arms fully extended on the ball, and body straight.
@@ -19,11 +22,13 @@ equipment: bosu ball
 
 ## Tips
 
+
  - Ensure your elbows remain close to your body while lowering your chest to the ball.
  - Beginners may want to start on your knees with your feet off the ground so you are rocking into the Push Up.
 
 ## Images
 
-![](./../svg/0069-relaxation.svg)
+![](./../svg/0069-relaxation.svg "")
 
-![](./../svg/0069-tension.svg)
+![](./../svg/0069-tension.svg "")
+

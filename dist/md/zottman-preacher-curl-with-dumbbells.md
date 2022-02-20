@@ -1,4 +1,5 @@
 # Preacher Curl: Dumbbell (Zottman)
+
 > This is an advanced exercise where you turn the dumbbells up and out using a Preacher Curl bench for support.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Sit at a Preacher Curl Bench.
  - Grasp a dumbbell in your hand with your palms facing up.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0252-relaxation.svg)
+![](./../svg/0252-relaxation.svg "")
 
-![](./../svg/0252-tension.svg)
+![](./../svg/0252-tension.svg "")
+

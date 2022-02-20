@@ -1,4 +1,5 @@
 # Lunges: Dumbbell (Rear)
+
 > This is an advanced version of a lunge using a dumbbell.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,ischiocrural muscles,glutaeus maximus,hip abduct
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - This is an advanced version of a lunge.
  - Grasp a dumbbell in each hand.
@@ -21,8 +24,10 @@ equipment: dumbbells
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0129-relaxation.svg)
+![](./../svg/0129-relaxation.svg "")
 
-![](./../svg/0129-tension.svg)
+![](./../svg/0129-tension.svg "")
+

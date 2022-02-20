@@ -1,4 +1,5 @@
 # Lunges: Dumbbell
+
 > This is an exercise for whole leg but mainly hamstring strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: glutaeus maximus,quadriceps,gastrocnemius,soleus
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a dumbbell in each hand.
  - Stand with your feet about 8 inches apart, toes facing forward.
@@ -20,10 +23,12 @@ equipment: dumbbells
 
 ## Tips
 
+
  - Ensure not maintain your front knee at a 90 degree angle, in order to prevent knee injury.
 
 ## Images
 
-![](./../svg/0115-relaxation.svg)
+![](./../svg/0115-relaxation.svg "")
 
-![](./../svg/0115-tension.svg)
+![](./../svg/0115-tension.svg "")
+

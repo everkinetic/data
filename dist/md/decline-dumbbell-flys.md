@@ -1,4 +1,5 @@
 # Decline Dumbbell Fly's
+
 > This is an exercise for chest and shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid
 equipment: dumbbells, bench: decline 
 ``` 
 
+
 ## Steps
+
 
  - Lie on a decline bench with your head lower than your body and your feet firmly on the ground.
  - With dumbbells together above your shoulders and your arms straight out above you as your starting position.
@@ -20,8 +23,10 @@ equipment: dumbbells, bench: decline
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0053-relaxation.svg)
+![](./../svg/0053-relaxation.svg "")
 
-![](./../svg/0053-tension.svg)
+![](./../svg/0053-tension.svg "")
+

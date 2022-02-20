@@ -1,4 +1,5 @@
 # Seated One Leg Calf Raise with Dumbbell
+
 > This version of a calf raise allows you to exercise each leg individually.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - This version of a calf raise allows you to exercise each leg individually. This exercise is helpful to people who are rehabilitating from injury as it allows you flexibility with the weight.
  - Place a block on the floor about one foot in front of a bench.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0276-relaxation.svg)
+![](./../svg/0276-relaxation.svg "")
 
-![](./../svg/0276-tension.svg)
+![](./../svg/0276-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Straight Arm Dumbbell Pullover
+
 > This is an exercise for chest and shoulder strengthening which mainly targets the rotator cuff muscles.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,latissimus dorsi,deltoid
 equipment: flat bench, dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie on a flat bench with your feet flat on the floor and your head at the end of the bench.
  - Grasp a dumbbell and raise it over your chest.
@@ -20,8 +23,10 @@ equipment: flat bench, dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0079-relaxation.svg)
+![](./../svg/0079-relaxation.svg "")
 
-![](./../svg/0079-tension.svg)
+![](./../svg/0079-tension.svg "")
+

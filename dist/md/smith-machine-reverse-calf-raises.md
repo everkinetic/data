@@ -1,4 +1,5 @@
 # Smith Machine Reverse Calf Raises
+
 > This is a unique exercise that works the tibialis anterior muscle, one of the muscles of the calves.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: smith machine 
 ``` 
 
+
 ## Steps
+
 
  - Place a block or low box under the bar at a Smith Machine.
  - Stand on the edge of the box with your toes hanging off.
@@ -20,8 +23,10 @@ equipment: smith machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0280-relaxation.svg)
+![](./../svg/0280-relaxation.svg "")
 
-![](./../svg/0280-tension.svg)
+![](./../svg/0280-tension.svg "")
+

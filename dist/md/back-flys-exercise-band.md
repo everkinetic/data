@@ -1,4 +1,5 @@
 # Back Fly's with Exercise Band
+
 > This is an exercise for shoulder, middle back and triceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,latissimus dorsi
 equipment: exercise band 
 ``` 
 
+
 ## Steps
+
 
  - Place an exercise band around a post or machine at mid chest height.
  - Stand with your feet shoulder width apart, abs drawn in and knees slightly bent.
@@ -20,10 +23,12 @@ equipment: exercise band
 
 ## Tips
 
+
  - Maintain a good upright posture at all times during this exercise ensuring you do not arch your back.
 
 ## Images
 
-![](./../svg/0020-relaxation.svg)
+![](./../svg/0020-relaxation.svg "")
 
-![](./../svg/0020-tension.svg)
+![](./../svg/0020-tension.svg "")
+

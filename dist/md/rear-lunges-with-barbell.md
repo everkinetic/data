@@ -1,4 +1,5 @@
 # Lunges: Barbell (Rear)
+
 > This is an advanced version of a lunge.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: hip abductors,gastrocnemius,soleus,glutaeus maximus,ischiocrural musc
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Place a barbell on a rack at chest height.
  - Lift the barbell of of the rack and onto your shoulders, gripping the bar slightly wider than shoulder width apart.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0128-relaxation.svg)
+![](./../svg/0128-relaxation.svg "")
 
-![](./../svg/0128-tension.svg)
+![](./../svg/0128-tension.svg "")
+

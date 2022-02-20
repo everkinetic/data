@@ -1,4 +1,5 @@
 # Stability Ball Abdominal Crunch
+
 > This crunch uses a Stability Ball.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - This crunch uses a Stability Ball. The ball allows you a better range of movement because it adapts better to your spine.
  - Sit on top of an exercise or stability ball with your feet placed firmly on the floor for support.
@@ -22,8 +25,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0295-relaxation.svg)
+![](./../svg/0295-relaxation.svg "")
 
-![](./../svg/0295-tension.svg)
+![](./../svg/0295-tension.svg "")
+

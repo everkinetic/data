@@ -1,4 +1,5 @@
 # Bench Press: Smith Machine (Close Grip)
+
 > This version of a Bench Press uses a close grip to isolate the triceps as well as working the chest.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: pectoralis major
 equipment: smith machine 
 ``` 
 
+
 ## Steps
+
 
  - Place a flat bench in the middle of a Smith Machine.
  - Using a close grip (about 6 inches apart) unlatch the bar and lower it towards your chest.
@@ -18,8 +21,10 @@ equipment: smith machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0195-relaxation.svg)
+![](./../svg/0195-relaxation.svg "")
 
-![](./../svg/0195-tension.svg)
+![](./../svg/0195-tension.svg "")
+

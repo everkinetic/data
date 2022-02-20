@@ -1,4 +1,5 @@
 # Cross Body Crunch
+
 > This version of the crunch works both the upper and lower portion of the abs.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - Lie on your back and bring your knees up to a 60 degree angle, keep your feet flat on the floor.
  - Place your hands on either side of your head (over your ears).
@@ -20,8 +23,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0289-relaxation.svg)
+![](./../svg/0289-relaxation.svg "")
 
-![](./../svg/0289-tension.svg)
+![](./../svg/0289-tension.svg "")
+

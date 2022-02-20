@@ -1,4 +1,5 @@
 # Hack Squat: Barbell
+
 > This is another variation of the basic Squat that focuses primarily on the quadriceps or thigh muscles.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This is another variation of the basic Squat that focuses primarily on the quadriceps or thigh muscles.
  - Place the barbell on the floor just behind your legs and stand with your feet shoulder width apart with your toes pointing forward.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0125-relaxation.svg)
+![](./../svg/0125-relaxation.svg "")
 
-![](./../svg/0125-tension.svg)
+![](./../svg/0125-tension.svg "")
+

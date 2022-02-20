@@ -1,4 +1,5 @@
 # Gironda Sternum Chins
+
 > This is an exercise for lats, biceps and middle back strengthening; which is similar t the basic chin up but focusses more on lats.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii
 equipment: body, bar 
 ``` 
 
+
 ## Steps
+
 
  - Grasp the pull up bar with a shoulder width underhand grip.
  - Hang from the bar with your arms fully extended.
@@ -20,7 +23,9 @@ equipment: body, bar
 
 ## Tips
 
+
  - Ensure you contract your core and back muscles through out this exercise in order to prevent injury and maximise the effectiveness of this exercise.
 
 ## Images
+
 

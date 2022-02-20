@@ -1,4 +1,5 @@
 # Dumbbell Shoulder Press
+
 > An exercise for shoulder, chest and triceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,pectoralis major
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Sitting on a bench, with your abs drawn in grasp a dumbbell in each hand, with your palms facing forward.
  - Begin with your arms at the height of your shoulders.
@@ -21,5 +24,7 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
+
 

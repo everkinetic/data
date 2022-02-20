@@ -1,4 +1,5 @@
 # Triceps Extension: Cable (One Arm, Low-Pulley)
+
 > This exercise uses a cable machine to isolate the triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Attach a handle to a low cable pulley machine.
  - Stand with your back to the weight stack, your feet shoulder width apart.
@@ -21,8 +24,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0199-relaxation.svg)
+![](./../svg/0199-relaxation.svg "")
 
-![](./../svg/0199-tension.svg)
+![](./../svg/0199-tension.svg "")
+

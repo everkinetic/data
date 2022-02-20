@@ -1,4 +1,5 @@
 # One Arm Barbell Floor Press
+
 > This is an exercise for chest and triceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie flat on your back with your knees bent and your feet firmly on the floor.
  - Draw in your abs and contract your lats, and glutes.
@@ -20,8 +23,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0070-relaxation.svg)
+![](./../svg/0070-relaxation.svg "")
 
-![](./../svg/0070-tension.svg)
+![](./../svg/0070-tension.svg "")
+

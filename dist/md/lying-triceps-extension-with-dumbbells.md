@@ -1,4 +1,5 @@
 # Triceps Extension: Dumbbell (Lying)
+
 > This exercise uses gravity to increase the resistance of the weight.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Lay on a flat bench with your head at one end and your feet planted firmly on the floor.
  - Grasp a dumbbell with both hands with palms facing up.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0181-relaxation.svg)
+![](./../svg/0181-relaxation.svg "")
 
-![](./../svg/0181-tension.svg)
+![](./../svg/0181-tension.svg "")
+

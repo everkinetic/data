@@ -1,4 +1,5 @@
 # Spider Curl with Barbell
+
 > 
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This exercise uses the straight side of a Preacher Curl bench to increase the range of motion of the exercise.
  - Turn a Preacher Curl bench around so you are leaning against the angled side.
@@ -22,8 +25,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0245-relaxation.svg)
+![](./../svg/0245-relaxation.svg "")
 
-![](./../svg/0245-tension.svg)
+![](./../svg/0245-tension.svg "")
+

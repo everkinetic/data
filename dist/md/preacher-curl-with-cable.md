@@ -1,4 +1,5 @@
 # Preacher Curl: Cable
+
 > A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Place a padded arm curl bench in front of a cable machine.
  - Attach a short bar to the bottom pulley.
@@ -21,8 +24,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0217-relaxation.svg)
+![](./../svg/0217-relaxation.svg "")
 
-![](./../svg/0217-tension.svg)
+![](./../svg/0217-tension.svg "")
+

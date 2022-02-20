@@ -1,4 +1,5 @@
 # Triceps Extension: EZ Bar Barbell (Decline)
+
 > This exercise combines a decline bench and a curved bar to more efficiently work the triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Lay face up on a decline bench and grasp an EZ Bar (Curved Barbell).
  - Extend your arms so they are perpendicular to your chest, and keeping your elbows in one place, lower the bar toward your head.
@@ -18,8 +21,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0170-relaxation.svg)
+![](./../svg/0170-relaxation.svg "")
 
-![](./../svg/0170-tension.svg)
+![](./../svg/0170-tension.svg "")
+

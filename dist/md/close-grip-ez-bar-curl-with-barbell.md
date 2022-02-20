@@ -1,4 +1,5 @@
 # Close Grip EZ Bar Curl with Barbell
+
 > This exercise uses a cambered EZ or curl bar to isolate the biceps during a curl.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.
  - Grasp an EZ bar with an underhand close (4 inch) grip on the innermost part of the bar.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0218-relaxation.svg)
+![](./../svg/0218-relaxation.svg "")
 
-![](./../svg/0218-tension.svg)
+![](./../svg/0218-tension.svg "")
+

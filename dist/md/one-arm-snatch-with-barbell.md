@@ -1,4 +1,5 @@
 # One Arm Snatch with Barbell
+
 > This is an advanced exercise that works most of the muscles of the body.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid,ischiocrural muscles,erector spinae,abdominals,trapezius,gast
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This is an advanced exercise that works most of the muscles of the body.
  - Exercises like this are used to develop functional strength for sports that require strong hands.
@@ -19,10 +22,12 @@ equipment: barbell
 
 ## Tips
 
+
  - Note: Bend your knees as you lift and lower the weight to help control the movement.
 
 ## Images
 
-![](./../svg/0148-relaxation.svg)
+![](./../svg/0148-relaxation.svg "")
 
-![](./../svg/0148-tension.svg)
+![](./../svg/0148-tension.svg "")
+

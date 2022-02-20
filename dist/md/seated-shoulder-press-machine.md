@@ -1,4 +1,5 @@
 # Seated Shoulder Press Machine
+
 > This is an exercise for the shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - Sit upright with your back supported by the chair and draw your abs in.
  - Place your hands on the bars and with smooth even motions press upward extending your arms, but not locking them.
@@ -17,7 +20,9 @@ equipment: machine
 
 ## Tips
 
+
  - Ensure that the seat and bar have been adjusted for optimal posture.
 
 ## Images
+
 

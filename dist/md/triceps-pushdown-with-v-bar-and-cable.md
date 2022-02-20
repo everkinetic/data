@@ -1,4 +1,5 @@
 # Triceps Pushdown: Cable (V-Bar)
+
 > This exercise is the triceps pushdown uses a V shaped bar.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable, v-bar 
 ``` 
 
+
 ## Steps
+
 
  - This exercise is the triceps pushdown uses a V shaped bar. Many people find this version easier on the elbows.
  - Steps
@@ -23,8 +26,10 @@ equipment: cable, v-bar
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0207-relaxation.svg)
+![](./../svg/0207-relaxation.svg "")
 
-![](./../svg/0207-tension.svg)
+![](./../svg/0207-tension.svg "")
+

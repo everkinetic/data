@@ -1,4 +1,5 @@
 # Body Row
+
 > This is a good overall exercise which strengthens your chest, core and back muscles.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: core,trapezius,back
 equipment: bar 
 ``` 
 
+
 ## Steps
+
 
  - Lie under a bar so that the bar is at mid chest level and your feet are firmly on the floor.
  - Draw your abs in and keep your back flat.
@@ -20,8 +23,10 @@ equipment: bar
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0086-relaxation.svg)
+![](./../svg/0086-relaxation.svg "")
 
-![](./../svg/0086-tension.svg)
+![](./../svg/0086-tension.svg "")
+

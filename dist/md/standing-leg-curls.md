@@ -1,4 +1,5 @@
 # Standing Leg Curls
+
 > This is an exercise for hamstring strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - Standing at a leg curl machine adjust the rear footpad so it is just above your ankle.
  - Grasp the handles of the machine for support and draw your abs in.
@@ -19,8 +22,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0120-relaxation.svg)
+![](./../svg/0120-relaxation.svg "")
 
-![](./../svg/0120-tension.svg)
+![](./../svg/0120-tension.svg "")
+

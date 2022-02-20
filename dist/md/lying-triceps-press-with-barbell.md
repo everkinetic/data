@@ -1,4 +1,5 @@
 # Lying Triceps Press with Barbell
+
 > This is another classic exercise for building the triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: pectoralis major
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie on a flat bench with your head at one end.
  - Grasp an EZ or Curl bar with an overhand grip.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0183-relaxation.svg)
+![](./../svg/0183-relaxation.svg "")
 
-![](./../svg/0183-tension.svg)
+![](./../svg/0183-tension.svg "")
+

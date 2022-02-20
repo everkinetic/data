@@ -1,4 +1,5 @@
 # Lying Incline Curl with Barbell
+
 > 
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This exercise uses an incline bench to change your body’s position as you perform Biceps Curls. The movement is very similar to a Preacher Curl.
  - Adjust an incline bench to a 45 degree angle.
@@ -22,8 +25,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0215-relaxation.svg)
+![](./../svg/0215-relaxation.svg "")
 
-![](./../svg/0215-tension.svg)
+![](./../svg/0215-tension.svg "")
+

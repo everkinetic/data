@@ -1,4 +1,5 @@
 # Incline Dumbbell Press
+
 > This exercises is for mainly chest strengthening but also strengthens your triceps and shoulders.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: dumbbells, bench: incline 
 ``` 
 
+
 ## Steps
+
 
  - Set and incline bench at a 45 degree angle.
  - Start with the dumbbells at shoulder height, your arms wide and elbows pointing down to the floor.
@@ -20,8 +23,10 @@ equipment: dumbbells, bench: incline
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0080-relaxation.svg)
+![](./../svg/0080-relaxation.svg "")
 
-![](./../svg/0080-tension.svg)
+![](./../svg/0080-tension.svg "")
+

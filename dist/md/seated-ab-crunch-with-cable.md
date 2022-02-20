@@ -1,4 +1,5 @@
 # Seated Ab Crunch with Cable
+
 > This exercise uses the weight of a cable machine to assist in a crunch.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Attach a rope to a high cable pulley.
  - Place a bench in front of cable weight stack.
@@ -21,8 +24,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0288-relaxation.svg)
+![](./../svg/0288-relaxation.svg "")
 
-![](./../svg/0288-tension.svg)
+![](./../svg/0288-tension.svg "")
+

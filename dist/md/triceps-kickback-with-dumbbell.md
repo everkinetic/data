@@ -1,4 +1,5 @@
 # Triceps Kickback with Dumbbell
+
 > This along with the Triceps Push Down is one of the most beneficial exercises for the arms.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Standing along side a flat bench, bend your left knee and place it on the bench.
  - Place your left hand on the bench for support, keeping your back at a 45 degree angle.
@@ -21,8 +24,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0204-relaxation.svg)
+![](./../svg/0204-relaxation.svg "")
 
-![](./../svg/0204-tension.svg)
+![](./../svg/0204-tension.svg "")
+

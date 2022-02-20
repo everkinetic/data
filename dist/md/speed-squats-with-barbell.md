@@ -1,4 +1,5 @@
 # Speed Squats: Barbell
+
 > This version of the squat uses an empty barbell and moves at a faster pace than the standard squat.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,glutaeus maximus,ischiocrural muscles
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This version of the squat uses an empty barbell and moves at a faster pace than the standard squat. This is a good exercise for building speed and conditioning used in running and jumping sports.
  - Place your feet slightly wider than shoulder width apart with your knees and toes pointed slightly outward.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0154-relaxation.svg)
+![](./../svg/0154-relaxation.svg "")
 
-![](./../svg/0154-tension.svg)
+![](./../svg/0154-tension.svg "")
+

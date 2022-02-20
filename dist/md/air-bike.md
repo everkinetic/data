@@ -1,4 +1,5 @@
 # Air Bike
+
 > This exercise works your abs by raising your arms to meet your legs.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - This exercise works your abs by raising your arms to meet your legs. The movements are similar to riding a bike.
  - Lie on your back on a mat.
@@ -23,8 +26,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0284-relaxation.svg)
+![](./../svg/0284-relaxation.svg "")
 
-![](./../svg/0284-tension.svg)
+![](./../svg/0284-tension.svg "")
+

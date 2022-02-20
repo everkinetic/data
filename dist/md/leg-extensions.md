@@ -1,4 +1,5 @@
 # Leg Extensions
+
 > This exercise is a staple for building strong legs.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - Adjust the seat so that your knees have full range of motion and that the footpad fits over your legs, just above your ankles.
  - Grasp the handles with your hands for support, keeping your hip and back against the bench.
@@ -20,8 +23,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0142-relaxation.svg)
+![](./../svg/0142-relaxation.svg "")
 
-![](./../svg/0142-tension.svg)
+![](./../svg/0142-tension.svg "")
+

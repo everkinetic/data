@@ -1,4 +1,5 @@
 # Lateral Lunge with Bicep Curl with Dumbbell
+
 > This is an advanced exercise that combines a lateral lunge with a bicep curl.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm,ischiocrural muscles,glutaeus maximus,gastrocnemius,soleus,hi
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a dumbbell in each hand with your palms facing up.
  - Stand with your feet together, your back straight and your abs drawn in.
@@ -22,8 +25,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0264-relaxation.svg)
+![](./../svg/0264-relaxation.svg "")
 
-![](./../svg/0264-tension.svg)
+![](./../svg/0264-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Barbell Shrugs
+
 > This is an exercise for trapezius strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand on the floor with your abs drawn in and your back straight.
  - Grasp a barbell with a grip a little wider than shoulder width at arms length.
@@ -20,10 +23,12 @@ equipment: barbell
 
 ## Tips
 
+
  - Do not arch your back at all during the exercise.
 
 ## Images
 
-![](./../svg/0030-relaxation.svg)
+![](./../svg/0030-relaxation.svg "")
 
-![](./../svg/0030-tension.svg)
+![](./../svg/0030-tension.svg "")
+

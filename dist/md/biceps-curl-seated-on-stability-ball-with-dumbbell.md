@@ -1,4 +1,5 @@
 # Biceps Curl: Stability Ball with Dumbbell (seated)
+
 > This version of a biceps curl uses a Stability Ball.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - This version of a biceps curl uses a Stability Ball. Exercises preformed with Stability Balls encourage better posture and core muscle development.
  - Grasp a dumbbell in each hand while sitting on a Stability Ball with your feet placed firmly in front of you, and your abs drawn in.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0255-relaxation.svg)
+![](./../svg/0255-relaxation.svg "")
 
-![](./../svg/0255-tension.svg)
+![](./../svg/0255-tension.svg "")
+

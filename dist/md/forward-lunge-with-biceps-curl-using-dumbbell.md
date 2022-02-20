@@ -1,4 +1,5 @@
 # Forward Lunge with Bicep Curl using Dumbbell
+
 > This exercise combines a forward lunge with a bicep curl.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,hip abductors,forearm,ischiocrural muscles,gluta
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a dumbbell in each hand with your palms facing up.
  - Stand with your feet together, your back straight and your abs drawn in.
@@ -23,8 +26,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0265-relaxation.svg)
+![](./../svg/0265-relaxation.svg "")
 
-![](./../svg/0265-tension.svg)
+![](./../svg/0265-tension.svg "")
+

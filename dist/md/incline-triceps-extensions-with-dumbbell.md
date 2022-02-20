@@ -1,4 +1,5 @@
 # Triceps Extension: Dumbbell (Incline)
+
 > This version of the triceps extension uses an incline bench.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a dumbbell in each hand and lie against an incline bench, face up with your feet firmly planted on the floor.
  - Extend your arms over your shoulders with your palms facing each other.
@@ -19,8 +22,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0209-relaxation.svg)
+![](./../svg/0209-relaxation.svg "")
 
-![](./../svg/0209-tension.svg)
+![](./../svg/0209-tension.svg "")
+

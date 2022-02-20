@@ -1,4 +1,5 @@
 # Push Up: Close and Wide Hand
+
 > These are variations on Push Ups, one of the best exercise for muscles of the chest (pectorals), arms (bicep and triceps) and core development. The core muscles are the rectus abdomen and oblique’s which support the spine.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid,core
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - For a Close Grip Push Up lay face down on the floor, or a mat, with your feet together curled slightly so you rise on the ball of your feet.
  - Place you hands close together so your thumbs and index fingers form a triangle on the floor.
@@ -22,5 +25,7 @@ equipment: body
 ## Tips
 
 
+
 ## Images
+
 

@@ -1,4 +1,5 @@
 # Medicine Ball Biceps Curl on Stability Ball
+
 > This exercise combines a new technology, Stability Ball, with a old piece of fitness equipment, the Medicine Ball.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: core,forearm
 equipment: medicine ball 
 ``` 
 
+
 ## Steps
+
 
  - Sit on a Stability Ball with your feet firmly on the floor in front of you.
  - Sit with your back straight, your shoulders back and your abs drawn in.
@@ -20,8 +23,10 @@ equipment: medicine ball
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0267-relaxation.svg)
+![](./../svg/0267-relaxation.svg "")
 
-![](./../svg/0267-tension.svg)
+![](./../svg/0267-tension.svg "")
+

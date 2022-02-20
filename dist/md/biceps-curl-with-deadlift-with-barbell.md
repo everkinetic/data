@@ -1,4 +1,5 @@
 # Dead Lift: Barbell (Biceps Curl)
+
 > This exercise combines a bicep curl with a deadlift.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,erector spinae,ischiocrural muscles
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This is an advanced exercise. This exercise combines a bicep curl with a deadlift.
  - Grasp an EZ Curl or barbell with palms facing up.
@@ -23,8 +26,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0259-relaxation.svg)
+![](./../svg/0259-relaxation.svg "")
 
-![](./../svg/0259-tension.svg)
+![](./../svg/0259-tension.svg "")
+

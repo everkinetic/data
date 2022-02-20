@@ -1,4 +1,5 @@
 # Seated Close Grip Concentration Curls with Barbell
+
 > Concentration exercises limit your range of movement to increase the effectiveness of the movement.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Concentration exercises limit your range of movement to increase the effectiveness of the movement. This version uses a barbell.
  - Sit on the end of a flat bench with your feet flat and your legs spread apart.
@@ -22,8 +25,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0242-relaxation.svg)
+![](./../svg/0242-relaxation.svg "")
 
-![](./../svg/0242-tension.svg)
+![](./../svg/0242-tension.svg "")
+

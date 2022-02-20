@@ -1,4 +1,5 @@
 # Alternating Bicep Curl with Dumbbell
+
 > This exercise is a single arm version of a biceps curl.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Steps
  - Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.
@@ -22,8 +25,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0223-relaxation.svg)
+![](./../svg/0223-relaxation.svg "")
 
-![](./../svg/0223-tension.svg)
+![](./../svg/0223-tension.svg "")
+

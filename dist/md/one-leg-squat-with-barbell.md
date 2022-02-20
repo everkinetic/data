@@ -1,4 +1,5 @@
 # One Leg Squat with Barbell
+
 > The One Leg Squat isolates the muscles of the leg for optimal exercise.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,ischiocrural muscles,glutaeus maximus
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - The One Leg Squat isolates the muscles of the leg for optimal exercise. This exercise is also used to build or rebuild strength after injury.
  - Place a bench or box 12-18 inches tall behind you. The taller the box the greater the difficulty of the exercise.
@@ -24,8 +27,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0147-relaxation.svg)
+![](./../svg/0147-relaxation.svg "")
 
-![](./../svg/0147-tension.svg)
+![](./../svg/0147-tension.svg "")
+

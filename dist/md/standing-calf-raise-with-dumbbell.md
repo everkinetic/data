@@ -1,4 +1,5 @@
 # Standing Calf Raise with Dumbbell
+
 > This version of a Calf Raise uses dumbbells.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Place a block or two free weight plates on the floor.
  - Grasp a dumbbell in each hand and step up so the balls of your feet are on the block.
@@ -20,5 +23,7 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
+
 

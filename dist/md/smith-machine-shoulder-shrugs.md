@@ -1,4 +1,5 @@
 # Shoulder Shrugs: Smith Machine
+
 > This is an exercise for shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: smith machine 
 ``` 
 
+
 ## Steps
+
 
  - Place the barbell at waist height.
  - Stand with your feet shoulder width apart and your abs drawn in.
@@ -20,8 +23,10 @@ equipment: smith machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0041-relaxation.svg)
+![](./../svg/0041-relaxation.svg "")
 
-![](./../svg/0041-tension.svg)
+![](./../svg/0041-tension.svg "")
+

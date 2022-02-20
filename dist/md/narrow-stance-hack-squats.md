@@ -1,4 +1,5 @@
 # Narrow Stance Hack Squats
+
 > Like the Hack Squat, this exercise works the muscles of the leg.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles,gastrocnemius,soleus
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - Like the Hack Squat, this exercise works the muscles of the leg. The narrow stance targets the external muscles more efficiently.
  - Lie face up on a Hack Squat machine with your shoulders against the pad.
@@ -22,8 +25,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0145-relaxation.svg)
+![](./../svg/0145-relaxation.svg "")
 
-![](./../svg/0145-tension.svg)
+![](./../svg/0145-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Hammer Curls with Rope and Cable
+
 > Using the rope with the cable machine allows you isolate the biceps with this version of the Hammer Curl.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Using the rope with the cable machine allows you isolate the biceps with this version of the Hammer Curl. This is a good exercise for beginners.
  - Attach a rope to a cable pulley to the bottom of the weight stack. Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in. Grasp the rope with a close underhand grip (palms facing up). Lower your arms fully to above your thighs and bending only your elbows, raise the rope to your upper chest. Pause for a moment and then return to the starting position.
@@ -18,8 +21,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0216-relaxation.svg)
+![](./../svg/0216-relaxation.svg "")
 
-![](./../svg/0216-tension.svg)
+![](./../svg/0216-tension.svg "")
+

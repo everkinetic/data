@@ -1,4 +1,5 @@
 # Step Ups: Barbell
+
 > This exercise builds coordination as well as muscle.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles,gastrocnemius,soleus
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Place a bench, box or step in front of you.
  - Grasp a barbell with a wide grip and place it across your shoulders.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0134-relaxation.svg)
+![](./../svg/0134-relaxation.svg "")
 
-![](./../svg/0134-tension.svg)
+![](./../svg/0134-tension.svg "")
+

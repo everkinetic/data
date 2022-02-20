@@ -1,4 +1,5 @@
 # Alternating Incline Curl with Dumbbell
+
 > This exercise uses an incline bench to change your body’s position as you perform Biceps Curls.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Adjust an incline bench to a 45 degree angle.
  - Grasp a dumbbell in each hand and sit back on the bench with your feet firmly planted on the floor.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0214-relaxation.svg)
+![](./../svg/0214-relaxation.svg "")
 
-![](./../svg/0214-tension.svg)
+![](./../svg/0214-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Barbell Front Raise and Pullover
+
 > This is an exercise for chest, triceps and shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: barbell, flat bench 
 ``` 
 
+
 ## Steps
+
 
  - Lie on a flat bench and grasp a barbell using a medium grip (about 15” apart).
  - Place the barbell on your upper thighs and lock your arms straight with a slight bend in your elbows.
@@ -19,8 +22,10 @@ equipment: barbell, flat bench
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0058-relaxation.svg)
+![](./../svg/0058-relaxation.svg "")
 
-![](./../svg/0058-tension.svg)
+![](./../svg/0058-tension.svg "")
+

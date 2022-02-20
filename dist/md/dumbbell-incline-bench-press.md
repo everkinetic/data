@@ -1,4 +1,5 @@
 # Bench Press: Dumbbell (Incline)
+
 > This is an advanced exercise for building and sculpting the chest as well as your triceps and shoulders.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: dumbbells, bench: incline 
 ``` 
 
+
 ## Steps
+
 
  - Lie on an incline bench which has been set to an incline of 45 degrees.
  - Start with the dumbbells at shoulder height, your arms wide and elbows pointing down to the floor.
@@ -20,8 +23,10 @@ equipment: dumbbells, bench: incline
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0061-relaxation.svg)
+![](./../svg/0061-relaxation.svg "")
 
-![](./../svg/0061-tension.svg)
+![](./../svg/0061-tension.svg "")
+

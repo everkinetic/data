@@ -1,4 +1,5 @@
 # Triceps Extension: Towel (Standing)
+
 > This exercise requires another person and uses manual resistance, or your body’s own weight to build muscle.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body, towel 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart, your back straight and your abs drawn in.
  - Hold a towel or rope facing up behind and in back of your head.
@@ -20,8 +23,10 @@ equipment: body, towel
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0202-relaxation.svg)
+![](./../svg/0202-relaxation.svg "")
 
-![](./../svg/0202-tension.svg)
+![](./../svg/0202-tension.svg "")
+

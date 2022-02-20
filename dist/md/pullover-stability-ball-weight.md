@@ -1,4 +1,5 @@
 # Pullover On Stability Ball With Weight
+
 > This is an exercise for back, shoulders and neck strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: back,trapezius
 equipment: exercise ball, dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a Barbell or Dumbbell and sit on a Ball with your feet firmly placed on the floor.
  - Lower your body so your upper abs are the only part of your body supported on the Ball.
@@ -21,8 +24,10 @@ equipment: exercise ball, dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0098-relaxation.svg)
+![](./../svg/0098-relaxation.svg "")
 
-![](./../svg/0098-tension.svg)
+![](./../svg/0098-tension.svg "")
+

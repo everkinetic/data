@@ -1,4 +1,5 @@
 # Standing One Arm Curl Over Incline Bench with Dumbbell
+
 > 
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - This exercise is a great alternative to the Preacher Curl.
  - Stand in front of an incline bench so your arm is resting on the top of the angled portion of the bench.
@@ -23,8 +26,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0248-relaxation.svg)
+![](./../svg/0248-relaxation.svg "")
 
-![](./../svg/0248-tension.svg)
+![](./../svg/0248-tension.svg "")
+

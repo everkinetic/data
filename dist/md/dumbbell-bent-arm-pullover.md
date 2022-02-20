@@ -1,4 +1,5 @@
 # Dumbbell Bent Arm Pullover
+
 > This is an exercise for chest, shoulder, lats and biceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid,triceps brachii,latissimus dorsi
 equipment: flat bench, dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie flat on a bench with your head hanging slightly over the end and your feet flat on the floor.
  - Hold a dumbbell with both hands, keep your elbows in throughout the exercise.
@@ -20,8 +23,10 @@ equipment: flat bench, dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0046-relaxation.svg)
+![](./../svg/0046-relaxation.svg "")
 
-![](./../svg/0046-tension.svg)
+![](./../svg/0046-tension.svg "")
+

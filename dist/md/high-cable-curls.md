@@ -1,4 +1,5 @@
 # High Cable Curls
+
 > This exercise allows you to target the muscles of your arms from a different position.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Place a flat bench next to a cable weigh stack.
  - Attach a short bar to the high pulley.
@@ -21,8 +24,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0229-relaxation.svg)
+![](./../svg/0229-relaxation.svg "")
 
-![](./../svg/0229-tension.svg)
+![](./../svg/0229-tension.svg "")
+

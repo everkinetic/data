@@ -1,4 +1,5 @@
 # Smith Machine Hack Squat
+
 > This is another variation of the basic Squat that focuses primarily on the quadriceps, or thigh muscles, while using the Smith Machine.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles,glutaeus maximus
 equipment: smith machine 
 ``` 
 
+
 ## Steps
+
 
  - This is another variation of the basic Squat that focuses primarily on the quadriceps, or thigh muscles, while using the Smith Machine.
  - Adjust the bar to a low setting just above your ankles.
@@ -23,8 +26,10 @@ equipment: smith machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0126-relaxation.svg)
+![](./../svg/0126-relaxation.svg "")
 
-![](./../svg/0126-tension.svg)
+![](./../svg/0126-tension.svg "")
+

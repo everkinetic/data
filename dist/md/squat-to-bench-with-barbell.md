@@ -1,4 +1,5 @@
 # Squats: Barbell (to Bench)
+
 > This variation on a squat uses a bench to remind you how far down to squat.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: glutaeus maximus,gastrocnemius,soleus,ischiocrural muscles
 equipment: barbell, bench 
 ``` 
 
+
 ## Steps
+
 
  - This is s great overall exercise for the lower body. There are many variations on the squat, this one uses a bench to remind you how far down to squat.
  - Place a bench behind you.
@@ -23,8 +26,10 @@ equipment: barbell, bench
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0133-relaxation.svg)
+![](./../svg/0133-relaxation.svg "")
 
-![](./../svg/0133-tension.svg)
+![](./../svg/0133-tension.svg "")
+

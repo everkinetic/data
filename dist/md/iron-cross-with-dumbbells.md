@@ -1,4 +1,5 @@
 # Iron Cross: Dumbbell
+
 > This is an advanced exercise that works the whole body.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: trapezius,glutaeus maximus,deltoid,erector spinae,ischiocrural muscle
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - With a dumbbell in each hand, stand in a low squat stance, your feet shoulder width arms held out in front of you with your palms facing in.
  - Standing upright, move your arms out and away from your body forming a “T” or “cross”.
@@ -18,8 +21,10 @@ equipment: dumbbells
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0140-relaxation.svg)
+![](./../svg/0140-relaxation.svg "")
 
-![](./../svg/0140-tension.svg)
+![](./../svg/0140-tension.svg "")
+

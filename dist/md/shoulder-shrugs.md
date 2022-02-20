@@ -1,4 +1,5 @@
 # Shoulder Shrugs: Dumbbell
+
 > An exercise for trapezius strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart and a slight bend in your knees.
  - Hold a dumbbell in each hand and with your arms at your sides.
@@ -19,10 +22,12 @@ equipment: dumbbell
 
 ## Tips
 
+
  - Do not do this exercise if you are experiencing any shoulder or neck pain.
 
 ## Images
 
-![](./../svg/0005-relaxation.svg)
+![](./../svg/0005-relaxation.svg "")
 
-![](./../svg/0005-tension.svg)
+![](./../svg/0005-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Upright Band Rows
+
 > This is an exercise for lats, triceps and shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: body, exercise band 
 ``` 
 
+
 ## Steps
+
 
  - Stand on the band so that the handles are level with your upper thigh.
  - With your back straight and abs drawn in raise your hands upward to your collarbone.
@@ -19,8 +22,10 @@ equipment: body, exercise band
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0094-relaxation.svg)
+![](./../svg/0094-relaxation.svg "")
 
-![](./../svg/0094-tension.svg)
+![](./../svg/0094-tension.svg "")
+

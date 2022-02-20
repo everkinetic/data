@@ -1,4 +1,5 @@
 # Overhead Curl with Cable
+
 > By using cable, this exercise isolates and defines the biceps muscles.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - By using cable this exercise isolates and defines the biceps (arm) muscles.
  - Attach a stirrup handle to each side of a high pulley on a cable machine.
@@ -22,8 +25,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0238-relaxation.svg)
+![](./../svg/0238-relaxation.svg "")
 
-![](./../svg/0238-tension.svg)
+![](./../svg/0238-tension.svg "")
+

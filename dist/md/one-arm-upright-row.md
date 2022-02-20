@@ -1,4 +1,5 @@
 # Upright Row: Dumbbell (One Arm)
+
 > This is an exercise for shoulder and trapezius strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: trapezius
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand near a post or other stable tall object. With your one hand, hold the post.
  - Grasp the dumbbell in your other hand with a pronated grip (palms facing backwards).
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0039-relaxation.svg)
+![](./../svg/0039-relaxation.svg "")
 
-![](./../svg/0039-tension.svg)
+![](./../svg/0039-tension.svg "")
+

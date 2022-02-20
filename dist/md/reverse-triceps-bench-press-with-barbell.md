@@ -1,4 +1,5 @@
 # Bench Press: Barbell (Reverse Triceps)
+
 > This exercise is a version of the Bench Press that specifically isolates the triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: pectoralis major
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie on a flat bench with your head at one end and your feet placed firmly on the floor.
  - Grasp a barbell with palms facing your head about 16 inches apart.
@@ -19,8 +22,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0190-relaxation.svg)
+![](./../svg/0190-relaxation.svg "")
 
-![](./../svg/0190-tension.svg)
+![](./../svg/0190-tension.svg "")
+

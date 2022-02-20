@@ -1,4 +1,5 @@
 # Rocking Standing Calf Raise with Barbell
+
 > This exercise uses a simple rocking motion to strengthen the calves.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with a bar across your shoulders.
  - With your feet flat on the floor, lift your feet up and forward as if you are performing a calf raise.
@@ -20,8 +23,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0278-relaxation.svg)
+![](./../svg/0278-relaxation.svg "")
 
-![](./../svg/0278-tension.svg)
+![](./../svg/0278-tension.svg "")
+

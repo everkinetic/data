@@ -1,4 +1,5 @@
 # Calves Press on Leg Machine
+
 > This exercise uses a Leg Press Machine to work your calves.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - This exercise uses a Leg Press Machine to work your calves. You can perform this exercise along with Leg Presses.
  - Sit down on a Leg Press Machine and press the plate up as if you were performing a leg press.
@@ -21,8 +24,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0273-relaxation.svg)
+![](./../svg/0273-relaxation.svg "")
 
-![](./../svg/0273-tension.svg)
+![](./../svg/0273-tension.svg "")
+

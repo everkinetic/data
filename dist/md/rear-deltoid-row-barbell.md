@@ -1,4 +1,5 @@
 # Rear Deltoid Row Barbell
+
 > This is an exercise for shoulder and biceps strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Place a barbell on the floor in front of you with the resided weights attached.
  - With your knees bent and back straight grasp the bar with a wide overhand grip (palms facing downwards).
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0028-relaxation.svg)
+![](./../svg/0028-relaxation.svg "")
 
-![](./../svg/0028-tension.svg)
+![](./../svg/0028-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Triceps Pushdown: Cable (Rope)
+
 > This version of the triceps pushdown uses a rope for better definition in the muscle.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Stand in front of a cable machine and attach a rope to a high pulley.
  - Grasp the rope with palms facing down.
@@ -21,8 +24,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0206-relaxation.svg)
+![](./../svg/0206-relaxation.svg "")
 
-![](./../svg/0206-tension.svg)
+![](./../svg/0206-tension.svg "")
+

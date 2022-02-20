@@ -1,4 +1,5 @@
 # Static Neck Flexion and Extension
+
 > An exercise to either build or warm-up front and back neck strength.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - An exercise to either build or warm-up front and back neck muscles.
  - Stand or sit with your head in neutral position.
@@ -21,8 +24,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0001-relaxation.svg)
+![](./../svg/0001-relaxation.svg "")
 
-![](./../svg/0001-tension.svg)
+![](./../svg/0001-tension.svg "")
+

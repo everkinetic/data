@@ -1,4 +1,5 @@
 # Weighted Ball Side Bend
+
 > This exercise use a Stability Ball instead of a bench to work the obliques.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: weight, exercise ball 
 ``` 
 
+
 ## Steps
+
 
  - This exercise use a Stability Ball instead of a bench. The Stability Ball conforms better to your body and allows for correct anatomical range of movement.
  - Lie one side of your torso, and with your waist and hip against a Stability Ball, position your feet on the floor (or against a wall) for support.
@@ -21,8 +24,10 @@ equipment: weight, exercise ball
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0208-relaxation.svg)
+![](./../svg/0208-relaxation.svg "")
 
-![](./../svg/0208-tension.svg)
+![](./../svg/0208-tension.svg "")
+

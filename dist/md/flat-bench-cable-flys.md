@@ -1,4 +1,5 @@
 # Flat Bench Cable Flys
+
 > This is an exercise for chest and shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid
 equipment: flat bench, cable 
 ``` 
 
+
 ## Steps
+
 
  - <h3> Steps</h3>
  - Lie on flat bench between two cable towers and your feet firmly on the ground.
@@ -22,8 +25,10 @@ equipment: flat bench, cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0057-relaxation.svg)
+![](./../svg/0057-relaxation.svg "")
 
-![](./../svg/0057-tension.svg)
+![](./../svg/0057-tension.svg "")
+

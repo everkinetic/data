@@ -1,4 +1,5 @@
 # Biceps Curl: Stability Ball with Dumbbell (Overhead Extension)
+
 > This exercise requires you to be able to balance kneeling on a stability ball before you can correctly perform this exercise
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm,should
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - This is an advanced exercise. This exercise requires you to be able to balance kneeling on a stability ball before you can correctly perform this exercise.
  - Grasp a dumbbell in each hand with palms facing up.
@@ -22,8 +25,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0260-relaxation.svg)
+![](./../svg/0260-relaxation.svg "")
 
-![](./../svg/0260-tension.svg)
+![](./../svg/0260-tension.svg "")
+

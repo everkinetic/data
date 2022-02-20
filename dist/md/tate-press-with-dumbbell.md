@@ -1,4 +1,5 @@
 # Tate Press with Dumbbell
+
 > This is an advanced triceps exercise which moves the muscle differently than other exercises.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Lay flat on a bench with your head at one end and your feet firmly planted on the floor.
  - Hold a dumbbell in each hand so your palms are facing your feet.
@@ -19,8 +22,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0203-relaxation.svg)
+![](./../svg/0203-relaxation.svg "")
 
-![](./../svg/0203-tension.svg)
+![](./../svg/0203-tension.svg "")
+

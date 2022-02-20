@@ -1,4 +1,5 @@
 # Triceps Extension: Cable (Kneeling)
+
 > Kneeling allows you to isolate your triceps more effectively.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Place a bench sideways in front of a high pulley machine.
  - Grasp a straight bar with an over head grip.
@@ -20,8 +23,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0177-relaxation.svg)
+![](./../svg/0177-relaxation.svg "")
 
-![](./../svg/0177-tension.svg)
+![](./../svg/0177-tension.svg "")
+

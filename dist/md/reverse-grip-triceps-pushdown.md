@@ -1,4 +1,5 @@
 # Reverse Grip Triceps Pushdown
+
 > This exercise is the reverse version of the triceps pushdown.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Stand in front of a cable machine and attach a bar to a high pulley.
  - Grasp the handle with palms facing up.
@@ -20,8 +23,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0189-relaxation.svg)
+![](./../svg/0189-relaxation.svg "")
 
-![](./../svg/0189-tension.svg)
+![](./../svg/0189-tension.svg "")
+

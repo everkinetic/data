@@ -1,4 +1,5 @@
 # Bench Press: Smith Machine
+
 > With the use of a Smith Machine this exercise strengthens your chest shoulders and triceps.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid,triceps brachii
 equipment: flat bench, smith machine 
 ``` 
 
+
 ## Steps
+
 
  - Place a flat bench in the middle of the Smith Machine, with the bar in line with the middle of your chest.
  - Lying on the bench, grasp the bar at shoulder width apart.
@@ -19,10 +22,12 @@ equipment: flat bench, smith machine
 
 ## Tips
 
+
  - Ensure your hips and back remain in contact with the bench throughout this exercise.
 
 ## Images
 
-![](./../svg/0078-relaxation.svg)
+![](./../svg/0078-relaxation.svg "")
 
-![](./../svg/0078-tension.svg)
+![](./../svg/0078-tension.svg "")
+

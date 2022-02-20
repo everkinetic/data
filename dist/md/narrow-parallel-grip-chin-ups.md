@@ -1,4 +1,5 @@
 # Narrow Parallel Grip Chin-ups
+
 > This is an exercise similar to the regular Chin Up but focuses more on shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: back,core
 equipment: bar, body 
 ``` 
 
+
 ## Steps
+
 
  - Grasp the bar with an supinated (overhand) grip so that your palms are facing.
  - Let your body hang from the bar with your arms straight.
@@ -19,10 +22,12 @@ equipment: bar, body
 
 ## Tips
 
+
  - Ensure that your body remains in one line throughout this exercise.
 
 ## Images
 
-![](./../svg/0090-relaxation.svg)
+![](./../svg/0090-relaxation.svg "")
 
-![](./../svg/0090-tension.svg)
+![](./../svg/0090-tension.svg "")
+

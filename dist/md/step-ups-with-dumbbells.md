@@ -1,4 +1,5 @@
 # Step Ups: Dumbbell
+
 > This exercise builds coordination as well as muscle.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: gastrocnemius,soleus,ischiocrural muscles
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - Place a bench, box or step in front of you.
  - Grasp a dumbbell in each hand.
@@ -21,8 +24,10 @@ equipment: dumbbells
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0137-relaxation.svg)
+![](./../svg/0137-relaxation.svg "")
 
-![](./../svg/0137-tension.svg)
+![](./../svg/0137-tension.svg "")
+

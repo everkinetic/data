@@ -1,4 +1,5 @@
 # Ab Rollout on Knees with Barbell
+
 > This exercise works the abs and lower back and is the proper version of an “ab roller”.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: erector spinae,deltoid
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This exercise works the abs and lower back and is the proper version of an “ab roller”. This version is performed on your knees.
  - Place a barbell on the floor in front of you.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0286-relaxation.svg)
+![](./../svg/0286-relaxation.svg "")
 
-![](./../svg/0286-tension.svg)
+![](./../svg/0286-tension.svg "")
+

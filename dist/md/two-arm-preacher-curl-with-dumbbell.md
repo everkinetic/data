@@ -1,4 +1,5 @@
 # Preacher Curl: Dumbbell (Two Arm)
+
 > This version of a Preacher Curl uses a special bench and dumbbells.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms. This version of the exercise uses dumbbells.
  - Adjust the seat of the bench so your arms are level with the top of the bench.
@@ -22,8 +25,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0249-relaxation.svg)
+![](./../svg/0249-relaxation.svg "")
 
-![](./../svg/0249-tension.svg)
+![](./../svg/0249-tension.svg "")
+

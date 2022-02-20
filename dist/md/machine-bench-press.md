@@ -1,4 +1,5 @@
 # Bench Press: Machine
+
 > This is an exercise for chest, biceps and shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: machine: bench press 
 ``` 
 
+
 ## Steps
+
 
  - Adjust the machine so that you are sitting with the bars at chest height.
  - Place your hands on the bars and place your feet on the foot rest.
@@ -19,8 +22,10 @@ equipment: machine: bench press
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0066-relaxation.svg)
+![](./../svg/0066-relaxation.svg "")
 
-![](./../svg/0066-tension.svg)
+![](./../svg/0066-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Front Squat to Bench with Barbells
+
 > The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles,gastrocnemius,soleus
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders. This exercise can be a good substitute for people with back and neck injuries. By using a bench you remind yourself how far to squat down
  - Steps
@@ -23,8 +26,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0139-relaxation.svg)
+![](./../svg/0139-relaxation.svg "")
 
-![](./../svg/0139-tension.svg)
+![](./../svg/0139-tension.svg "")
+

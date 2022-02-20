@@ -1,4 +1,5 @@
 # Bent Knee Hip Raise
+
 > This is a good exercise core muscle development.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - Lie on your back with your arms outstretched to your sides.
  - Bend your knees at a 60 degree angle and hold your feet up just off the floor.
@@ -19,8 +22,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0287-relaxation.svg)
+![](./../svg/0287-relaxation.svg "")
 
-![](./../svg/0287-tension.svg)
+![](./../svg/0287-tension.svg "")
+

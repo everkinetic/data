@@ -1,4 +1,5 @@
 # Bench Press: Barbell (Decline)
+
 > This is an exercise for chest, triceps and shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: bench: decline, barbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie on a decline bench with your head lower than your feet.
  - Grasp the bar at a grip 3-6 inches wider than your shoulders.
@@ -21,8 +24,10 @@ equipment: bench: decline, barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0051-relaxation.svg)
+![](./../svg/0051-relaxation.svg "")
 
-![](./../svg/0051-tension.svg)
+![](./../svg/0051-tension.svg "")
+

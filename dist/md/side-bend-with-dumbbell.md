@@ -1,4 +1,5 @@
 # Side Bend with Dumbbell
+
 > This exercise works the obliques, the muscles on the sides of your abs.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.
  - Grasp a dumbbell in one hand and standing straight upright, bend at the waist as far as possible to one side.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0294-relaxation.svg)
+![](./../svg/0294-relaxation.svg "")
 
-![](./../svg/0294-tension.svg)
+![](./../svg/0294-tension.svg "")
+

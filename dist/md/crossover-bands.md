@@ -1,4 +1,5 @@
 # Crossover with Bands
+
 > This is an exercise for chest, biceps and shoulder strengthening
 
 ``` 
@@ -9,7 +10,9 @@ secondary: deltoid,biceps brachii
 equipment: exercise band 
 ``` 
 
+
 ## Steps
+
 
  - This is an exercise for chest, biceps and shoulder strengthening.
  - Secure an exercise to a post (or secure pole) and hold it in each hand.
@@ -20,10 +23,12 @@ equipment: exercise band
 
 ## Tips
 
+
  - Keep your arms straight with a slight bend in your elbows throughout this exercise.
 
 ## Images
 
-![](./../svg/0050-relaxation.svg)
+![](./../svg/0050-relaxation.svg "")
 
-![](./../svg/0050-tension.svg)
+![](./../svg/0050-tension.svg "")
+

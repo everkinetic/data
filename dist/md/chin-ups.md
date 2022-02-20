@@ -1,4 +1,5 @@
 # Chin Ups
+
 > This is an extremely good exercise for upper arm and middle back strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii
 equipment: body, bar 
 ``` 
 
+
 ## Steps
+
 
  - Grasp the bar with an supinated (overhand) grip.
  - Let your body hang from the bar with your arms straight.
@@ -18,7 +21,9 @@ equipment: body, bar
 
 ## Tips
 
+
  - Ensure to contract your back and core muscles throughout this exercise to prevent injury and to maximise the effectiveness of the exercise.
 
 ## Images
+
 

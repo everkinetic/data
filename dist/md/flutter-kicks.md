@@ -1,4 +1,5 @@
 # Flutter Kicks
+
 > This is an exercise for quadriceps and hamstring strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: quadriceps
 equipment: flat bench 
 ``` 
 
+
 ## Steps
+
 
  - Lie face down on a bench with your hips on the edge, hold onto the bench with your hands.
  - Allow your legs and toes hang down.
@@ -20,8 +23,10 @@ equipment: flat bench
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0116-relaxation.svg)
+![](./../svg/0116-relaxation.svg "")
 
-![](./../svg/0116-tension.svg)
+![](./../svg/0116-tension.svg "")
+

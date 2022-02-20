@@ -1,4 +1,5 @@
 # Biceps Curl: Machine
+
 > This exercise uses a machine to insure proper form.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: forearm
 equipment: machine 
 ``` 
 
+
 ## Steps
+
 
  - Adjust the seat of the machine so your elbows are correctly aligned with the rotation axis.
  - Press your arms against the pads and keep them stationary throughout the exercise.
@@ -19,8 +22,10 @@ equipment: machine
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0253-relaxation.svg)
+![](./../svg/0253-relaxation.svg "")
 
-![](./../svg/0253-tension.svg)
+![](./../svg/0253-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Biceps Curl: Squat with Dumbbell
+
 > This exercise combines a squat with a curl to effectively work the entire body.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles,glutaeus maximus
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - This exercise combines a squat with a curl to effectively work the entire body. This is an advanced exercise.
  - Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.
@@ -21,8 +24,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0256-relaxation.svg)
+![](./../svg/0256-relaxation.svg "")
 
-![](./../svg/0256-tension.svg)
+![](./../svg/0256-tension.svg "")
+

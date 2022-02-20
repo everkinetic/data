@@ -1,4 +1,5 @@
 # Chest Dips
+
 > This is an exercise for chest, triceps and shoulder strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: triceps brachii,deltoid
 equipment: body, parallel bars 
 ``` 
 
+
 ## Steps
+
 
  - Stand in between the parallel bars.
  - Grip the handles of the parallel bars and push yourself up to the starting position with straightened arms.
@@ -19,10 +22,12 @@ equipment: body, parallel bars
 
 ## Tips
 
+
  - Ensure not to lock your elbows once you have raised yourself up.
 
 ## Images
 
-![](./../svg/0054-relaxation.svg)
+![](./../svg/0054-relaxation.svg "")
 
-![](./../svg/0054-tension.svg)
+![](./../svg/0054-tension.svg "")
+

@@ -1,4 +1,5 @@
 # Dead Lift: Barbell (One Arm Side)
+
 > This is an advanced exercise that works most of the muscles of the body.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: abdominals,glutaeus maximus,gastrocnemius,soleus,ischiocrural muscles
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This is an advanced exercise that works most of the muscles of the body. Exercises like this are used to develop functional strength for sports that require strong hands.
  - Stand besides a barbell placed on the floor.
@@ -21,8 +24,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0150-relaxation.svg)
+![](./../svg/0150-relaxation.svg "")
 
-![](./../svg/0150-tension.svg)
+![](./../svg/0150-tension.svg "")
+

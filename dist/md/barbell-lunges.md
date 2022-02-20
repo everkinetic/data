@@ -1,4 +1,5 @@
 # Lunges: Barbell
+
 > This is a classic exercise used for strengthening the hamstrings, quadriceps, calves and gluts.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: glutaeus maximus,quadriceps,gastrocnemius,soleus
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - Start by placing a barbell across your upper back, using a grip slightly wider than your shoulders.
  - Stand with your feet about 8 inches apart, toes facing forward.
@@ -20,10 +23,12 @@ equipment: barbell
 
 ## Tips
 
+
  - Your front knee should never go past the toes of that foot and should remain at a 90 degree angle in order, to prevent knee injury.
 
 ## Images
 
-![](./../svg/0114-relaxation.svg)
+![](./../svg/0114-relaxation.svg "")
 
-![](./../svg/0114-tension.svg)
+![](./../svg/0114-tension.svg "")
+

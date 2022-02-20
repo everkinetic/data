@@ -1,4 +1,5 @@
 # Biceps Curl: Stability Ball with Dumbbell (leg raised)
+
 > This exercise incorporates balance along with a bicep curl.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles,forearm,quadriceps,gastrocnemius,soleus
 equipment: dumbbell, stability Ball 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a dumbbell in each hand with a palms up grip.
  - Place the top of one foot behind you on a Stability Ball (see illustration) as if you were stretching your leg.
@@ -21,8 +24,10 @@ equipment: dumbbell, stability Ball
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0263-relaxation.svg)
+![](./../svg/0263-relaxation.svg "")
 
-![](./../svg/0263-tension.svg)
+![](./../svg/0263-tension.svg "")
+

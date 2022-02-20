@@ -1,4 +1,5 @@
 # Jefferson Squats: Barbell
+
 > This exercise builds and shapes the inner thighs.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: barbell 
 ``` 
 
+
 ## Steps
+
 
  - This is a rarely used exercise which is without question one of the best exercises for building and shaping the inner thighs.
  - Place a barbell between your legs so it is perpendicular to your feet.
@@ -20,8 +23,10 @@ equipment: barbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0141-relaxation.svg)
+![](./../svg/0141-relaxation.svg "")
 
-![](./../svg/0141-tension.svg)
+![](./../svg/0141-tension.svg "")
+

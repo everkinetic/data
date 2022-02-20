@@ -1,4 +1,5 @@
 # Side Plank
+
 > This is an exercise for core strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: body 
 ``` 
 
+
 ## Steps
+
 
  - Lay on one side of your body with your legs straight and your forearm perpendicular to your body in front of you.
  - Drawing your abs in, slowly raise yourself up so you are balanced on your feet and your forearm.
@@ -19,8 +22,10 @@ equipment: body
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0113-relaxation.svg)
+![](./../svg/0113-relaxation.svg "")
 
-![](./../svg/0113-tension.svg)
+![](./../svg/0113-tension.svg "")
+

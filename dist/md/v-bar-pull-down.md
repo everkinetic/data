@@ -1,4 +1,5 @@
 # Pull Down: V Bar 
+
 > This is an exercise for lats, biceps and middle back strengthening.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: biceps brachii
 equipment: cable 
 ``` 
 
+
 ## Steps
+
 
  - Attach a V bar to the pull down pulley of a cable machine.
  - Sitting upright with your abs drawn grasp the bar with an overhand grip, your palms facing in.
@@ -20,8 +23,10 @@ equipment: cable
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0096-relaxation.svg)
+![](./../svg/0096-relaxation.svg "")
 
-![](./../svg/0096-tension.svg)
+![](./../svg/0096-tension.svg "")
+

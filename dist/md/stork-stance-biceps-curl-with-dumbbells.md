@@ -1,4 +1,5 @@
 # Stork Stance Bicep Curl with Dumbbells
+
 > This is an advanced exercise that requires excellent coordination and balance.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: quadriceps,ischiocrural muscles,glutaeus maximus,gastrocnemius,soleus
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Grasp a pair of dumbbells in each hand, palms facing up.
  - Standing on one foot, extend your other foot back (see illustration) and extend your arms down so they are handing in front of your leg.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0268-relaxation.svg)
+![](./../svg/0268-relaxation.svg "")
 
-![](./../svg/0268-tension.svg)
+![](./../svg/0268-tension.svg "")
+

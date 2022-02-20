@@ -1,4 +1,5 @@
 # Squats: Dumbbells
+
 > This is a great overall exercise for the lower body that uses dumbbells.
 
 ``` 
@@ -9,7 +10,9 @@ secondary: ischiocrural muscles,gastrocnemius,soleus
 equipment: dumbbells 
 ``` 
 
+
 ## Steps
+
 
  - This is a great overall exercise for the lower body that uses dumbbells instead of a barbell. Beginners may find this version easier to perform.
  - Grasp a dumbbell in each hand.
@@ -22,8 +25,10 @@ equipment: dumbbells
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0130-relaxation.svg)
+![](./../svg/0130-relaxation.svg "")
 
-![](./../svg/0130-tension.svg)
+![](./../svg/0130-tension.svg "")
+

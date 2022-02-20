@@ -1,4 +1,5 @@
 # Triceps Extension: Dumbbell (Single Arm, Supinated)
+
 > This exercise is similar to the Single Arm Pronated Triceps Extension except the movement is over the head instead of across the chest.
 
 ``` 
@@ -9,7 +10,9 @@ secondary:
 equipment: dumbbell 
 ``` 
 
+
 ## Steps
+
 
  - Lie flat in a bench with your head at one end and your feet placed firmly on the floor.
  - Grasp a dumbbell in one hand and raise it to a position above your chest, with your palm facing the floor.
@@ -20,8 +23,10 @@ equipment: dumbbell
 ## Tips
 
 
+
 ## Images
 
-![](./../svg/0187-relaxation.svg)
+![](./../svg/0187-relaxation.svg "")
 
-![](./../svg/0187-tension.svg)
+![](./../svg/0187-tension.svg "")
+
