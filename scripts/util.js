@@ -59,8 +59,7 @@ module.exports = util = {
             { linebreak: '' },
             { h2: 'Images' },
             { linebreak: '' },
-            { svg: data }
-            //{ img: _.map(data.svg, function (img) { return { source: '../' + img } }) }
+            { img: _.map(data.svg, function (img) { return { source: './../' + img } }) }
         );
         return json2md(content);
     },

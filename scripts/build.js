@@ -17,7 +17,7 @@ var png = base + '/png';
 var svg = base + '/svg';
 var md = base + '/md';
 
-// ensure existance
+// ensure existence
 if (fs.existsSync(base)) fsextra.removeSync(base);
 if (!fs.existsSync(base)) fs.mkdirSync(base);
 if (!fs.existsSync(png)) fs.mkdirSync(png);
