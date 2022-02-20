@@ -1,7 +1,7 @@
 language: node_js
 sudo: false
 node_js:
- - "5.1"
+ - "16.9.0"
 cache:
   yarn: true
   directories:
@@ -9,4 +9,4 @@ cache:
 install:
   - yarn
 script:
-- npm test
+- yarn test
